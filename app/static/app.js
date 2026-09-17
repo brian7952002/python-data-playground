@@ -12,6 +12,7 @@ const state = {
   activeLab: null,
   datasets: [],
   activeDataset: null,
+  savedSource: "",  // last known on-disk source, for dirty-checking and Revert
 };
 
 const $ = (id) => document.getElementById(id);
@@ -106,7 +107,7 @@ async function openLab(labId) {
   $("lab-demo-fn").textContent = `${lab.worked_example}()`;
   $("lab-exercise-fn").textContent = `${lab.exercise}()`;
 
-  $("pane-source").textContent = "Loading…";
+  $("pane-source").value = "Loading…";
   $("pane-tests").textContent = "";
 
   const cached = state.results[labId];
@@ -114,10 +115,110 @@ async function openLab(labId) {
 
   try {
     const payload = await api(`/api/labs/${labId}/source`);
-    $("pane-source").textContent = payload.source;
+    $("pane-source").value = payload.source;
     $("pane-tests").textContent = payload.tests;
+    $("editor-path").textContent = payload.module_path;
+    state.savedSource = payload.source;
+    setSaveState("", "");
   } catch (error) {
-    $("pane-source").textContent = `Could not load source: ${error.message}`;
+    $("pane-source").value = `Could not load source: ${error.message}`;
+  }
+}
+
+/* ----------------------------------------------------------------- editing */
+
+function setSaveState(text, kind) {
+  const element = $("save-state");
+  element.textContent = text;
+  element.className = `save-state ${kind}`;
+}
+
+function markDirty() {
+  const dirty = $("pane-source").value !== state.savedSource;
+  setSaveState(dirty ? "unsaved changes" : "", dirty ? "dirty" : "");
+}
+
+async function saveAndRun() {
+  const labId = state.activeLab;
+  if (!labId) return;
+
+  const source = $("pane-source").value;
+  const button = $("save-source");
+  const hint = $("editor-hint");
+
+  button.disabled = true;
+  setSaveState("saving…", "");
+
+  try {
+    const result = await api(`/api/labs/${labId}/source`, {
+      method: "PUT",
+      body: JSON.stringify({ source }),
+    });
+    state.savedSource = source;
+
+    if (result.syntax_error) {
+      // The file was still written -- half-finished code is a normal state.
+      // But running the tests now would only produce a collection error, so
+      // point at the line instead and stop here.
+      const { message, line, text } = result.syntax_error;
+      $("pane-source").classList.add("has-error");
+      hint.classList.add("syntax-error");
+      hint.innerHTML = `Saved, but Python cannot parse it — line ${line}: ${escapeHtml(message)}`
+        + (text ? `<br><code>${escapeHtml(text)}</code>` : "");
+      setSaveState("syntax error", "bad");
+      return;
+    }
+
+    $("pane-source").classList.remove("has-error");
+    hint.classList.remove("syntax-error");
+    hint.innerHTML = `Editing <code>${escapeHtml(result.path)}</code> — `
+      + `Ctrl/Cmd + S to save and run. Tab inserts four spaces. `
+      + `Your safety net is git: <code>git checkout labs/</code> undoes everything.`;
+    setSaveState("saved", "ok");
+
+    await runLab(labId, null);
+  } catch (error) {
+    setSaveState(`save failed: ${error.message}`, "bad");
+  } finally {
+    button.disabled = false;
+  }
+}
+
+function handleEditorKeys(event) {
+  const editor = $("pane-source");
+
+  // Ctrl/Cmd + S saves, instead of offering to download the page.
+  if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "s") {
+    event.preventDefault();
+    saveAndRun();
+    return;
+  }
+
+  // Tab inserts four spaces rather than moving focus to the next control.
+  // In a Python editor this is not a nicety -- indentation is syntax, and a
+  // textarea that cannot indent is a textarea you cannot write Python in.
+  if (event.key === "Tab") {
+    event.preventDefault();
+    const { selectionStart, selectionEnd, value } = editor;
+    editor.value = `${value.slice(0, selectionStart)}    ${value.slice(selectionEnd)}`;
+    editor.selectionStart = editor.selectionEnd = selectionStart + 4;
+    markDirty();
+    return;
+  }
+
+  // Enter keeps the current line's indentation, so you are not re-typing four
+  // spaces on every line of a function body.
+  if (event.key === "Enter") {
+    const { selectionStart, value } = editor;
+    const lineStart = value.lastIndexOf("\n", selectionStart - 1) + 1;
+    const indent = (value.slice(lineStart, selectionStart).match(/^[ \t]*/) || [""])[0];
+    if (indent.length === 0) return;   // nothing to carry; let the browser handle it
+
+    event.preventDefault();
+    const insertion = `\n${indent}`;
+    editor.value = value.slice(0, selectionStart) + insertion + value.slice(editor.selectionEnd);
+    editor.selectionStart = editor.selectionEnd = selectionStart + insertion.length;
+    markDirty();
   }
 }
 
@@ -330,9 +431,30 @@ async function init() {
     tab.addEventListener("click", () => {
       document.querySelectorAll(".tab").forEach((t) => t.classList.remove("active"));
       tab.classList.add("active");
-      $("pane-source").hidden = tab.dataset.tab !== "source";
-      $("pane-tests").hidden = tab.dataset.tab !== "tests";
+      const showingSource = tab.dataset.tab === "source";
+      $("pane-source").hidden = !showingSource;
+      $("editor-hint").hidden = !showingSource;
+      $("editor-actions").hidden = !showingSource;
+      $("pane-tests").hidden = showingSource;
     });
+  });
+
+  $("pane-source").addEventListener("input", markDirty);
+  $("pane-source").addEventListener("keydown", handleEditorKeys);
+  $("save-source").addEventListener("click", saveAndRun);
+  $("revert-source").addEventListener("click", () => {
+    $("pane-source").value = state.savedSource;
+    $("pane-source").classList.remove("has-error");
+    markDirty();
+  });
+
+  // Losing an hour of work to a stray Cmd+W is a bad first impression for a
+  // tool that is meant to make learning less frustrating.
+  window.addEventListener("beforeunload", (event) => {
+    if (state.activeLab && $("pane-source").value !== state.savedSource) {
+      event.preventDefault();
+      event.returnValue = "";
+    }
   });
 
   $("scratch-code").value = SCRATCH_EXAMPLE;

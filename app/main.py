@@ -106,6 +106,62 @@ def lab_source(lab_id: str) -> dict:
     }
 
 
+class SourceUpdate(BaseModel):
+    """A new version of a lab module, sent from the browser editor."""
+
+    source: str = Field(max_length=500_000)
+
+
+@app.put("/api/labs/{lab_id}/source", tags=["labs"])
+def save_lab_source(lab_id: str, update: SourceUpdate) -> dict:
+    """Overwrite a lab module with edited source.
+
+    Only the eight modules in the registry can be written, and only those --
+    `lab_id` is looked up in LABS_BY_ID rather than turned into a path, so
+    there is no filename here for a caller to manipulate.
+
+    Note what is NOT editable: the test files. That is deliberate. The tests
+    are the specification, and an exercise you can edit the grader for is not
+    an exercise. If you think a test is wrong, say so -- but fix it in your
+    editor with intent, not by accident at 1am.
+
+    Your safety net is git. `git diff labs/` shows everything you have
+    changed, and `git checkout labs/lab01_loading.py` puts a file back the
+    way it shipped.
+    """
+    lab = LABS_BY_ID.get(lab_id)
+    if lab is None:
+        raise HTTPException(status_code=404, detail=f"No lab {lab_id!r}")
+
+    module_path = REPO_ROOT / (lab.module.replace(".", "/") + ".py")
+
+    # Compile before writing so we can hand back a precise location. We still
+    # save a file that does not compile -- half-finished code is a normal
+    # state to be in, and a tool that refuses to save it is a tool that loses
+    # your work. Report the problem; do not withhold the save.
+    syntax_error = None
+    try:
+        compile(update.source, str(module_path), "exec")
+    except SyntaxError as exc:
+        syntax_error = {
+            "message": exc.msg,
+            "line": exc.lineno,
+            "offset": exc.offset,
+            "text": (exc.text or "").rstrip(),
+        }
+
+    # newline="\n" keeps the file LF on Windows, matching .gitattributes --
+    # otherwise every browser save would show up as a whole-file diff.
+    module_path.write_text(update.source, encoding="utf-8", newline="\n")
+
+    return {
+        "saved": True,
+        "path": str(module_path.relative_to(REPO_ROOT)).replace("\\", "/"),
+        "bytes": len(update.source.encode("utf-8")),
+        "syntax_error": syntax_error,
+    }
+
+
 @app.post("/api/labs/{lab_id}/run", tags=["labs"])
 def run_lab(lab_id: str) -> dict:
     """Run a lab's pytest suite and return a structured result."""
@@ -267,6 +323,24 @@ def run_scratch(snippet: Snippet) -> dict:
 #
 # Mounted last so that the /api routes above win when paths could overlap.
 # ---------------------------------------------------------------------------
+
+@app.middleware("http")
+async def no_cache_static(request, call_next):
+    """Stop the browser caching the front end.
+
+    Without this, editing app/static/app.js and reloading can serve you the
+    previous version from cache -- your change is on disk, the page does not
+    have it, and you spend twenty minutes debugging code that is not running.
+
+    A real deployment wants the opposite (long cache lifetimes plus hashed
+    filenames), but this is a local tool you are actively editing, and
+    correctness beats a few milliseconds here.
+    """
+    response = await call_next(request)
+    if request.url.path.startswith("/static") or request.url.path == "/":
+        response.headers["Cache-Control"] = "no-store, must-revalidate"
+    return response
+
 
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 

@@ -78,9 +78,20 @@
 
       <div class="tabs">
         <button class="tab active" data-tab="source">Lab source</button>
-        <button class="tab" data-tab="tests">Test suite</button>
+        <button class="tab" data-tab="tests">Test suite <span class="ro">read-only</span></button>
+        <div class="editor-actions" id="editor-actions">
+          <span class="save-state" id="save-state"></span>
+          <button class="btn btn-ghost btn-sm" id="revert-source">Revert</button>
+          <button class="btn btn-primary btn-sm" id="save-source">Save &amp; run</button>
+        </div>
       </div>
-      <pre class="code-pane" id="pane-source"></pre>
+      <textarea class="code-pane editor" id="pane-source" spellcheck="false"
+                autocomplete="off" autocapitalize="off" wrap="off"></textarea>
+      <p class="editor-hint" id="editor-hint">
+        Editing <code id="editor-path"></code> — Ctrl/Cmd + S to save and run.
+        Tab inserts four spaces. Your safety net is git:
+        <code>git checkout labs/</code> undoes everything.
+      </p>
       <pre class="code-pane" id="pane-tests" hidden></pre>
     </article>
 

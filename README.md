@@ -73,10 +73,32 @@ pytest tests/test_lab07.py::TestRegionQueryValidation -v   # one group
 
 | Panel | What it gives you |
 | --- | --- |
-| **Labs** | Concept, both function names, the full source, the test suite, and a Run button with per-test results |
+| **Labs** | Concept, both function names, an **editable** source pane, the test suite, and per-test results |
 | **Data browser** | Every dataset with dtypes and missing-value counts per column — the profiling view lab 01 teaches you to build |
 | **Scratchpad** | A Python REPL-ish pane that runs in a fresh subprocess with the repo on `sys.path`, so `from labs import …` just works. Ctrl/Cmd + Enter to run |
 | **`/docs`** | FastAPI's generated, interactive API documentation — lab 07's subject matter, live |
+
+### Editing in the browser
+
+The **Lab source** pane is a real editor writing to the real file on disk. **Ctrl/Cmd + S**
+(or **Save & run**) saves and immediately runs that lab's tests, so the whole loop —
+type, save, see what failed — stays in one window. Tab inserts four spaces and Enter
+keeps your indentation, because in Python indentation is syntax.
+
+If what you typed will not parse, it is still saved — half-finished code is a normal
+state and a tool that refuses to save it is a tool that loses your work — but the tests
+are skipped and you get the line number instead.
+
+Two things to know:
+
+- **The test suite is read-only.** An exercise whose grader you can edit is not an
+  exercise. If you think a test is genuinely wrong, change it in your editor, on purpose.
+- **Git is your undo.** `git diff labs/` shows everything you have changed;
+  `git checkout labs/lab01_loading.py` puts one file back the way it shipped;
+  `git checkout labs/` resets them all.
+
+Use VS Code instead if you prefer — nothing here depends on the browser editor, and the
+two stay in sync as long as you reload the page after editing on disk.
 
 ---
 
