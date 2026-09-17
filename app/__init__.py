@@ -1,0 +1,1 @@
+"""The playground web application."""

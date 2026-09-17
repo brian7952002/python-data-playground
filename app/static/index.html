@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Python Data Playground</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">◆</span>
+    <div>
+      <h1>Python Data Playground</h1>
+      <p class="tagline">Worked examples, twin exercises, and tests that tell you the truth.</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <div class="progress" id="overall-progress" hidden>
+      <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+      <span class="progress-label" id="progress-label"></span>
+    </div>
+    <button id="run-all" class="btn btn-primary">Run every lab</button>
+    <a class="btn btn-ghost" href="/docs" target="_blank" rel="noopener">API docs</a>
+  </div>
+</header>
+
+<main class="layout">
+
+  <!-- ---------------------------------------------------------------- -->
+  <nav class="sidebar" aria-label="Labs">
+    <h2 class="sidebar-title">Labs</h2>
+    <ol class="lab-list" id="lab-list"></ol>
+
+    <h2 class="sidebar-title">Tools</h2>
+    <ul class="tool-list">
+      <li><button class="tool-btn" data-view="data">Data browser</button></li>
+      <li><button class="tool-btn" data-view="scratch">Scratchpad</button></li>
+    </ul>
+  </nav>
+
+  <!-- ---------------------------------------------------------------- -->
+  <section class="content" id="content">
+
+    <!-- Lab view ----------------------------------------------------- -->
+    <article class="view" id="view-lab" hidden>
+      <div class="lab-header">
+        <div>
+          <span class="track-pill" id="lab-track"></span>
+          <h2 id="lab-title"></h2>
+          <p class="concept" id="lab-concept"></p>
+        </div>
+        <button class="btn btn-primary" id="run-lab">Run tests</button>
+      </div>
+
+      <div class="fn-cards">
+        <div class="fn-card fn-demo">
+          <span class="fn-label">Worked example</span>
+          <code id="lab-demo-fn"></code>
+          <p>Implemented and annotated. Read it, run it, change it.</p>
+        </div>
+        <div class="fn-card fn-exercise">
+          <span class="fn-label">Your turn</span>
+          <code id="lab-exercise-fn"></code>
+          <p>A stub with a full spec. The tests are the grader.</p>
+        </div>
+      </div>
+
+      <div class="results" id="lab-results" hidden>
+        <div class="results-summary" id="results-summary"></div>
+        <ul class="test-list" id="test-list"></ul>
+        <details class="raw-output">
+          <summary>Full pytest output</summary>
+          <pre id="raw-output"></pre>
+        </details>
+      </div>
+
+      <div class="tabs">
+        <button class="tab active" data-tab="source">Lab source</button>
+        <button class="tab" data-tab="tests">Test suite</button>
+      </div>
+      <pre class="code-pane" id="pane-source"></pre>
+      <pre class="code-pane" id="pane-tests" hidden></pre>
+    </article>
+
+    <!-- Data browser ------------------------------------------------- -->
+    <article class="view" id="view-data" hidden>
+      <h2>Data browser</h2>
+      <p class="concept">Three synthetic but deliberately structured datasets. Regions differ,
+        products are seasonal, and a third of customers go quiet — there is real signal to find.</p>
+      <div class="dataset-tabs" id="dataset-tabs"></div>
+      <div class="dataset-meta" id="dataset-meta"></div>
+      <div class="table-wrap"><table class="data-table" id="data-table"></table></div>
+    </article>
+
+    <!-- Scratchpad --------------------------------------------------- -->
+    <article class="view" id="view-scratch" hidden>
+      <h2>Scratchpad</h2>
+      <p class="concept">Runs in a fresh Python subprocess with the repo on <code>sys.path</code>,
+        so <code>from labs import …</code> works exactly as it does in a test.
+        <strong>Ctrl/Cmd + Enter</strong> to run.</p>
+      <textarea id="scratch-code" spellcheck="false" rows="16"></textarea>
+      <div class="scratch-actions">
+        <button class="btn btn-primary" id="run-scratch">Run</button>
+        <button class="btn btn-ghost" id="reset-scratch">Reset example</button>
+        <span class="hint" id="scratch-status"></span>
+      </div>
+      <pre class="code-pane output" id="scratch-output"></pre>
+    </article>
+
+    <!-- Welcome ------------------------------------------------------ -->
+    <article class="view welcome" id="view-welcome">
+      <h2>Start here</h2>
+      <p>Eight labs, each with a worked example you read and a twin exercise you write.
+         The exercises fail on a fresh clone — that is the starting line, not a bug.</p>
+      <ol class="steps">
+        <li><strong>Pick a lab</strong> from the left. Lab 01 assumes nothing.</li>
+        <li><strong>Read the worked example</strong> in the source pane. It is commented line by line.</li>
+        <li><strong>Open the lab file in your editor</strong> and implement the exercise stub.</li>
+        <li><strong>Run tests</strong> here, or <code>pytest tests/test_lab01.py -v</code> in a terminal.</li>
+      </ol>
+      <p class="footnote">The test suite is the specification. When a docstring is ambiguous,
+         the test decides — reading tests as requirements is a skill worth building deliberately.</p>
+    </article>
+
+  </section>
+</main>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

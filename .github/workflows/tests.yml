@@ -1,0 +1,46 @@
+name: tests
+
+# Runs the worked-example tests on every push. They must always pass -- if one
+# fails, something is wrong with the repo or the environment, not with your
+# exercises.
+#
+# The exercise tests are deliberately NOT run here: they fail by design until
+# you implement them, and a permanently red badge is a badge you stop reading.
+# Once you have finished the labs, change `-m demo` to nothing to run everything.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Verify the datasets are reproducible
+        # The generator is seeded, so regenerating must not change a byte. If
+        # this step fails, either the generator changed or the committed CSVs
+        # were edited by hand -- both are worth knowing about.
+        run: |
+          python scripts/generate_data.py
+          git diff --exit-code -- data/
+
+      - name: Run the worked-example tests
+        run: pytest -m demo -v
+
+      - name: Report exercise progress
+        # Never fails the build -- it is a progress readout, not a gate.
+        if: always()
+        run: pytest -m exercise --tb=no -q || true

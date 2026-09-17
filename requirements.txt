@@ -1,0 +1,31 @@
+# --- Core data stack ---
+pandas==2.2.3              # DataFrames: the workhorse of Python data analytics
+numpy==2.1.3               # Arrays and vectorised math underneath pandas
+
+# --- APIs ---
+fastapi==0.115.5           # Building APIs (this playground's web server is one)
+uvicorn[standard]==0.32.1  # The ASGI server that actually runs FastAPI
+httpx==0.28.1              # Consuming APIs (modern requests replacement)
+pydantic==2.10.3           # Request/response validation, used by FastAPI
+
+# --- Testing ---
+pytest==8.3.4              # Every lab is graded by a pytest suite
+
+# --- Deliberately NOT included: scikit-learn -------------------------------
+# Two reasons:
+#
+# 1. Practical: on some Windows machines (including the one this repo was
+#    built on) Smart App Control / Application Control blocks scipy's
+#    unsigned native DLLs, so `import sklearn` dies with
+#    "DLL load failed while importing _dierckx". scikit-learn depends on
+#    scipy, so there is no way around it short of disabling a security
+#    feature that cannot be re-enabled without reinstalling Windows.
+#
+# 2. Pedagogical, and the more important one: lab 08 asks you to write the
+#    train/test split, the baseline classifier and the evaluation metrics
+#    yourself, in numpy. `sklearn.metrics.roc_auc_score(y, p)` is one line
+#    and teaches you nothing about what AUC measures. Implementing it once
+#    means you will never again misread a model report.
+#
+# Once you have finished lab 08 by hand, installing scikit-learn and checking
+# your numbers against it is an excellent next step -- see docs/going-further.md

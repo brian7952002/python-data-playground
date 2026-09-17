@@ -1,0 +1,22 @@
+# Normalise line endings so the repo behaves the same on Windows, macOS and CI.
+#
+# Without this, git on Windows checks files out with CRLF, scripts/generate_data.py
+# writes LF, and the CI job that regenerates the datasets and diffs them reports
+# every line as changed. "Works on my machine" in its purest form.
+
+* text=auto
+
+# The datasets are compared byte-for-byte by CI, so pin them to LF on every
+# platform rather than letting the checkout decide.
+*.csv text eol=lf
+
+# Python, config and web sources: LF in the repo and in the working tree.
+*.py    text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+*.json  text eol=lf
+*.ini   text eol=lf
+*.txt   text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf

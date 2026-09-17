@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Test / tool caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Scratch work — your throwaway experiments live here and are never committed
+scratch/

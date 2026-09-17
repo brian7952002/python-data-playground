@@ -1,0 +1,2932 @@
+order_id,order_date,customer_id,product,category,units,unit_price,channel
+ORD-50280,2025-01-01,C1044,Hiking Sock,apparel,2,18.43,web
+ORD-50313,2025-01-01,C1051,Hiking Sock,apparel,3,18.29,Web
+ORD-50722,2025-01-01,C1099,Approach Shoe,footwear,2,158.99,web
+ORD-50859,2025-01-01,C1117,Trekking Poles,hardware,8,95.33,retail
+ORD-50927,2025-01-01,C1125,Hiking Sock,apparel,16,17.81,Retail
+ORD-51998,2025-01-01,C1273,Trail Runner,footwear,3,127.14,web
+ORD-52283,2025-01-01,C1305,Rain Shell,outerwear,5,224.99,partner
+ORD-52293,2025-01-01,C1306,Rain Shell,outerwear,1,223.45,Web
+ORD-52345,2025-01-01,C1314,Down Jacket,outerwear,1,320.21, retail
+ORD-52537,2025-01-01,C1345,Rain Shell,outerwear,6,214.01,Retail
+ORD-52694,2025-01-01,C1366,Headlamp,hardware,1,41.27,web
+ORD-52776,2025-01-01,C1379,Headlamp,hardware,6,40.79, retail
+ORD-52840,2025-01-01,C1389,Approach Shoe,footwear,1,148.08,web
+ORD-50467,2025-01-02,C1065,Approach Shoe,footwear,11,149.39,Retail
+ORD-50563,2025-01-02,C1081,Hiking Sock,apparel,7,18.27,web
+ORD-50919,2025-01-02,C1124,Trail Runner,footwear,3,124.87,web
+ORD-51067,2025-01-02,C1139,Down Jacket,outerwear,1,328.57,Retail
+ORD-51760,2025-01-02,C1244,Headlamp,hardware,1,43.65,partner
+ORD-51899,2025-01-02,C1261,Trekking Poles,hardware,4,95.06,retail
+ORD-52192,2025-01-02,C1296,Down Jacket,outerwear,12,319.66,partner
+ORD-52595,2025-01-02,C1353,Daypack 22L,packs,8,113.01,retail
+ORD-52604,2025-01-02,C1353,Headlamp,hardware,8,40.55,web
+ORD-52900,2025-01-02,C1397,Daypack 22L,packs,8,114.27,web
+ORD-52903,2025-01-02,C1397,Headlamp,hardware,7,41.65,web
+ORD-50030,2025-01-03,C1006,Approach Shoe,footwear,2,153.46,retail
+ORD-50408,2025-01-03,C1063,Expedition Pack 65L,packs,4,340.04,web
+ORD-50577,2025-01-03,C1083,Trekking Poles,hardware,2,95.33,retail
+ORD-50869,2025-01-03,C1117,Trail Runner,footwear,12,131.06,Retail
+ORD-50993,2025-01-03,C1131,Headlamp,hardware,2,42.69,web
+ORD-51429,2025-01-03,C1197,Expedition Pack 65L,packs,3,340.22,partner
+ORD-51739,2025-01-03,C1240,Rain Shell,outerwear,1,226.01, retail
+ORD-51892,2025-01-03,C1260,Headlamp,hardware,8,42.54,retail
+ORD-51898,2025-01-03,C1261,Trekking Poles,hardware,5,95.02,Web
+ORD-52323,2025-01-03,C1310,Approach Shoe,footwear,2,155.03,partner
+ORD-52464,2025-01-03,C1333,Rain Shell,outerwear,3,217.76,retail
+ORD-52551,2025-01-03,C1346,Down Jacket,outerwear,1,306.95,web
+ORD-52641,2025-01-03,C1357,Down Jacket,outerwear,6,307.32,retail
+ORD-52866,2025-01-03,C1391,Hiking Sock,apparel,1,18.06,Retail
+ORD-50075,2025-01-04,C1015,Headlamp,hardware,2,42.62,partner
+ORD-50233,2025-01-04,C1039,Rain Shell,outerwear,7,214.15,retail
+ORD-50253,2025-01-04,C1040,Hiking Sock,apparel,9,18.79,partner
+ORD-50380,2025-01-04,C1057,Daypack 22L,packs,10,108.79,retail
+ORD-50440,2025-01-04,C1064,Trail Runner,footwear,,128.44,Retail
+ORD-50516,2025-01-04,C1075,Expedition Pack 65L,packs,2,348.75,WEB 
+ORD-50606,2025-01-04,C1084,Base Layer,apparel,11,69.22,web
+ORD-50673,2025-01-04,C1094,Headlamp,hardware,1,41.21,Retail
+ORD-50938,2025-01-04,C1126,Trekking Poles,hardware,4,93.44,partner
+ORD-50944,2025-01-04,C1128,Daypack 22L,packs,9,114.6,web
+ORD-51038,2025-01-04,C1137,Headlamp,hardware,4,40.5,Web
+ORD-51049,2025-01-04,C1138,Expedition Pack 65L,packs,13,334.4,WEB 
+ORD-51251,2025-01-04,C1167,Down Jacket,outerwear,15,328.76,partner
+ORD-51303,2025-01-04,C1175,Expedition Pack 65L,packs,7,328.9,retail
+ORD-51315,2025-01-04,C1176,Base Layer,apparel,6,70.58,Retail
+ORD-51384,2025-01-04,C1187,Rain Shell,outerwear,8,223.39,partner
+ORD-51506,2025-01-04,C1205,Base Layer,apparel,2,71.41,Retail
+ORD-51601,2025-01-04,C1221,Trail Runner,footwear,4,123.66,web
+ORD-51671,2025-01-04,C1230,Headlamp,hardware,,41.86,retail
+ORD-52508,2025-01-04,C1342,Expedition Pack 65L,packs,1,343.54,retail
+ORD-50349,2025-01-05,C1056,Trekking Poles,hardware,4,99.23,web
+ORD-50717,2025-01-05,C1099,Trekking Poles,hardware,,93.24,partner
+ORD-50727,2025-01-05,C1100,Trail Runner,footwear,2,130.07,web
+ORD-50946,2025-01-05,C1128,Hiking Sock,apparel,5,19.13,partner
+ORD-51398,2025-01-05,C1190,Rain Shell,outerwear,5,227.28,retail
+ORD-51520,2025-01-05,C1207,Hiking Sock,apparel,2,18.81,Web
+ORD-51693,2025-01-05,C1232,Approach Shoe,footwear,1,157.27, retail
+ORD-51790,2025-01-05,C1249,Hiking Sock,apparel,5,19.2,Web
+ORD-52020,2025-01-05,C1274,Headlamp,hardware,14,40.87,web
+ORD-52132,2025-01-05,C1289,Rain Shell,outerwear,11,220.04,partner
+ORD-52428,2025-01-05,C1326,Down Jacket,outerwear,2,320.11,web
+ORD-50055,2025-01-06,C1012,Daypack 22L,packs,2,109.85, retail
+ORD-50645,2025-01-06,C1090,Rain Shell,outerwear,4,210.74,web
+ORD-50785,2025-01-06,C1107,Expedition Pack 65L,packs,1,345.89,WEB 
+ORD-50952,2025-01-06,C1128,Trail Runner,footwear,7,128.56,Web
+ORD-51034,2025-01-06,C1137,Headlamp,hardware,7,40.4,web
+ORD-51511,2025-01-06,C1206,Headlamp,hardware,2,41.94,web
+ORD-51592,2025-01-06,C1221,Headlamp,hardware,5,41.25,Retail
+ORD-51639,2025-01-06,C1225,Daypack 22L,packs,5,107.8,Web
+ORD-52076,2025-01-06,C1284,Base Layer,apparel,10,68.45,Web
+ORD-52271,2025-01-06,C1303,Trekking Poles,hardware,11,97.1,retail
+ORD-52564,2025-01-06,C1348,Trekking Poles,hardware,2,97.35,partner
+ORD-52777,2025-01-06,C1379,Expedition Pack 65L,packs,4,328.82,web
+ORD-52798,2025-01-06,C1380,Trekking Poles,hardware,,98.3,web
+ORD-50305,2025-01-07,C1049,Base Layer,apparel,3,69.82, retail
+ORD-50339,2025-01-07,C1054,Expedition Pack 65L,packs,4,343.59,web
+ORD-50808,2025-01-07,C1110,Daypack 22L,packs,3,107.95,partner
+ORD-50821,2025-01-07,C1112,Trail Runner,footwear,1,128.94,web
+ORD-50957,2025-01-07,C1128,Headlamp,hardware,5,41.54,partner
+ORD-51127,2025-01-07,C1151,Daypack 22L,packs,6,111.18,partner
+ORD-51300,2025-01-07,C1175,Trekking Poles,hardware,10,93.13,partner
+ORD-51635,2025-01-07,C1225,Rain Shell,outerwear,4,220.95,WEB 
+ORD-52634,2025-01-07,C1357,Base Layer,apparel,3,71.43,Retail
+ORD-52761,2025-01-07,C1377,Headlamp,hardware,1,43.4,web
+ORD-52889,2025-01-07,C1397,Approach Shoe,footwear,5,159.27,web
+ORD-50201,2025-01-08,C1037,Base Layer,apparel,4,70.25,partner
+ORD-50309,2025-01-08,C1049,Approach Shoe,footwear,4,152.21,Retail
+ORD-50459,2025-01-08,C1065,Trail Runner,footwear,8,131.42,web
+ORD-50532,2025-01-08,C1076,Trail Runner,footwear,9,133.01,partner
+ORD-51039,2025-01-08,C1137,Trail Runner,footwear,6,123.13,retail
+ORD-51632,2025-01-08,C1224,Down Jacket,outerwear,5,324.93,partner
+ORD-51784,2025-01-08,C1249,Headlamp,hardware,3,42.05,web
+ORD-52136,2025-01-08,C1289,Base Layer,apparel,11,71.41,retail
+ORD-52223,2025-01-08,C1301,Daypack 22L,packs,12,114.54,web
+ORD-52513,2025-01-08,C1343,Expedition Pack 65L,packs,6,348.7,web
+ORD-52749,2025-01-08,C1376,Expedition Pack 65L,packs,11,334.44,Web
+ORD-52822,2025-01-08,C1386,Down Jacket,outerwear,1,310.9,partner
+ORD-50028,2025-01-09,C1006,Trekking Poles,hardware,1,95.0,Web
+ORD-50165,2025-01-09,C1029,Headlamp,hardware,1,40.65,partner
+ORD-51256,2025-01-09,C1167,Daypack 22L,packs,9,110.12,partner
+ORD-52303,2025-01-09,C1307,Approach Shoe,footwear,3,152.88,Retail
+ORD-50218,2025-01-10,C1039,Rain Shell,outerwear,11,218.93,retail
+ORD-50341,2025-01-10,C1054,Hiking Sock,apparel,4,19.19,web
+ORD-50501,2025-01-10,C1073,Rain Shell,outerwear,4,224.32,Web
+ORD-50596,2025-01-10,C1084,Headlamp,hardware,6,41.4,Partner
+ORD-50704,2025-01-10,C1097,Rain Shell,outerwear,14,223.34,Retail
+ORD-51052,2025-01-10,C1138,Approach Shoe,footwear,9,152.65,retail
+ORD-51170,2025-01-10,C1156,Hiking Sock,apparel,12,18.11,retail
+ORD-51284,2025-01-10,C1172,Trekking Poles,hardware,2,96.91,retail
+ORD-51666,2025-01-10,C1230,Rain Shell,outerwear,12,226.6,Retail
+ORD-51763,2025-01-10,C1246,Hiking Sock,apparel,1,19.1,Retail
+ORD-51786,2025-01-10,C1249,Approach Shoe,footwear,2,148.85,WEB 
+ORD-52240,2025-01-10,C1301,Headlamp,hardware,10,40.63,web
+ORD-52280,2025-01-10,C1305,Daypack 22L,packs,5,109.92,partner
+ORD-52598,2025-01-10,C1353,Rain Shell,outerwear,10,216.69,Retail
+ORD-50255,2025-01-11,C1040,Hiking Sock,apparel,11,18.82,web
+ORD-50523,2025-01-11,C1076,Approach Shoe,footwear,7,158.96,retail
+ORD-50587,2025-01-11,C1084,Trekking Poles,hardware,6,92.43,web
+ORD-50764,2025-01-11,C1103,Down Jacket,outerwear,3,323.24,Retail
+ORD-50959,2025-01-11,C1128,Hiking Sock,apparel,5,18.35,web
+ORD-51046,2025-01-11,C1138,Rain Shell,outerwear,,222.65,Retail
+ORD-51182,2025-01-11,C1156,Daypack 22L,packs,5,113.46,retail
+ORD-51651,2025-01-11,C1229,Headlamp,hardware,2,42.69,web
+ORD-51761,2025-01-11,C1245,Hiking Sock,apparel,1,18.87,Partner
+ORD-51861,2025-01-11,C1258,Down Jacket,outerwear,3,314.67,partner
+ORD-51923,2025-01-11,C1265,Approach Shoe,footwear,9,149.77,Web
+ORD-52033,2025-01-11,C1274,Hiking Sock,apparel,8,19.13,Retail
+ORD-52037,2025-01-11,C1276,Daypack 22L,packs,1,108.8,retail
+ORD-52085,2025-01-11,C1284,Headlamp,hardware,6,42.24,retail
+ORD-52178,2025-01-11,C1296,Rain Shell,outerwear,7,211.63,Retail
+ORD-52186,2025-01-11,C1296,Base Layer,apparel,12,68.76,web
+ORD-50249,2025-01-12,C1040,Headlamp,hardware,9,43.1,retail
+ORD-50375,2025-01-12,C1057,Rain Shell,outerwear,8,225.73,web
+ORD-50434,2025-01-12,C1064,Headlamp,hardware,7,43.49,partner
+ORD-50509,2025-01-12,C1074,Approach Shoe,footwear,1,153.56,retail
+ORD-50810,2025-01-12,C1110,Approach Shoe,footwear,3,151.11,retail
+ORD-51021,2025-01-12,C1137,Down Jacket,outerwear,11,309.82,partner
+ORD-51415,2025-01-12,C1195,Daypack 22L,packs,1,108.08,web
+ORD-51422,2025-01-12,C1196,Rain Shell,outerwear,6,213.27,web
+ORD-51451,2025-01-12,C1199,Trail Runner,footwear,5,131.99,WEB 
+ORD-51471,2025-01-12,C1202,Base Layer,apparel,12,70.82,WEB 
+ORD-51606,2025-01-12,C1221,Daypack 22L,packs,9,110.53,web
+ORD-51618,2025-01-12,C1222,Hiking Sock,apparel,5,17.86,web
+ORD-52092,2025-01-12,C1284,Expedition Pack 65L,packs,3,328.87, retail
+ORD-52615,2025-01-12,C1354,Down Jacket,outerwear,1,321.0,web
+ORD-52683,2025-01-12,C1365,Trail Runner,footwear,1,131.47,retail
+ORD-52736,2025-01-12,C1373,Daypack 22L,packs,1,108.7,partner
+ORD-52860,2025-01-12,C1389,Approach Shoe,footwear,10,151.76,partner
+ORD-50728,2025-01-13,C1101,Approach Shoe,footwear,12,158.56,retail
+ORD-51189,2025-01-13,C1157,Headlamp,hardware,5,41.3,web
+ORD-51293,2025-01-13,C1175,Daypack 22L,packs,9,108.09,web
+ORD-51581,2025-01-13,C1220,Base Layer,apparel,2,67.83,partner
+ORD-52039,2025-01-13,C1278,Expedition Pack 65L,packs,1,330.55,web
+ORD-52190,2025-01-13,C1296,Expedition Pack 65L,packs,5,332.18,web
+ORD-52198,2025-01-13,C1296,Hiking Sock,apparel,15,19.0,retail
+ORD-52295,2025-01-13,C1307,Trekking Poles,hardware,3,95.66, retail
+ORD-52536,2025-01-13,C1345,Daypack 22L,packs,3,113.98,retail
+ORD-52678,2025-01-13,C1364,Daypack 22L,packs,3,108.86,partner
+ORD-52750,2025-01-13,C1376,Expedition Pack 65L,packs,11,350.26,web
+ORD-52763,2025-01-13,C1377,Headlamp,hardware,1,40.42,partner
+ORD-50053,2025-01-14,C1012,Headlamp,hardware,1,41.65,Retail
+ORD-50257,2025-01-14,C1040,Base Layer,apparel,6,70.54,web
+ORD-50484,2025-01-14,C1071,Trekking Poles,hardware,1,93.38,Web
+ORD-50691,2025-01-14,C1097,Approach Shoe,footwear,9,157.56,retail
+ORD-50741,2025-01-14,C1101,Base Layer,apparel,9,69.47,Partner
+ORD-50891,2025-01-14,C1120,Expedition Pack 65L,packs,3,350.94,partner
+ORD-52587,2025-01-14,C1352,Base Layer,apparel,3,70.64,Partner
+ORD-52758,2025-01-14,C1376,Trail Runner,footwear,9,130.45,Retail
+ORD-52908,2025-01-14,C1397,Expedition Pack 65L,packs,10,332.19,partner
+ORD-50054,2025-01-15,C1012,Headlamp,hardware,3,42.01,retail
+ORD-50196,2025-01-15,C1036,Headlamp,hardware,1,43.1, retail
+ORD-51098,2025-01-15,C1147,Trail Runner,footwear,1,130.68,web
+ORD-51190,2025-01-15,C1157,Base Layer,apparel,2,67.68,partner
+ORD-51247,2025-01-15,C1167,Down Jacket,outerwear,6,312.07,Retail
+ORD-51559,2025-01-15,C1216,Down Jacket,outerwear,3,319.61,web
+ORD-51640,2025-01-15,C1225,Headlamp,hardware,3,42.13,WEB 
+ORD-51659,2025-01-15,C1230,Rain Shell,outerwear,11,219.94,Web
+ORD-52138,2025-01-15,C1289,Expedition Pack 65L,packs,15,350.6,Web
+ORD-52276,2025-01-15,C1304,Daypack 22L,packs,3,111.15,web
+ORD-52393,2025-01-15,C1323,Trekking Poles,hardware,2,93.63,web
+ORD-52530,2025-01-15,C1343,Down Jacket,outerwear,7,311.84,Partner
+ORD-52596,2025-01-15,C1353,Base Layer,apparel,7,73.13,Retail
+ORD-52905,2025-01-15,C1397,Expedition Pack 65L,packs,9,350.55,web
+ORD-50045,2025-01-16,C1010,Daypack 22L,packs,2,111.15,web
+ORD-50084,2025-01-16,C1017,Trekking Poles,hardware,1,98.83,retail
+ORD-50133,2025-01-16,C1023,Expedition Pack 65L,packs,1,352.58,partner
+ORD-50289,2025-01-16,C1045,Headlamp,hardware,1,40.99, retail
+ORD-50450,2025-01-16,C1065,Approach Shoe,footwear,10,148.26,retail
+ORD-50688,2025-01-16,C1097,Base Layer,apparel,9,71.12,Retail
+ORD-50776,2025-01-16,C1106,Down Jacket,outerwear,8,318.14,web
+ORD-50843,2025-01-16,C1115,Daypack 22L,packs,3,115.37,web
+ORD-50892,2025-01-16,C1120,Base Layer,apparel,1,70.89,retail
+ORD-50939,2025-01-16,C1126,Approach Shoe,footwear,3,151.63,web
+ORD-51332,2025-01-16,C1179,Trail Runner,footwear,2,122.93,retail
+ORD-51505,2025-01-16,C1204,Headlamp,hardware,4,41.12,retail
+ORD-52061,2025-01-16,C1282,Hiking Sock,apparel,1,19.2,web
+ORD-52220,2025-01-16,C1301,Daypack 22L,packs,4,113.69,retail
+ORD-52298,2025-01-16,C1307,Expedition Pack 65L,packs,3,340.94,Retail
+ORD-52906,2025-01-16,C1397,Down Jacket,outerwear,12,307.23,web
+ORD-50010,2025-01-17,C1005,Down Jacket,outerwear,9,322.43,retail
+ORD-50381,2025-01-17,C1057,Down Jacket,outerwear,9,314.14,web
+ORD-51494,2025-01-17,C1202,Down Jacket,outerwear,11,313.19,retail
+ORD-51545,2025-01-17,C1213,Approach Shoe,footwear,4,159.69,web
+ORD-52189,2025-01-17,C1296,Trekking Poles,hardware,13,92.88,partner
+ORD-52307,2025-01-17,C1308,Rain Shell,outerwear,2,213.89,retail
+ORD-52413,2025-01-17,C1324,Base Layer,apparel,8,71.06,Retail
+ORD-50034,2025-01-18,C1007,Daypack 22L,packs,1,115.9,Retail
+ORD-50174,2025-01-18,C1031,Down Jacket,outerwear,3,311.57,Web
+ORD-50359,2025-01-18,C1057,Base Layer,apparel,10,68.33,retail
+ORD-50392,2025-01-18,C1060,Daypack 22L,packs,3,111.17,web
+ORD-50438,2025-01-18,C1064,Trail Runner,footwear,7,126.23,partner
+ORD-50826,2025-01-18,C1113,Down Jacket,outerwear,7,314.74,retail
+ORD-51309,2025-01-18,C1175,Daypack 22L,packs,10,112.48,web
+ORD-51612,2025-01-18,C1222,Approach Shoe,footwear,2,148.82,partner
+ORD-51627,2025-01-18,C1223,Trail Runner,footwear,6,132.66,web
+ORD-51802,2025-01-18,C1251,Down Jacket,outerwear,2,316.32,partner
+ORD-51846,2025-01-18,C1255,Down Jacket,outerwear,10,313.37,web
+ORD-52227,2025-01-18,C1301,Hiking Sock,apparel,6,19.15,partner
+ORD-52252,2025-01-18,C1303,Rain Shell,outerwear,14,219.69,retail
+ORD-52568,2025-01-18,C1348,Trekking Poles,hardware,2,96.66,Retail
+ORD-50432,2025-01-19,C1064,Expedition Pack 65L,packs,11,330.26,web
+ORD-50553,2025-01-19,C1080,Daypack 22L,packs,1,108.54,Web
+ORD-50744,2025-01-19,C1101,Rain Shell,outerwear,19,222.01,partner
+ORD-50864,2025-01-19,C1117,Headlamp,hardware,7,42.72,retail
+ORD-50901,2025-01-19,C1123,Approach Shoe,footwear,2,159.33, retail
+ORD-52023,2025-01-19,C1274,Expedition Pack 65L,packs,8,327.52,web
+ORD-52073,2025-01-19,C1284,Base Layer,apparel,11,70.06, retail
+ORD-52110,2025-01-19,C1287,Rain Shell,outerwear,7,222.48,partner
+ORD-52123,2025-01-19,C1289,Expedition Pack 65L,packs,11,337.99,Web
+ORD-52404,2025-01-19,C1324,Trekking Poles,hardware,3,95.66,web
+ORD-52642,2025-01-19,C1358,Approach Shoe,footwear,1,150.77,web
+ORD-52869,2025-01-19,C1392,Trekking Poles,hardware,1,92.67,partner
+ORD-50015,2025-01-20,C1005,Expedition Pack 65L,packs,8,351.71,web
+ORD-50318,2025-01-20,C1052,Daypack 22L,packs,4,107.64,partner
+ORD-50320,2025-01-20,C1052,Trail Runner,footwear,2,132.17,Partner
+ORD-50863,2025-01-20,C1117,Expedition Pack 65L,packs,11,351.22,retail
+ORD-52098,2025-01-20,C1286,Down Jacket,outerwear,3,324.95,web
+ORD-52363,2025-01-20,C1318,Down Jacket,outerwear,4,322.77,retail
+ORD-52437,2025-01-20,C1327,Hiking Sock,apparel,7,18.77,Web
+ORD-52495,2025-01-20,C1341,Trail Runner,footwear,3,126.75,web
+ORD-52691,2025-01-20,C1366,Daypack 22L,packs,3,109.76,retail
+ORD-52755,2025-01-20,C1376,Trekking Poles,hardware,12,98.92,partner
+ORD-50398,2025-01-21,C1061,Trail Runner,footwear,1,130.03,web
+ORD-50417,2025-01-21,C1064,Down Jacket,outerwear,14,325.06,web
+ORD-50574,2025-01-21,C1083,Base Layer,apparel,2,69.45,Retail
+ORD-50961,2025-01-21,C1128,Base Layer,apparel,12,71.3,web
+ORD-51835,2025-01-21,C1254,Expedition Pack 65L,packs,7,329.84,web
+ORD-51905,2025-01-21,C1262,Trail Runner,footwear,,125.56,partner
+ORD-51925,2025-01-21,C1265,Expedition Pack 65L,packs,12,332.73,web
+ORD-52173,2025-01-21,C1296,Hiking Sock,apparel,8,18.72,web
+ORD-52408,2025-01-21,C1324,Trekking Poles,hardware,5,95.48,retail
+ORD-50048,2025-01-22,C1011,Base Layer,apparel,2,70.79,web
+ORD-50137,2025-01-22,C1024,Trail Runner,footwear,5,128.29,Retail
+ORD-50791,2025-01-22,C1108,Rain Shell,outerwear,4,217.19,Retail
+ORD-50962,2025-01-22,C1128,Trail Runner,footwear,5,132.23,Web
+ORD-51018,2025-01-22,C1137,Down Jacket,outerwear,5,328.81,retail
+ORD-51185,2025-01-22,C1156,Trekking Poles,hardware,13,92.68,web
+ORD-51334,2025-01-22,C1179,Daypack 22L,packs,2,114.1,retail
+ORD-51704,2025-01-22,C1236,Trail Runner,footwear,2,131.07,retail
+ORD-51765,2025-01-22,C1246,Rain Shell,outerwear,4,216.44,partner
+ORD-52199,2025-01-22,C1297,Down Jacket,outerwear,2,315.09,retail
+ORD-50002,2025-01-23,C1002,Expedition Pack 65L,packs,1,328.26,Retail
+ORD-50085,2025-01-23,C1017,Approach Shoe,footwear,7,159.04,retail
+ORD-50306,2025-01-23,C1049,Daypack 22L,packs,4,108.76,web
+ORD-50306,2025-01-23,C1049,Daypack 22L,packs,4,108.76,web
+ORD-51085,2025-01-23,C1144,Rain Shell,outerwear,1,225.84,web
+ORD-51129,2025-01-23,C1151,Down Jacket,outerwear,10,318.94,retail
+ORD-51184,2025-01-23,C1156,Hiking Sock,apparel,4,19.12,web
+ORD-51694,2025-01-23,C1233,Headlamp,hardware,2,40.6,web
+ORD-51953,2025-01-23,C1266,Rain Shell,outerwear,2,222.01,partner
+ORD-52139,2025-01-23,C1289,Hiking Sock,apparel,17,18.55,web
+ORD-52491,2025-01-23,C1340,Hiking Sock,apparel,2,18.4,web
+ORD-52666,2025-01-23,C1361,Hiking Sock,apparel,5,19.19,retail
+ORD-50001,2025-01-24,C1000,Trekking Poles,hardware,1,94.96,web
+ORD-50051,2025-01-24,C1012,Expedition Pack 65L,packs,1,352.3,web
+ORD-50367,2025-01-24,C1057,Expedition Pack 65L,packs,10,334.14,Web
+ORD-50540,2025-01-24,C1076,Down Jacket,outerwear,11,330.25,retail
+ORD-51421,2025-01-24,C1196,Headlamp,hardware,6,42.16,Partner
+ORD-51972,2025-01-24,C1270,Trekking Poles,hardware,10,97.5,web
+ORD-52361,2025-01-24,C1317,Base Layer,apparel,4,71.77,partner
+ORD-52610,2025-01-24,C1353,Headlamp,hardware,10,41.68,partner
+ORD-52614,2025-01-24,C1353,Trail Runner,footwear,7,130.5,Retail
+ORD-50193,2025-01-25,C1036,Down Jacket,outerwear,3,326.49,web
+ORD-50270,2025-01-25,C1042,Rain Shell,outerwear,4,226.53,retail
+ORD-50581,2025-01-25,C1084,Down Jacket,outerwear,10,319.53,partner
+ORD-50780,2025-01-25,C1106,Rain Shell,outerwear,6,219.41,retail
+ORD-51047,2025-01-25,C1138,Daypack 22L,packs,14,109.76,retail
+ORD-51338,2025-01-25,C1180,Headlamp,hardware,2,42.16,Retail
+ORD-51345,2025-01-25,C1181,Trekking Poles,hardware,1,99.71,Web
+ORD-51521,2025-01-25,C1207,Trail Runner,footwear,5,126.75,Retail
+ORD-51762,2025-01-25,C1246,Down Jacket,outerwear,3,325.44,Web
+ORD-51889,2025-01-25,C1260,Base Layer,apparel,22,71.25,Partner
+ORD-51943,2025-01-25,C1265,Trail Runner,footwear,7,125.98,web
+ORD-52484,2025-01-25,C1338,Hiking Sock,apparel,2,18.47,web
+ORD-52593,2025-01-25,C1353,Rain Shell,outerwear,8,224.43,partner
+ORD-52741,2025-01-25,C1375,Rain Shell,outerwear,4,224.92,retail
+ORD-50043,2025-01-26,C1010,Down Jacket,outerwear,5,306.51,Web
+ORD-50641,2025-01-26,C1090,Trail Runner,footwear,7,128.28,Retail
+ORD-50947,2025-01-26,C1128,Base Layer,apparel,7,67.88,partner
+ORD-50995,2025-01-26,C1133,Daypack 22L,packs,2,111.42,partner
+ORD-51380,2025-01-26,C1187,Trekking Poles,hardware,3,97.27,partner
+ORD-51778,2025-01-26,C1249,Headlamp,hardware,3,41.21,partner
+ORD-51900,2025-01-26,C1262,Base Layer,apparel,4,70.06,web
+ORD-52096,2025-01-26,C1286,Daypack 22L,packs,2,114.89,web
+ORD-52784,2025-01-26,C1379,Rain Shell,outerwear,16,223.6,WEB 
+ORD-52893,2025-01-26,C1397,Expedition Pack 65L,packs,7,346.01,Web
+ORD-52896,2025-01-26,C1397,Hiking Sock,apparel,8,18.79,web
+ORD-52902,2025-01-26,C1397,Hiking Sock,apparel,,18.29,Retail
+ORD-52916,2025-01-26,C1399,Daypack 22L,packs,1,107.54,web
+ORD-50064,2025-01-27,C1014,Base Layer,apparel,3,68.44,Partner
+ORD-50112,2025-01-27,C1020,Trail Runner,footwear,1,127.43,Retail
+ORD-50185,2025-01-27,C1035,Trail Runner,footwear,7,128.45,retail
+ORD-50189,2025-01-27,C1035,Rain Shell,outerwear,3,214.42,retail
+ORD-50264,2025-01-27,C1040,Down Jacket,outerwear,8,319.99,retail
+ORD-50756,2025-01-27,C1102,Base Layer,apparel,7,69.82,web
+ORD-51119,2025-01-27,C1151,Hiking Sock,apparel,8,17.9,Web
+ORD-51207,2025-01-27,C1160,Base Layer,apparel,7,71.0,retail
+ORD-51254,2025-01-27,C1167,Trail Runner,footwear,5,128.99,Partner
+ORD-51329,2025-01-27,C1179,Expedition Pack 65L,packs,1,326.82,retail
+ORD-51337,2025-01-27,C1180,Trekking Poles,hardware,2,99.58,WEB 
+ORD-51480,2025-01-27,C1202,Daypack 22L,packs,18,112.18,Web
+ORD-51920,2025-01-27,C1265,Hiking Sock,apparel,8,18.17,Retail
+ORD-52102,2025-01-27,C1287,Down Jacket,outerwear,6,308.63,WEB 
+ORD-52498,2025-01-27,C1341,Hiking Sock,apparel,3,18.86,retail
+ORD-52514,2025-01-27,C1343,Approach Shoe,footwear,4,156.29,retail
+ORD-52832,2025-01-27,C1388,Daypack 22L,packs,1,112.31,partner
+ORD-50025,2025-01-28,C1005,Trail Runner,footwear,11,123.55,web
+ORD-50155,2025-01-28,C1027,Base Layer,apparel,4,68.3,Web
+ORD-50506,2025-01-28,C1074,Approach Shoe,footwear,1,151.29,retail
+ORD-51268,2025-01-28,C1168,Rain Shell,outerwear,3,212.78,Retail
+ORD-51426,2025-01-28,C1196,Trail Runner,footwear,7,126.35,retail
+ORD-51865,2025-01-28,C1258,Trail Runner,footwear,3,129.67,retail
+ORD-51913,2025-01-28,C1264,Trekking Poles,hardware,2,93.55,Retail
+ORD-52001,2025-01-28,C1273,Headlamp,hardware,6,43.37,partner
+ORD-52887,2025-01-28,C1396,Expedition Pack 65L,packs,1,351.11,retail
+ORD-50006,2025-01-29,C1004,Down Jacket,outerwear,3,307.97,Web
+ORD-50107,2025-01-29,C1019,Trekking Poles,hardware,12,98.78,retail
+ORD-50168,2025-01-29,C1029,Headlamp,hardware,1,41.14,Partner
+ORD-50771,2025-01-29,C1105,Headlamp,hardware,1,41.97,Web
+ORD-50792,2025-01-29,C1108,Expedition Pack 65L,packs,3,334.73,Web
+ORD-50796,2025-01-29,C1108,Down Jacket,outerwear,4,312.95,WEB 
+ORD-51173,2025-01-29,C1156,Rain Shell,outerwear,8,217.59,web
+ORD-51432,2025-01-29,C1197,Trekking Poles,hardware,5,98.99,retail
+ORD-51469,2025-01-29,C1202,Daypack 22L,packs,12,112.09,retail
+ORD-51473,2025-01-29,C1202,Headlamp,hardware,9,43.52,retail
+ORD-51808,2025-01-29,C1252,Hiking Sock,apparel,3,17.81,retail
+ORD-51909,2025-01-29,C1263,Hiking Sock,apparel,2,18.3, retail
+ORD-52150,2025-01-29,C1292,Approach Shoe,footwear,3,152.14,Retail
+ORD-52294,2025-01-29,C1306,Trail Runner,footwear,1,127.11,partner
+ORD-52521,2025-01-29,C1343,Rain Shell,outerwear,12,221.41,retail
+ORD-52815,2025-01-29,C1385,Daypack 22L,packs,3,108.45,web
+ORD-50206,2025-01-30,C1038,Headlamp,hardware,2,42.71,Retail
+ORD-50426,2025-01-30,C1064,Headlamp,hardware,2,43.0,web
+ORD-51277,2025-01-30,C1170,Headlamp,hardware,7,42.33,retail
+ORD-51419,2025-01-30,C1195,Rain Shell,outerwear,2,222.46,Partner
+ORD-51490,2025-01-30,C1202,Hiking Sock,apparel,13,17.92,partner
+ORD-51688,2025-01-30,C1232,Trail Runner,footwear,3,128.61,partner
+ORD-52022,2025-01-30,C1274,Trekking Poles,hardware,8,96.15,WEB 
+ORD-50202,2025-01-31,C1037,Trekking Poles,hardware,1,99.41,partner
+ORD-50254,2025-01-31,C1040,Rain Shell,outerwear,9,217.57,web
+ORD-50296,2025-01-31,C1047,Trail Runner,footwear,1,122.9,partner
+ORD-50340,2025-01-31,C1054,Trekking Poles,hardware,3,94.24, retail
+ORD-50558,2025-01-31,C1080,Base Layer,apparel,3,70.95,Web
+ORD-50589,2025-01-31,C1084,Trail Runner,footwear,13,128.54,partner
+ORD-50788,2025-01-31,C1107,Expedition Pack 65L,packs,3,350.73,web
+ORD-50837,2025-01-31,C1114,Expedition Pack 65L,packs,5,341.07,retail
+ORD-50982,2025-01-31,C1129,Expedition Pack 65L,packs,1,341.54,Retail
+ORD-51004,2025-01-31,C1134,Expedition Pack 65L,packs,6,341.69,retail
+ORD-51199,2025-01-31,C1158,Down Jacket,outerwear,6,308.08,Web
+ORD-52046,2025-01-31,C1279,Expedition Pack 65L,packs,3,339.37,web
+ORD-52601,2025-01-31,C1353,Hiking Sock,apparel,3,18.02,partner
+ORD-50591,2025-02-01,C1084,Headlamp,hardware,15,40.79,retail
+ORD-50697,2025-02-01,C1097,Trail Runner,footwear,15,122.95,WEB 
+ORD-50703,2025-02-01,C1097,Hiking Sock,apparel,10,19.01,web
+ORD-50751,2025-02-01,C1102,Trail Runner,footwear,6,127.85,retail
+ORD-51326,2025-02-01,C1178,Daypack 22L,packs,1,113.54, retail
+ORD-51697,2025-02-01,C1234,Approach Shoe,footwear,1,152.63,retail
+ORD-51774,2025-02-01,C1249,Trail Runner,footwear,5,128.66,web
+ORD-52329,2025-02-01,C1312,Hiking Sock,apparel,3,18.79,web
+ORD-52612,2025-02-01,C1353,Approach Shoe,footwear,9,150.9,web
+ORD-52698,2025-02-01,C1366,Expedition Pack 65L,packs,2,352.21,partner
+ORD-52738,2025-02-01,C1374,Rain Shell,outerwear,1,219.27,WEB 
+ORD-52814,2025-02-01,C1385,Hiking Sock,apparel,2,19.05,Web
+ORD-50692,2025-02-02,C1097,Approach Shoe,footwear,7,158.6,Retail
+ORD-50712,2025-02-02,C1098,Approach Shoe,footwear,3,151.26,WEB 
+ORD-51485,2025-02-02,C1202,Expedition Pack 65L,packs,10,331.23,WEB 
+ORD-51656,2025-02-02,C1230,Hiking Sock,apparel,8,19.1,Web
+ORD-52348,2025-02-02,C1316,Down Jacket,outerwear,2,321.35,WEB 
+ORD-52592,2025-02-02,C1353,Expedition Pack 65L,packs,5,342.69,Partner
+ORD-52680,2025-02-02,C1365,Trail Runner,footwear,3,126.16,Partner
+ORD-50265,2025-02-03,C1040,Rain Shell,outerwear,8,215.52,partner
+ORD-50536,2025-02-03,C1076,Hiking Sock,apparel,10,18.68,Web
+ORD-50578,2025-02-03,C1084,Daypack 22L,packs,13,112.9,retail
+ORD-51019,2025-02-03,C1137,Daypack 22L,packs,10,108.13,Web
+ORD-51112,2025-02-03,C1149,Trekking Poles,hardware,2,95.36,retail
+ORD-52062,2025-02-03,C1282,Down Jacket,outerwear,3,313.54,partner
+ORD-52206,2025-02-03,C1298,Headlamp,hardware,6,43.45,retail
+ORD-52426,2025-02-03,C1326,Headlamp,hardware,1,43.33,WEB 
+ORD-52559,2025-02-03,C1348,Down Jacket,outerwear,3,309.67,partner
+ORD-52616,2025-02-03,C1354,Expedition Pack 65L,packs,3,352.37,retail
+ORD-52620,2025-02-03,C1354,Daypack 22L,packs,1,114.2,retail
+ORD-52833,2025-02-03,C1388,Hiking Sock,apparel,3,18.7,web
+ORD-50263,2025-02-04,C1040,Expedition Pack 65L,packs,9,326.99,partner
+ORD-50911,2025-02-04,C1123,Approach Shoe,footwear,1,148.7,retail
+ORD-51000,2025-02-04,C1133,Rain Shell,outerwear,1,224.56, retail
+ORD-51095,2025-02-04,C1146,Base Layer,apparel,1,72.52,retail
+ORD-51195,2025-02-04,C1157,Rain Shell,outerwear,6,215.75,partner
+ORD-51779,2025-02-04,C1249,Trail Runner,footwear,3,129.27,web
+ORD-51814,2025-02-04,C1253,Approach Shoe,footwear,1,152.21,web
+ORD-52165,2025-02-04,C1295,Hiking Sock,apparel,7,18.86,retail
+ORD-52321,2025-02-04,C1310,Expedition Pack 65L,packs,3,339.76,Retail
+ORD-52613,2025-02-04,C1353,Expedition Pack 65L,packs,6,341.27,Web
+ORD-52626,2025-02-04,C1355,Trekking Poles,hardware,1,97.03,partner
+ORD-52656,2025-02-04,C1359,Expedition Pack 65L,packs,2,331.48,partner
+ORD-52795,2025-02-04,C1380,Down Jacket,outerwear,3,310.59,web
+ORD-50102,2025-02-05,C1019,Rain Shell,outerwear,10,212.79,Partner
+ORD-50240,2025-02-05,C1040,Expedition Pack 65L,packs,9,345.35,retail
+ORD-50963,2025-02-05,C1128,Trail Runner,footwear,4,123.29, retail
+ORD-51055,2025-02-05,C1138,Approach Shoe,footwear,18,151.42,Partner
+ORD-51102,2025-02-05,C1147,Trekking Poles,hardware,5,98.02,retail
+ORD-51131,2025-02-05,C1151,Down Jacket,outerwear,7,309.02, retail
+ORD-51255,2025-02-05,C1167,Approach Shoe,footwear,10,150.97,partner
+ORD-51416,2025-02-05,C1195,Daypack 22L,packs,2,110.92,web
+ORD-52231,2025-02-05,C1301,Rain Shell,outerwear,12,221.66,partner
+ORD-52382,2025-02-05,C1321,Expedition Pack 65L,packs,2,348.51,retail
+ORD-52817,2025-02-05,C1385,Hiking Sock,apparel,2,17.93,retail
+ORD-52819,2025-02-05,C1385,Rain Shell,outerwear,6,216.65,web
+ORD-50009,2025-02-06,C1005,Expedition Pack 65L,packs,7,352.85,Web
+ORD-50266,2025-02-06,C1042,Hiking Sock,apparel,4,19.14,web
+ORD-50877,2025-02-06,C1118,Down Jacket,outerwear,5,316.31,web
+ORD-50988,2025-02-06,C1130,Expedition Pack 65L,packs,2,351.95,web
+ORD-51066,2025-02-06,C1139,Approach Shoe,footwear,2,150.57,web
+ORD-52027,2025-02-06,C1274,Down Jacket,outerwear,10,307.58,web
+ORD-50500,2025-02-07,C1073,Rain Shell,outerwear,5,210.33,web
+ORD-51192,2025-02-07,C1157,Hiking Sock,apparel,7,18.35,web
+ORD-51310,2025-02-07,C1175,Approach Shoe,footwear,6,151.78,WEB 
+ORD-51417,2025-02-07,C1195,Headlamp,hardware,3,41.89,retail
+ORD-51423,2025-02-07,C1196,Trail Runner,footwear,4,125.91,Web
+ORD-52301,2025-02-07,C1307,Daypack 22L,packs,2,113.65,web
+ORD-52396,2025-02-07,C1323,Rain Shell,outerwear,2,223.59,partner
+ORD-52878,2025-02-07,C1393,Approach Shoe,footwear,2,156.1,retail
+ORD-50419,2025-02-08,C1064,Trail Runner,footwear,10,126.51,web
+ORD-50570,2025-02-08,C1082,Daypack 22L,packs,3,115.55,Retail
+ORD-50590,2025-02-08,C1084,Hiking Sock,apparel,7,18.54,web
+ORD-50623,2025-02-08,C1089,Base Layer,apparel,8,70.84,Retail
+ORD-50627,2025-02-08,C1089,Rain Shell,outerwear,8,215.55,partner
+ORD-50705,2025-02-08,C1097,Base Layer,apparel,10,70.55,partner
+ORD-50974,2025-02-08,C1128,Down Jacket,outerwear,6,315.93,Retail
+ORD-51353,2025-02-08,C1183,Expedition Pack 65L,packs,3,345.75,web
+ORD-51418,2025-02-08,C1195,Approach Shoe,footwear,1,151.64,web
+ORD-51517,2025-02-08,C1207,Trail Runner,footwear,2,130.88,retail
+ORD-51781,2025-02-08,C1249,Daypack 22L,packs,2,113.53,web
+ORD-52194,2025-02-08,C1296,Daypack 22L,packs,10,111.16,Partner
+ORD-52225,2025-02-08,C1301,Trekking Poles,hardware,6,98.68,Web
+ORD-52241,2025-02-08,C1301,Expedition Pack 65L,packs,7,347.15,web
+ORD-52330,2025-02-08,C1312,Expedition Pack 65L,packs,4,341.32,partner
+ORD-52492,2025-02-08,C1340,Rain Shell,outerwear,2,210.57,Retail
+ORD-50242,2025-02-09,C1040,Down Jacket,outerwear,9,317.24,retail
+ORD-50566,2025-02-09,C1081,Down Jacket,outerwear,3,328.63,partner
+ORD-50816,2025-02-09,C1112,Daypack 22L,packs,2,107.58,retail
+ORD-51420,2025-02-09,C1196,Daypack 22L,packs,7,108.52,Web
+ORD-51519,2025-02-09,C1207,Rain Shell,outerwear,3,214.42,web
+ORD-51754,2025-02-09,C1243,Hiking Sock,apparel,3,17.93,partner
+ORD-52179,2025-02-09,C1296,Down Jacket,outerwear,9,308.83,partner
+ORD-52197,2025-02-09,C1296,Base Layer,apparel,14,71.61,web
+ORD-52407,2025-02-09,C1324,Trail Runner,footwear,8,126.02,partner
+ORD-52548,2025-02-09,C1346,Down Jacket,outerwear,4,324.96,retail
+ORD-52686,2025-02-09,C1365,Rain Shell,outerwear,4,217.44,Retail
+ORD-50190,2025-02-10,C1036,Base Layer,apparel,3,68.75,WEB 
+ORD-50471,2025-02-10,C1067,Base Layer,apparel,2,68.88,WEB 
+ORD-50481,2025-02-10,C1070,Trail Runner,footwear,1,132.84,Partner
+ORD-50537,2025-02-10,C1076,Daypack 22L,packs,10,110.15,retail
+ORD-50749,2025-02-10,C1102,Hiking Sock,apparel,2,17.94,Web
+ORD-50852,2025-02-10,C1117,Daypack 22L,packs,6,110.12,partner
+ORD-50940,2025-02-10,C1126,Hiking Sock,apparel,2,18.65,retail
+ORD-51008,2025-02-10,C1134,Rain Shell,outerwear,8,215.81,web
+ORD-51073,2025-02-10,C1141,Trekking Poles,hardware,4,96.81,partner
+ORD-51699,2025-02-10,C1234,Approach Shoe,footwear,2,149.48,web
+ORD-52015,2025-02-10,C1274,Headlamp,hardware,7,42.68,web
+ORD-52044,2025-02-10,C1279,Hiking Sock,apparel,2,17.79, retail
+ORD-52074,2025-02-10,C1284,Daypack 22L,packs,6,112.14,web
+ORD-52237,2025-02-10,C1301,Base Layer,apparel,9,72.67,retail
+ORD-52457,2025-02-10,C1331,Base Layer,apparel,1,67.83,WEB 
+ORD-52486,2025-02-10,C1338,Base Layer,apparel,3,70.74,Web
+ORD-52877,2025-02-10,C1393,Rain Shell,outerwear,3,210.72,web
+ORD-50260,2025-02-11,C1040,Approach Shoe,footwear,5,151.24,partner
+ORD-50477,2025-02-11,C1068,Hiking Sock,apparel,2,19.01,partner
+ORD-50635,2025-02-11,C1089,Down Jacket,outerwear,5,307.04,Web
+ORD-50803,2025-02-11,C1110,Down Jacket,outerwear,5,327.6,web
+ORD-51071,2025-02-11,C1140,Headlamp,hardware,1,42.3,web
+ORD-51560,2025-02-11,C1216,Down Jacket,outerwear,3,327.1,retail
+ORD-51805,2025-02-11,C1252,Trekking Poles,hardware,6,98.66, retail
+ORD-52435,2025-02-11,C1327,Trekking Poles,hardware,6,99.01,Web
+ORD-50998,2025-02-12,C1133,Hiking Sock,apparel,1,19.22,Web
+ORD-51059,2025-02-12,C1138,Expedition Pack 65L,packs,9,350.87,Partner
+ORD-51391,2025-02-12,C1188,Rain Shell,outerwear,2,226.92,web
+ORD-51438,2025-02-12,C1199,Approach Shoe,footwear,10,150.52,retail
+ORD-51631,2025-02-12,C1224,Approach Shoe,footwear,1,155.07,retail
+ORD-51749,2025-02-12,C1242,Trekking Poles,hardware,1,93.78,web
+ORD-52765,2025-02-12,C1378,Trekking Poles,hardware,2,98.3,web
+ORD-52865,2025-02-12,C1390,Down Jacket,outerwear,2,308.1,web
+ORD-50119,2025-02-13,C1021,Trekking Poles,hardware,1,95.96,web
+ORD-50272,2025-02-13,C1042,Base Layer,apparel,6,68.35,web
+ORD-50366,2025-02-13,C1057,Base Layer,apparel,11,71.83,web
+ORD-50504,2025-02-13,C1073,Daypack 22L,packs,1,114.49,partner
+ORD-51122,2025-02-13,C1151,Base Layer,apparel,23,71.42,Partner
+ORD-51294,2025-02-13,C1175,Daypack 22L,packs,3,113.22,Retail
+ORD-51999,2025-02-13,C1273,Down Jacket,outerwear,5,308.67,Web
+ORD-52436,2025-02-13,C1327,Down Jacket,outerwear,11,318.07,web
+ORD-52633,2025-02-13,C1357,Trail Runner,footwear,1,123.86,web
+ORD-52639,2025-02-13,C1357,Hiking Sock,apparel,5,18.79,web
+ORD-52752,2025-02-13,C1376,Daypack 22L,packs,7,110.15,retail
+ORD-50080,2025-02-14,C1017,Trail Runner,footwear,1,126.2,Web
+ORD-51981,2025-02-14,C1270,Approach Shoe,footwear,13,158.83,web
+ORD-52094,2025-02-14,C1286,Trail Runner,footwear,,126.11,web
+ORD-52170,2025-02-14,C1296,Approach Shoe,footwear,11,156.16,Partner
+ORD-52171,2025-02-14,C1296,Daypack 22L,packs,10,112.99,retail
+ORD-52609,2025-02-14,C1353,Rain Shell,outerwear,6,219.84,web
+ORD-50169,2025-02-15,C1030,Hiking Sock,apparel,1,17.98,Retail
+ORD-50327,2025-02-15,C1053,Hiking Sock,apparel,5,18.75,Retail
+ORD-51455,2025-02-15,C1199,Expedition Pack 65L,packs,7,331.21,web
+ORD-51529,2025-02-15,C1208,Trekking Poles,hardware,7,92.65,partner
+ORD-51668,2025-02-15,C1230,Headlamp,hardware,12,40.79,Retail
+ORD-51777,2025-02-15,C1249,Rain Shell,outerwear,5,223.66,web
+ORD-51828,2025-02-15,C1254,Headlamp,hardware,10,42.62,web
+ORD-52450,2025-02-15,C1327,Base Layer,apparel,10,68.4,Retail
+ORD-52581,2025-02-15,C1351,Down Jacket,outerwear,3,322.03,Retail
+ORD-52637,2025-02-15,C1357,Headlamp,hardware,4,42.12,web
+ORD-52737,2025-02-15,C1374,Rain Shell,outerwear,2,216.69,Retail
+ORD-52904,2025-02-15,C1397,Trekking Poles,hardware,6,95.12,Retail
+ORD-50200,2025-02-16,C1037,Headlamp,hardware,1,42.85,web
+ORD-50515,2025-02-16,C1075,Expedition Pack 65L,packs,6,334.93,partner
+ORD-50683,2025-02-16,C1095,Approach Shoe,footwear,4,153.98,web
+ORD-50976,2025-02-16,C1129,Hiking Sock,apparel,5,17.81,partner
+ORD-51154,2025-02-16,C1155,Down Jacket,outerwear,3,324.73,retail
+ORD-51568,2025-02-16,C1218,Approach Shoe,footwear,4,153.33,Retail
+ORD-51737,2025-02-16,C1240,Rain Shell,outerwear,2,220.71,web
+ORD-52093,2025-02-16,C1285,Trail Runner,footwear,2,130.97,retail
+ORD-52452,2025-02-16,C1328,Approach Shoe,footwear,2,154.98,web
+ORD-52503,2025-02-16,C1341,Down Jacket,outerwear,3,325.24,Partner
+ORD-52788,2025-02-16,C1379,Hiking Sock,apparel,16,18.79,web
+ORD-52820,2025-02-16,C1385,Headlamp,hardware,3,42.65,Web
+ORD-51041,2025-02-17,C1137,Trekking Poles,hardware,3,97.26,retail
+ORD-51476,2025-02-17,C1202,Hiking Sock,apparel,7,18.48,Web
+ORD-52063,2025-02-17,C1282,Headlamp,hardware,1,42.03,partner
+ORD-52175,2025-02-17,C1296,Base Layer,apparel,16,72.92,web
+ORD-52310,2025-02-17,C1308,Headlamp,hardware,1,41.91,Retail
+ORD-52496,2025-02-17,C1341,Headlamp,hardware,2,42.24,Web
+ORD-52611,2025-02-17,C1353,Approach Shoe,footwear,7,154.8,retail
+ORD-50052,2025-02-18,C1012,Expedition Pack 65L,packs,3,334.37,retail
+ORD-50473,2025-02-18,C1067,Approach Shoe,footwear,2,153.06,web
+ORD-50928,2025-02-18,C1125,Daypack 22L,packs,12,112.68,partner
+ORD-50977,2025-02-18,C1129,Expedition Pack 65L,packs,3,350.06,partner
+ORD-51023,2025-02-18,C1137,Headlamp,hardware,9,40.94,WEB 
+ORD-51250,2025-02-18,C1167,Approach Shoe,footwear,4,148.3,retail
+ORD-51341,2025-02-18,C1181,Trekking Poles,hardware,3,98.52,web
+ORD-51448,2025-02-18,C1199,Trekking Poles,hardware,9,94.8,retail
+ORD-51540,2025-02-18,C1211,Down Jacket,outerwear,5,317.41,retail
+ORD-51571,2025-02-18,C1219,Headlamp,hardware,2,41.23,Retail
+ORD-51812,2025-02-18,C1252,Headlamp,hardware,3,42.25,partner
+ORD-51932,2025-02-18,C1265,Trail Runner,footwear,10,126.94,retail
+ORD-52181,2025-02-18,C1296,Expedition Pack 65L,packs,8,344.68,WEB 
+ORD-52195,2025-02-18,C1296,Daypack 22L,packs,18,109.58,web
+ORD-52430,2025-02-18,C1327,Down Jacket,outerwear,6,326.82,partner
+ORD-50118,2025-02-19,C1021,Approach Shoe,footwear,4,149.41,web
+ORD-50529,2025-02-19,C1076,Trail Runner,footwear,6,132.56,retail
+ORD-50730,2025-02-19,C1101,Trekking Poles,hardware,14,98.09,web
+ORD-50735,2025-02-19,C1101,Rain Shell,outerwear,13,211.64,Retail
+ORD-51099,2025-02-19,C1147,Trekking Poles,hardware,,92.72,retail
+ORD-51166,2025-02-19,C1156,Daypack 22L,packs,1,113.08,retail
+ORD-51347,2025-02-19,C1182,Base Layer,apparel,2,70.03,Partner
+ORD-51584,2025-02-19,C1221,Expedition Pack 65L,packs,14,344.53,retail
+ORD-51609,2025-02-19,C1221,Base Layer,apparel,14,71.94,WEB 
+ORD-51813,2025-02-19,C1252,Expedition Pack 65L,packs,4,335.96,web
+ORD-52029,2025-02-19,C1274,Trekking Poles,hardware,5,94.35,WEB 
+ORD-52636,2025-02-19,C1357,Expedition Pack 65L,packs,3,327.75, retail
+ORD-50848,2025-02-20,C1117,Hiking Sock,apparel,3,18.96,retail
+ORD-51437,2025-02-20,C1198,Base Layer,apparel,5,68.26,Web
+ORD-51487,2025-02-20,C1202,Daypack 22L,packs,10,115.29,Partner
+ORD-51817,2025-02-20,C1253,Trekking Poles,hardware,2,96.32,retail
+ORD-52239,2025-02-20,C1301,Hiking Sock,apparel,9,18.07,web
+ORD-52753,2025-02-20,C1376,Trekking Poles,hardware,5,92.22,web
+ORD-52797,2025-02-20,C1380,Expedition Pack 65L,packs,,353.56,web
+ORD-52813,2025-02-20,C1385,Hiking Sock,apparel,5,18.88,partner
+ORD-52890,2025-02-20,C1397,Trail Runner,footwear,9,123.34,web
+ORD-52901,2025-02-20,C1397,Trail Runner,footwear,14,131.42,retail
+ORD-50069,2025-02-21,C1015,Base Layer,apparel,2,71.37,web
+ORD-50129,2025-02-21,C1021,Daypack 22L,packs,1,115.52,Partner
+ORD-50205,2025-02-21,C1038,Approach Shoe,footwear,3,157.5,partner
+ORD-50554,2025-02-21,C1080,Base Layer,apparel,4,67.69,web
+ORD-50694,2025-02-21,C1097,Base Layer,apparel,,68.32,Retail
+ORD-50719,2025-02-21,C1099,Rain Shell,outerwear,3,217.38,Web
+ORD-50732,2025-02-21,C1101,Approach Shoe,footwear,9,155.78,Retail
+ORD-50738,2025-02-21,C1101,Daypack 22L,packs,8,109.16,retail
+ORD-50970,2025-02-21,C1128,Down Jacket,outerwear,11,318.99,retail
+ORD-51493,2025-02-21,C1202,Expedition Pack 65L,packs,7,352.51,web
+ORD-52009,2025-02-21,C1273,Base Layer,apparel,,68.65,partner
+ORD-52229,2025-02-21,C1301,Hiking Sock,apparel,9,18.44,Web
+ORD-52722,2025-02-21,C1371,Expedition Pack 65L,packs,5,327.3,web
+ORD-50493,2025-02-22,C1071,Base Layer,apparel,3,68.03,web
+ORD-50964,2025-02-22,C1128,Trekking Poles,hardware,7,99.75,retail
+ORD-51206,2025-02-22,C1160,Rain Shell,outerwear,4,218.26,web
+ORD-51333,2025-02-22,C1179,Hiking Sock,apparel,3,18.44,Retail
+ORD-51348,2025-02-22,C1182,Down Jacket,outerwear,1,317.31,retail
+ORD-51475,2025-02-22,C1202,Base Layer,apparel,11,68.69,partner
+ORD-52270,2025-02-22,C1303,Headlamp,hardware,7,41.44,Partner
+ORD-52338,2025-02-22,C1312,Approach Shoe,footwear,2,152.49,retail
+ORD-52416,2025-02-22,C1325,Daypack 22L,packs,2,108.35,partner
+ORD-52769,2025-02-22,C1379,Trekking Poles,hardware,18,96.46,web
+ORD-52892,2025-02-22,C1397,Hiking Sock,apparel,11,18.76,web
+ORD-51647,2025-02-23,C1227,Expedition Pack 65L,packs,4,339.48,web
+ORD-51648,2025-02-23,C1227,Trekking Poles,hardware,2,98.85,web
+ORD-51849,2025-02-23,C1255,Headlamp,hardware,1,43.26,Retail
+ORD-51879,2025-02-23,C1260,Trekking Poles,hardware,9,98.39,retail
+ORD-52040,2025-02-23,C1278,Trail Runner,footwear,2,125.21,Retail
+ORD-52174,2025-02-23,C1296,Rain Shell,outerwear,13,222.06,web
+ORD-52238,2025-02-23,C1301,Rain Shell,outerwear,5,213.97,retail
+ORD-52898,2025-02-23,C1397,Hiking Sock,apparel,6,18.97,WEB 
+ORD-52910,2025-02-23,C1397,Daypack 22L,packs,9,108.43,WEB 
+ORD-50191,2025-02-24,C1036,Base Layer,apparel,3,69.4,WEB 
+ORD-50261,2025-02-24,C1040,Down Jacket,outerwear,6,324.68,Retail
+ORD-50328,2025-02-24,C1053,Down Jacket,outerwear,8,311.17,retail
+ORD-50507,2025-02-24,C1074,Headlamp,hardware,3,40.73,partner
+ORD-50807,2025-02-24,C1110,Rain Shell,outerwear,5,217.64,Web
+ORD-51060,2025-02-24,C1138,Rain Shell,outerwear,6,220.63,partner
+ORD-51313,2025-02-24,C1175,Daypack 22L,packs,11,113.53, retail
+ORD-51350,2025-02-24,C1183,Rain Shell,outerwear,5,219.97,partner
+ORD-51543,2025-02-24,C1212,Down Jacket,outerwear,6,323.94,web
+ORD-51724,2025-02-24,C1239,Rain Shell,outerwear,4,225.8,retail
+ORD-51873,2025-02-24,C1260,Headlamp,hardware,14,40.52, retail
+ORD-51993,2025-02-24,C1272,Expedition Pack 65L,packs,1,340.34,partner
+ORD-52187,2025-02-24,C1296,Rain Shell,outerwear,10,223.78,retail
+ORD-52446,2025-02-24,C1327,Headlamp,hardware,6,43.67,web
+ORD-52789,2025-02-24,C1379,Down Jacket,outerwear,13,309.28,retail
+ORD-52899,2025-02-24,C1397,Rain Shell,outerwear,6,211.27,web
+ORD-50415,2025-02-25,C1064,Down Jacket,outerwear,,324.7,retail
+ORD-50465,2025-02-25,C1065,Approach Shoe,footwear,13,155.57,retail
+ORD-50474,2025-02-25,C1067,Expedition Pack 65L,packs,4,336.27,web
+ORD-50624,2025-02-25,C1089,Trekking Poles,hardware,4,92.56,web
+ORD-50860,2025-02-25,C1117,Trail Runner,footwear,5,131.93,partner
+ORD-50871,2025-02-25,C1118,Expedition Pack 65L,packs,3,329.69,web
+ORD-51068,2025-02-25,C1139,Hiking Sock,apparel,2,18.02,retail
+ORD-51135,2025-02-25,C1151,Approach Shoe,footwear,6,154.29,web
+ORD-51281,2025-02-25,C1171,Headlamp,hardware,1,42.31,partner
+ORD-51408,2025-02-25,C1193,Headlamp,hardware,3,40.74,web
+ORD-51562,2025-02-25,C1216,Approach Shoe,footwear,1,154.72,WEB 
+ORD-51768,2025-02-25,C1247,Hiking Sock,apparel,1,18.63,Partner
+ORD-51782,2025-02-25,C1249,Approach Shoe,footwear,5,154.4,web
+ORD-52243,2025-02-25,C1302,Down Jacket,outerwear,2,320.81,retail
+ORD-52466,2025-02-25,C1333,Daypack 22L,packs,1,115.1, retail
+ORD-52566,2025-02-25,C1348,Rain Shell,outerwear,4,224.79,retail
+ORD-52778,2025-02-25,C1379,Trail Runner,footwear,11,130.94,Retail
+ORD-50584,2025-02-26,C1084,Expedition Pack 65L,packs,6,331.13,Web
+ORD-51104,2025-02-26,C1148,Down Jacket,outerwear,6,326.36,web
+ORD-51305,2025-02-26,C1175,Trekking Poles,hardware,3,96.54,retail
+ORD-51327,2025-02-26,C1178,Rain Shell,outerwear,2,219.14,Web
+ORD-51402,2025-02-26,C1190,Daypack 22L,packs,1,115.46,web
+ORD-51496,2025-02-26,C1202,Expedition Pack 65L,packs,17,344.13,retail
+ORD-51652,2025-02-26,C1229,Down Jacket,outerwear,7,323.17,partner
+ORD-51753,2025-02-26,C1243,Rain Shell,outerwear,5,225.38,retail
+ORD-52275,2025-02-26,C1304,Daypack 22L,packs,2,108.1,web
+ORD-52917,2025-02-26,C1399,Trail Runner,footwear,3,130.71,Web
+ORD-50013,2025-02-27,C1005,Expedition Pack 65L,packs,5,336.99,Retail
+ORD-50194,2025-02-27,C1036,Trekking Poles,hardware,1,94.53,web
+ORD-50245,2025-02-27,C1040,Rain Shell,outerwear,5,224.85,web
+ORD-50269,2025-02-27,C1042,Daypack 22L,packs,3,115.03,web
+ORD-50706,2025-02-27,C1097,Trekking Poles,hardware,8,97.43,web
+ORD-50904,2025-02-27,C1123,Base Layer,apparel,6,70.79,Partner
+ORD-51470,2025-02-27,C1202,Headlamp,hardware,12,43.14,retail
+ORD-51698,2025-02-27,C1234,Expedition Pack 65L,packs,4,330.06,partner
+ORD-51705,2025-02-27,C1236,Expedition Pack 65L,packs,1,326.79,web
+ORD-52129,2025-02-27,C1289,Hiking Sock,apparel,9,18.72,web
+ORD-52182,2025-02-27,C1296,Headlamp,hardware,10,43.18,retail
+ORD-52226,2025-02-27,C1301,Headlamp,hardware,8,43.14,WEB 
+ORD-52333,2025-02-27,C1312,Headlamp,hardware,4,40.77,Partner
+ORD-52511,2025-02-27,C1343,Trekking Poles,hardware,10,94.05,retail
+ORD-52588,2025-02-27,C1352,Base Layer,apparel,2,72.53,Partner
+ORD-52697,2025-02-27,C1366,Expedition Pack 65L,packs,3,327.5,web
+ORD-52708,2025-02-27,C1368,Expedition Pack 65L,packs,1,352.14,retail
+ORD-52805,2025-02-27,C1383,Trail Runner,footwear,4,124.6,Web
+ORD-50425,2025-02-28,C1064,Hiking Sock,apparel,6,17.78,web
+ORD-50521,2025-02-28,C1076,Headlamp,hardware,11,42.68,web
+ORD-50556,2025-02-28,C1080,Expedition Pack 65L,packs,4,345.85,partner
+ORD-50867,2025-02-28,C1117,Headlamp,hardware,8,40.83,web
+ORD-51054,2025-02-28,C1138,Approach Shoe,footwear,14,158.01,Retail
+ORD-51209,2025-02-28,C1161,Rain Shell,outerwear,2,220.57,partner
+ORD-51386,2025-02-28,C1187,Hiking Sock,apparel,11,18.54,Retail
+ORD-51492,2025-02-28,C1202,Headlamp,hardware,14,42.52,web
+ORD-51569,2025-02-28,C1218,Approach Shoe,footwear,4,150.23,web
+ORD-51872,2025-02-28,C1260,Base Layer,apparel,5,72.63,web
+ORD-52034,2025-02-28,C1274,Trekking Poles,hardware,6,96.1,Web
+ORD-52336,2025-02-28,C1312,Hiking Sock,apparel,3,18.02,web
+ORD-52499,2025-02-28,C1341,Headlamp,hardware,2,40.69,Retail
+ORD-52774,2025-02-28,C1379,Rain Shell,outerwear,15,212.65,WEB 
+ORD-50192,2025-03-01,C1036,Hiking Sock,apparel,2,18.54,WEB 
+ORD-50304,2025-03-01,C1049,Trekking Poles,hardware,2,98.32,web
+ORD-50470,2025-03-01,C1066,Headlamp,hardware,1,41.81,web
+ORD-50777,2025-03-01,C1106,Expedition Pack 65L,packs,1,333.93,web
+ORD-51056,2025-03-01,C1138,Trekking Poles,hardware,10,95.61,partner
+ORD-51133,2025-03-01,C1151,Expedition Pack 65L,packs,14,327.42,retail
+ORD-51214,2025-03-01,C1162,Trekking Poles,hardware,4,99.46,web
+ORD-51463,2025-03-01,C1200,Trekking Poles,hardware,4,92.62,retail
+ORD-51488,2025-03-01,C1202,Trekking Poles,hardware,12,97.65,web
+ORD-52185,2025-03-01,C1296,Daypack 22L,packs,12,108.26,Web
+ORD-52235,2025-03-01,C1301,Rain Shell,outerwear,14,154.38,retail
+ORD-52527,2025-03-01,C1343,Daypack 22L,packs,6,107.58,web
+ORD-50475,2025-03-02,C1067,Approach Shoe,footwear,2,148.35,retail
+ORD-50726,2025-03-02,C1100,Trail Runner,footwear,5,130.21,web
+ORD-50766,2025-03-02,C1103,Daypack 22L,packs,2,115.31,retail
+ORD-50773,2025-03-02,C1105,Rain Shell,outerwear,2,159.09,retail
+ORD-50858,2025-03-02,C1117,Headlamp,hardware,8,41.84,web
+ORD-51064,2025-03-02,C1139,Expedition Pack 65L,packs,1,350.77,partner
+ORD-51193,2025-03-02,C1157,Hiking Sock,apparel,3,18.08,web
+ORD-51385,2025-03-02,C1187,Approach Shoe,footwear,7,151.54,Partner
+ORD-51491,2025-03-02,C1202,Trail Runner,footwear,11,127.01,retail
+ORD-51528,2025-03-02,C1208,Down Jacket,outerwear,4,223.7,web
+ORD-51703,2025-03-02,C1235,Expedition Pack 65L,packs,,340.35,web
+ORD-52064,2025-03-02,C1282,Down Jacket,outerwear,1,230.16,web
+ORD-52160,2025-03-02,C1295,Expedition Pack 65L,packs,,341.58,retail
+ORD-52183,2025-03-02,C1296,Down Jacket,outerwear,9,218.88,Retail
+ORD-52207,2025-03-02,C1298,Trail Runner,footwear,7,125.22,web
+ORD-52207,2025-03-02,C1298,Trail Runner,footwear,7,125.22,web
+ORD-52244,2025-03-02,C1302,Hiking Sock,apparel,1,18.47,partner
+ORD-52441,2025-03-02,C1327,Expedition Pack 65L,packs,9,333.26,web
+ORD-52675,2025-03-02,C1363,Daypack 22L,packs,1,110.58,Partner
+ORD-50035,2025-03-03,C1007,Trekking Poles,hardware,5,95.84,web
+ORD-50073,2025-03-03,C1015,Trail Runner,footwear,3,130.07,web
+ORD-50352,2025-03-03,C1056,Hiking Sock,apparel,3,17.84,retail
+ORD-50746,2025-03-03,C1101,Rain Shell,outerwear,8,156.18,web
+ORD-50851,2025-03-03,C1117,Expedition Pack 65L,packs,8,353.09,web
+ORD-50895,2025-03-03,C1121,Approach Shoe,footwear,4,155.36,web
+ORD-51033,2025-03-03,C1137,Hiking Sock,apparel,10,17.88,web
+ORD-51204,2025-03-03,C1160,Hiking Sock,apparel,4,18.97,Partner
+ORD-51535,2025-03-03,C1210,Rain Shell,outerwear,2,155.05,web
+ORD-51692,2025-03-03,C1232,Headlamp,hardware,6,42.63,web
+ORD-52097,2025-03-03,C1286,Approach Shoe,footwear,3,151.08, retail
+ORD-52834,2025-03-03,C1388,Base Layer,apparel,3,50.29,Web
+ORD-52907,2025-03-03,C1397,Daypack 22L,packs,8,111.2,Retail
+ORD-50332,2025-03-04,C1053,Down Jacket,outerwear,2,231.51,partner
+ORD-50611,2025-03-04,C1086,Trekking Poles,hardware,5,93.54,retail
+ORD-50652,2025-03-04,C1091,Down Jacket,outerwear,4,223.23,retail
+ORD-51399,2025-03-04,C1190,Base Layer,apparel,1,48.86,web
+ORD-51424,2025-03-04,C1196,Approach Shoe,footwear,3,152.12,Web
+ORD-51579,2025-03-04,C1220,Trekking Poles,hardware,2,98.9,WEB 
+ORD-51679,2025-03-04,C1231,Rain Shell,outerwear,1,152.4,partner
+ORD-51720,2025-03-04,C1239,Approach Shoe,footwear,1,151.49,retail
+ORD-52432,2025-03-04,C1327,Trail Runner,footwear,11,123.27,web
+ORD-52632,2025-03-04,C1357,Trekking Poles,hardware,2,95.1,web
+ORD-52689,2025-03-04,C1365,Daypack 22L,packs,2,110.92,Partner
+ORD-52757,2025-03-04,C1376,Base Layer,apparel,9,49.4,retail
+ORD-52851,2025-03-04,C1389,Daypack 22L,packs,5,109.53,Retail
+ORD-52891,2025-03-04,C1397,Down Jacket,outerwear,10,217.78,retail
+ORD-50573,2025-03-05,C1083,Hiking Sock,apparel,4,18.61,partner
+ORD-50941,2025-03-05,C1126,Daypack 22L,packs,4,115.34,web
+ORD-51044,2025-03-05,C1137,Hiking Sock,apparel,7,19.07,partner
+ORD-51103,2025-03-05,C1147,Down Jacket,outerwear,4,218.03,retail
+ORD-51276,2025-03-05,C1170,Base Layer,apparel,1,50.72,Retail
+ORD-51788,2025-03-05,C1249,Headlamp,hardware,6,42.91,retail
+ORD-51856,2025-03-05,C1256,Down Jacket,outerwear,1,217.1,web
+ORD-52682,2025-03-05,C1365,Hiking Sock,apparel,5,18.71,web
+ORD-52830,2025-03-05,C1388,Base Layer,apparel,,50.86,retail
+ORD-52857,2025-03-05,C1389,Approach Shoe,footwear,10,149.28,Web
+ORD-50120,2025-03-06,C1021,Trekking Poles,hardware,3,95.44,web
+ORD-50142,2025-03-06,C1024,Expedition Pack 65L,packs,5,345.78,WEB 
+ORD-50197,2025-03-06,C1036,Base Layer,apparel,1,51.62,Web
+ORD-50228,2025-03-06,C1039,Rain Shell,outerwear,,160.59,Partner
+ORD-50394,2025-03-06,C1060,Daypack 22L,packs,2,113.84,web
+ORD-50414,2025-03-06,C1064,Rain Shell,outerwear,2,160.64,retail
+ORD-50472,2025-03-06,C1067,Hiking Sock,apparel,3,18.26,partner
+ORD-50736,2025-03-06,C1101,Hiking Sock,apparel,12,18.35,partner
+ORD-50797,2025-03-06,C1109,Headlamp,hardware,1,42.18,retail
+ORD-51759,2025-03-06,C1244,Daypack 22L,packs,2,115.53,web
+ORD-51864,2025-03-06,C1258,Hiking Sock,apparel,2,18.26,Web
+ORD-51949,2025-03-06,C1265,Trail Runner,footwear,4,127.26,WEB 
+ORD-52169,2025-03-06,C1295,Down Jacket,outerwear,5,222.67,web
+ORD-52337,2025-03-06,C1312,Trail Runner,footwear,3,125.07,retail
+ORD-52366,2025-03-06,C1318,Hiking Sock,apparel,5,19.05,web
+ORD-52433,2025-03-06,C1327,Daypack 22L,packs,6,108.94,WEB 
+ORD-52433,2025-03-06,C1327,Daypack 22L,packs,6,108.94,WEB 
+ORD-52570,2025-03-06,C1349,Down Jacket,outerwear,3,217.24,retail
+ORD-50699,2025-03-07,C1097,Down Jacket,outerwear,8,219.19,Retail
+ORD-50708,2025-03-07,C1097,Hiking Sock,apparel,9,19.08,Retail
+ORD-50942,2025-03-07,C1127,Expedition Pack 65L,packs,1,341.59,web
+ORD-51082,2025-03-07,C1143,Approach Shoe,footwear,1,158.79,web
+ORD-51780,2025-03-07,C1249,Hiking Sock,apparel,3,19.0,retail
+ORD-52088,2025-03-07,C1284,Trail Runner,footwear,9,123.0,retail
+ORD-52116,2025-03-07,C1288,Down Jacket,outerwear,1,221.01,web
+ORD-52234,2025-03-07,C1301,Expedition Pack 65L,packs,9,350.98,WEB 
+ORD-52816,2025-03-07,C1385,Trekking Poles,hardware,1,98.25,Partner
+ORD-50172,2025-03-08,C1030,Trail Runner,footwear,2,124.6,web
+ORD-50290,2025-03-08,C1045,Approach Shoe,footwear,3,151.32,retail
+ORD-50431,2025-03-08,C1064,Expedition Pack 65L,packs,4,334.2,Retail
+ORD-50478,2025-03-08,C1068,Down Jacket,outerwear,1,229.25,retail
+ORD-50629,2025-03-08,C1089,Base Layer,apparel,4,48.6,partner
+ORD-50972,2025-03-08,C1128,Headlamp,hardware,13,40.74,Retail
+ORD-51308,2025-03-08,C1175,Trekking Poles,hardware,7,97.32,web
+ORD-51328,2025-03-08,C1178,Expedition Pack 65L,packs,2,330.38,Web
+ORD-51766,2025-03-08,C1246,Base Layer,apparel,2,51.8,Web
+ORD-52162,2025-03-08,C1295,Down Jacket,outerwear,2,232.74,retail
+ORD-52439,2025-03-08,C1327,Base Layer,apparel,7,51.59,web
+ORD-52482,2025-03-08,C1338,Daypack 22L,packs,3,110.68, retail
+ORD-50125,2025-03-09,C1021,Trail Runner,footwear,1,133.01,web
+ORD-50175,2025-03-09,C1032,Approach Shoe,footwear,1,153.11,web
+ORD-50666,2025-03-09,C1093,Approach Shoe,footwear,3,155.46,partner
+ORD-50733,2025-03-09,C1101,Trail Runner,footwear,12,132.75,partner
+ORD-50896,2025-03-09,C1121,Approach Shoe,footwear,2,153.84, retail
+ORD-51465,2025-03-09,C1200,Approach Shoe,footwear,1,152.74,Retail
+ORD-51783,2025-03-09,C1249,Hiking Sock,apparel,5,18.5, retail
+ORD-52065,2025-03-09,C1283,Rain Shell,outerwear,1,155.06,web
+ORD-52128,2025-03-09,C1289,Base Layer,apparel,11,49.28,Web
+ORD-52246,2025-03-09,C1302,Trekking Poles,hardware,2,96.8,web
+ORD-52331,2025-03-09,C1312,Hiking Sock,apparel,6,17.78,partner
+ORD-52543,2025-03-09,C1345,Rain Shell,outerwear,4,157.09,web
+ORD-52895,2025-03-09,C1397,Hiking Sock,apparel,7,18.1,partner
+ORD-50008,2025-03-10,C1004,Trail Runner,footwear,1,128.25,retail
+ORD-50268,2025-03-10,C1042,Down Jacket,outerwear,3,221.19,retail
+ORD-50615,2025-03-10,C1087,Expedition Pack 65L,packs,1,349.2,retail
+ORD-50745,2025-03-10,C1101,Trekking Poles,hardware,5,99.42,web
+ORD-50772,2025-03-10,C1105,Rain Shell,outerwear,1,154.3,partner
+ORD-50784,2025-03-10,C1107,Hiking Sock,apparel,2,18.12,WEB 
+ORD-51120,2025-03-10,C1151,Daypack 22L,packs,9,109.89,web
+ORD-51257,2025-03-10,C1167,Rain Shell,outerwear,4,158.26,retail
+ORD-51532,2025-03-10,C1209,Base Layer,apparel,1,51.2,WEB 
+ORD-51621,2025-03-10,C1223,Down Jacket,outerwear,5,232.38,Partner
+ORD-52191,2025-03-10,C1296,Rain Shell,outerwear,11,159.44,WEB 
+ORD-52214,2025-03-10,C1298,Down Jacket,outerwear,3,225.68,web
+ORD-52228,2025-03-10,C1301,Headlamp,hardware,7,42.35,partner
+ORD-52362,2025-03-10,C1317,Expedition Pack 65L,packs,2,351.28,web
+ORD-52631,2025-03-10,C1357,Trail Runner,footwear,5,131.43,Retail
+ORD-52679,2025-03-10,C1364,Down Jacket,outerwear,1,232.84,web
+ORD-52843,2025-03-10,C1389,Base Layer,apparel,10,49.76,Partner
+ORD-50056,2025-03-11,C1012,Trekking Poles,hardware,2,92.61,retail
+ORD-50605,2025-03-11,C1084,Headlamp,hardware,8,42.46,Partner
+ORD-50787,2025-03-11,C1107,Hiking Sock,apparel,2,17.98,retail
+ORD-51124,2025-03-11,C1151,Rain Shell,outerwear,6,159.38,Retail
+ORD-51515,2025-03-11,C1206,Rain Shell,outerwear,2,158.95,Web
+ORD-51789,2025-03-11,C1249,Daypack 22L,packs,7,111.56,web
+ORD-51825,2025-03-11,C1254,Daypack 22L,packs,8,116.26,Web
+ORD-52084,2025-03-11,C1284,Hiking Sock,apparel,10,18.33,web
+ORD-52360,2025-03-11,C1317,Headlamp,hardware,3,41.0,web
+ORD-52696,2025-03-11,C1366,Rain Shell,outerwear,1,157.45,partner
+ORD-52837,2025-03-11,C1389,Approach Shoe,footwear,6,148.74,retail
+ORD-50089,2025-03-12,C1018,Rain Shell,outerwear,1,156.77,Retail
+ORD-50198,2025-03-12,C1036,Approach Shoe,footwear,3,158.52, retail
+ORD-50420,2025-03-12,C1064,Approach Shoe,footwear,3,159.32,retail
+ORD-50421,2025-03-12,C1064,Trekking Poles,hardware,5,96.42,retail
+ORD-50953,2025-03-12,C1128,Base Layer,apparel,11,51.01,retail
+ORD-51070,2025-03-12,C1140,Rain Shell,outerwear,3,157.13, retail
+ORD-51194,2025-03-12,C1157,Expedition Pack 65L,packs,4,343.75, retail
+ORD-51472,2025-03-12,C1202,Trekking Poles,hardware,9,92.34,partner
+ORD-51785,2025-03-12,C1249,Expedition Pack 65L,packs,3,327.39,web
+ORD-52218,2025-03-12,C1300,Trail Runner,footwear,2,130.26,Retail
+ORD-52250,2025-03-12,C1303,Approach Shoe,footwear,6,150.61,partner
+ORD-52555,2025-03-12,C1348,Rain Shell,outerwear,4,159.0,retail
+ORD-50166,2025-03-13,C1029,Daypack 22L,packs,1,109.82,Web
+ORD-50171,2025-03-13,C1030,Rain Shell,outerwear,1,158.38,web
+ORD-50387,2025-03-13,C1058,Trekking Poles,hardware,1,93.84, retail
+ORD-50598,2025-03-13,C1084,Expedition Pack 65L,packs,5,344.71,retail
+ORD-50643,2025-03-13,C1090,Base Layer,apparel,5,48.38,partner
+ORD-50740,2025-03-13,C1101,Down Jacket,outerwear,5,227.51,Partner
+ORD-50774,2025-03-13,C1105,Approach Shoe,footwear,1,149.06,web
+ORD-50799,2025-03-13,C1109,Rain Shell,outerwear,1,158.4,Retail
+ORD-51051,2025-03-13,C1138,Trekking Poles,hardware,,97.33,Retail
+ORD-51263,2025-03-13,C1167,Base Layer,apparel,9,48.71,Partner
+ORD-51387,2025-03-13,C1187,Trail Runner,footwear,10,129.52,web
+ORD-51851,2025-03-13,C1255,Trekking Poles,hardware,4,96.99,Partner
+ORD-51936,2025-03-13,C1265,Base Layer,apparel,6,48.29,web
+ORD-52035,2025-03-13,C1275,Headlamp,hardware,2,41.12,Partner
+ORD-52702,2025-03-13,C1367,Expedition Pack 65L,packs,1,352.94,web
+ORD-52897,2025-03-13,C1397,Headlamp,hardware,,40.66,web
+ORD-52919,2025-03-13,C1399,Rain Shell,outerwear,4,154.63,Retail
+ORD-50550,2025-03-14,C1080,Hiking Sock,apparel,1,19.05,web
+ORD-50689,2025-03-14,C1097,Trekking Poles,hardware,8,96.08,Partner
+ORD-50725,2025-03-14,C1100,Hiking Sock,apparel,3,18.72,web
+ORD-50898,2025-03-14,C1122,Base Layer,apparel,1,48.59,Retail
+ORD-51118,2025-03-14,C1151,Expedition Pack 65L,packs,3,335.25,web
+ORD-52101,2025-03-14,C1287,Trekking Poles,hardware,11,99.18,retail
+ORD-52289,2025-03-14,C1305,Headlamp,hardware,5,41.68,web
+ORD-52549,2025-03-14,C1346,Down Jacket,outerwear,1,231.84,WEB 
+ORD-52561,2025-03-14,C1348,Expedition Pack 65L,packs,,347.57,web
+ORD-52775,2025-03-14,C1379,Expedition Pack 65L,packs,9,344.43,web
+ORD-50278,2025-03-15,C1044,Expedition Pack 65L,packs,6,344.22,Retail
+ORD-50393,2025-03-15,C1060,Daypack 22L,packs,1,107.62,web
+ORD-50447,2025-03-15,C1065,Rain Shell,outerwear,8,149.41,web
+ORD-50510,2025-03-15,C1074,Trail Runner,footwear,1,130.44,web
+ORD-50700,2025-03-15,C1097,Expedition Pack 65L,packs,8,350.67,web
+ORD-51053,2025-03-15,C1138,Rain Shell,outerwear,10,152.05,retail
+ORD-51392,2025-03-15,C1189,Hiking Sock,apparel,1,18.4,partner
+ORD-51400,2025-03-15,C1190,Approach Shoe,footwear,1,156.86,retail
+ORD-51450,2025-03-15,C1199,Approach Shoe,footwear,13,150.26,Retail
+ORD-51847,2025-03-15,C1255,Base Layer,apparel,1,48.62,retail
+ORD-51870,2025-03-15,C1260,Rain Shell,outerwear,11,155.63,retail
+ORD-50167,2025-03-16,C1029,Approach Shoe,footwear,1,150.95,partner
+ORD-50644,2025-03-16,C1090,Hiking Sock,apparel,4,18.28,web
+ORD-50696,2025-03-16,C1097,Trekking Poles,hardware,11,94.33,retail
+ORD-50855,2025-03-16,C1117,Trail Runner,footwear,8,127.47,WEB 
+ORD-51405,2025-03-16,C1191,Base Layer,apparel,1,49.54,partner
+ORD-52196,2025-03-16,C1296,Hiking Sock,apparel,8,18.73,web
+ORD-52277,2025-03-16,C1304,Headlamp,hardware,3,42.79,web
+ORD-52381,2025-03-16,C1321,Expedition Pack 65L,packs,1,343.7,retail
+ORD-52395,2025-03-16,C1323,Approach Shoe,footwear,1,152.6,web
+ORD-50199,2025-03-17,C1036,Trail Runner,footwear,1,123.33,retail
+ORD-50594,2025-03-17,C1084,Expedition Pack 65L,packs,9,344.73,retail
+ORD-50912,2025-03-17,C1123,Down Jacket,outerwear,1,225.4,Retail
+ORD-50912,2025-03-17,C1123,Down Jacket,outerwear,1,225.4,Retail
+ORD-51061,2025-03-17,C1138,Trekking Poles,hardware,15,96.89,web
+ORD-51165,2025-03-17,C1156,Trekking Poles,hardware,,95.73,Retail
+ORD-51232,2025-03-17,C1164,Hiking Sock,apparel,3,18.72,web
+ORD-51726,2025-03-17,C1239,Trekking Poles,hardware,6,92.25,web
+ORD-51738,2025-03-17,C1240,Approach Shoe,footwear,2,149.07,web
+ORD-51740,2025-03-17,C1241,Base Layer,apparel,2,48.6,Web
+ORD-52644,2025-03-17,C1358,Trail Runner,footwear,3,131.87, retail
+ORD-52677,2025-03-17,C1364,Base Layer,apparel,2,50.77,web
+ORD-52894,2025-03-17,C1397,Expedition Pack 65L,packs,6,342.41,WEB 
+ORD-50173,2025-03-18,C1031,Down Jacket,outerwear,2,231.72,web
+ORD-50441,2025-03-18,C1064,Trekking Poles,hardware,5,92.87,WEB 
+ORD-50909,2025-03-18,C1123,Rain Shell,outerwear,4,152.81,web
+ORD-51058,2025-03-18,C1138,Hiking Sock,apparel,10,17.77,Retail
+ORD-51100,2025-03-18,C1147,Headlamp,hardware,2,40.86,Partner
+ORD-51587,2025-03-18,C1221,Trekking Poles,hardware,9,97.07,retail
+ORD-51645,2025-03-18,C1227,Expedition Pack 65L,packs,3,349.53,Web
+ORD-52222,2025-03-18,C1301,Headlamp,hardware,6,41.08,web
+ORD-52692,2025-03-18,C1366,Expedition Pack 65L,packs,1,342.54,retail
+ORD-52811,2025-03-18,C1384,Base Layer,apparel,2,48.97,web
+ORD-50849,2025-03-19,C1117,Headlamp,hardware,5,41.86,partner
+ORD-51335,2025-03-19,C1179,Daypack 22L,packs,3,112.99,Retail
+ORD-51356,2025-03-19,C1183,Hiking Sock,apparel,2,18.36,retail
+ORD-51915,2025-03-19,C1264,Headlamp,hardware,1,41.6,web
+ORD-51922,2025-03-19,C1265,Trail Runner,footwear,9,130.92,retail
+ORD-52083,2025-03-19,C1284,Approach Shoe,footwear,6,155.94,web
+ORD-52546,2025-03-19,C1345,Expedition Pack 65L,packs,4,345.55,partner
+ORD-52705,2025-03-19,C1367,Down Jacket,outerwear,2,218.58,Retail
+ORD-52740,2025-03-19,C1374,Base Layer,apparel,2,50.82,retail
+ORD-52806,2025-03-19,C1384,Headlamp,hardware,3,43.06,Web
+ORD-50221,2025-03-20,C1039,Trekking Poles,hardware,12,94.68,web
+ORD-50690,2025-03-20,C1097,Trail Runner,footwear,7,131.05,partner
+ORD-50812,2025-03-20,C1111,Rain Shell,outerwear,2,159.07, retail
+ORD-50868,2025-03-20,C1117,Trail Runner,footwear,9,129.77,retail
+ORD-51031,2025-03-20,C1137,Daypack 22L,packs,8,111.92,web
+ORD-51062,2025-03-20,C1138,Trail Runner,footwear,13,131.81,Partner
+ORD-52274,2025-03-20,C1304,Headlamp,hardware,1,40.94, retail
+ORD-52473,2025-03-20,C1336,Trekking Poles,hardware,1,99.06,Retail
+ORD-52519,2025-03-20,C1343,Headlamp,hardware,8,40.65,retail
+ORD-52824,2025-03-20,C1387,Trail Runner,footwear,1,130.8,retail
+ORD-50274,2025-03-21,C1042,Approach Shoe,footwear,7,157.83,Retail
+ORD-50418,2025-03-21,C1064,Expedition Pack 65L,packs,3,353.36,Partner
+ORD-50612,2025-03-21,C1086,Base Layer,apparel,2,48.05,partner
+ORD-50634,2025-03-21,C1089,Rain Shell,outerwear,4,151.12,Retail
+ORD-50710,2025-03-21,C1097,Base Layer,apparel,12,51.91,retail
+ORD-50820,2025-03-21,C1112,Base Layer,apparel,2,50.74,retail
+ORD-50873,2025-03-21,C1118,Hiking Sock,apparel,5,17.81,retail
+ORD-51048,2025-03-21,C1138,Daypack 22L,packs,12,114.46,Web
+ORD-51157,2025-03-21,C1156,Trail Runner,footwear,6,125.36,retail
+ORD-51561,2025-03-21,C1216,Daypack 22L,packs,1,109.79,retail
+ORD-52176,2025-03-21,C1296,Headlamp,hardware,,43.13,web
+ORD-52221,2025-03-21,C1301,Headlamp,hardware,7,40.42,web
+ORD-52369,2025-03-21,C1318,Base Layer,apparel,6,49.31,Retail
+ORD-52468,2025-03-21,C1334,Expedition Pack 65L,packs,1,329.64,web
+ORD-50638,2025-03-22,C1090,Base Layer,apparel,4,51.44,Retail
+ORD-51433,2025-03-22,C1197,Expedition Pack 65L,packs,,342.99,web
+ORD-51512,2025-03-22,C1206,Trail Runner,footwear,6,123.86,Partner
+ORD-51558,2025-03-22,C1216,Hiking Sock,apparel,1,18.65,partner
+ORD-51713,2025-03-22,C1238,Headlamp,hardware,1,42.05,retail
+ORD-51791,2025-03-22,C1249,Hiking Sock,apparel,4,18.59,partner
+ORD-52137,2025-03-22,C1289,Daypack 22L,packs,7,114.27,Retail
+ORD-52379,2025-03-22,C1321,Trail Runner,footwear,1,132.55, retail
+ORD-52472,2025-03-22,C1335,Rain Shell,outerwear,2,159.72,retail
+ORD-52550,2025-03-22,C1346,Daypack 22L,packs,1,108.32,Web
+ORD-52739,2025-03-22,C1374,Rain Shell,outerwear,1,158.28,retail
+ORD-50195,2025-03-23,C1036,Approach Shoe,footwear,6,153.59,web
+ORD-50674,2025-03-23,C1094,Down Jacket,outerwear,1,221.86,web
+ORD-50949,2025-03-23,C1128,Rain Shell,outerwear,9,149.12,Web
+ORD-51137,2025-03-23,C1151,Rain Shell,outerwear,4,155.54,WEB 
+ORD-51188,2025-03-23,C1157,Expedition Pack 65L,packs,3,329.31,web
+ORD-51325,2025-03-23,C1178,Expedition Pack 65L,packs,1,330.22,retail
+ORD-51483,2025-03-23,C1202,Trekking Poles,hardware,20,98.52,web
+ORD-51530,2025-03-23,C1209,Trail Runner,footwear,1,128.07,Retail
+ORD-51661,2025-03-23,C1230,Trail Runner,footwear,11,126.01,retail
+ORD-51798,2025-03-23,C1251,Expedition Pack 65L,packs,2,332.54,Retail
+ORD-51860,2025-03-23,C1257,Rain Shell,outerwear,2,149.47,retail
+ORD-52081,2025-03-23,C1284,Rain Shell,outerwear,7,160.77,Retail
+ORD-52184,2025-03-23,C1296,Hiking Sock,apparel,15,18.34,Retail
+ORD-52347,2025-03-23,C1315,Down Jacket,outerwear,1,225.06,Partner
+ORD-52623,2025-03-23,C1355,Base Layer,apparel,1,48.3,web
+ORD-52748,2025-03-23,C1376,Trekking Poles,hardware,11,95.47,Web
+ORD-50032,2025-03-24,C1006,Down Jacket,outerwear,1,225.55,Web
+ORD-50145,2025-03-24,C1025,Base Layer,apparel,3,51.21,web
+ORD-50423,2025-03-24,C1064,Base Layer,apparel,4,51.08,retail
+ORD-50557,2025-03-24,C1080,Rain Shell,outerwear,1,158.2,web
+ORD-50770,2025-03-24,C1104,Daypack 22L,packs,,109.48,retail
+ORD-50966,2025-03-24,C1128,Down Jacket,outerwear,3,220.53,retail
+ORD-51138,2025-03-24,C1151,Trail Runner,footwear,9,126.7,Web
+ORD-51497,2025-03-24,C1203,Rain Shell,outerwear,3,159.49,web
+ORD-51502,2025-03-24,C1204,Approach Shoe,footwear,3,155.35,retail
+ORD-51573,2025-03-24,C1219,Trekking Poles,hardware,1,97.95,web
+ORD-51848,2025-03-24,C1255,Trekking Poles,hardware,3,93.95,web
+ORD-51918,2025-03-24,C1264,Approach Shoe,footwear,1,151.71,Retail
+ORD-52095,2025-03-24,C1286,Headlamp,hardware,1,41.92,Web
+ORD-52236,2025-03-24,C1301,Daypack 22L,packs,6,109.44,partner
+ORD-52405,2025-03-24,C1324,Down Jacket,outerwear,7,226.48,retail
+ORD-50082,2025-03-25,C1017,Hiking Sock,apparel,3,18.4,Retail
+ORD-50329,2025-03-25,C1053,Trekking Poles,hardware,,92.39,partner
+ORD-50435,2025-03-25,C1064,Daypack 22L,packs,8,112.17,Retail
+ORD-50575,2025-03-25,C1083,Base Layer,apparel,5,49.81,retail
+ORD-50630,2025-03-25,C1089,Base Layer,apparel,3,51.42,WEB 
+ORD-50742,2025-03-25,C1101,Daypack 22L,packs,8,107.75,Web
+ORD-50759,2025-03-25,C1103,Daypack 22L,packs,2,112.99,retail
+ORD-51050,2025-03-25,C1138,Approach Shoe,footwear,8,159.63,partner
+ORD-51289,2025-03-25,C1173,Trekking Poles,hardware,,98.75,Web
+ORD-51406,2025-03-25,C1191,Down Jacket,outerwear,1,232.05,Web
+ORD-51554,2025-03-25,C1214,Approach Shoe,footwear,4,147.87,Web
+ORD-51897,2025-03-25,C1261,Approach Shoe,footwear,3,156.4,Retail
+ORD-51924,2025-03-25,C1265,Approach Shoe,footwear,8,155.64,web
+ORD-52121,2025-03-25,C1289,Approach Shoe,footwear,12,156.11,Retail
+ORD-52224,2025-03-25,C1301,Base Layer,apparel,9,48.33,web
+ORD-52410,2025-03-25,C1324,Trail Runner,footwear,10,123.49,Web
+ORD-52518,2025-03-25,C1343,Daypack 22L,packs,,113.19,web
+ORD-52792,2025-03-25,C1379,Headlamp,hardware,12,41.11,Partner
+ORD-52796,2025-03-25,C1380,Approach Shoe,footwear,1,149.22,web
+ORD-50284,2025-03-26,C1044,Expedition Pack 65L,packs,6,343.51,Retail
+ORD-50561,2025-03-26,C1081,Rain Shell,outerwear,4,153.77,web
+ORD-50698,2025-03-26,C1097,Base Layer,apparel,10,50.64,web
+ORD-51160,2025-03-26,C1156,Approach Shoe,footwear,4,155.65,retail
+ORD-51477,2025-03-26,C1202,Approach Shoe,footwear,11,156.19,Retail
+ORD-51959,2025-03-26,C1268,Trail Runner,footwear,2,128.26,partner
+ORD-52060,2025-03-26,C1282,Trail Runner,footwear,3,123.35,Web
+ORD-52130,2025-03-26,C1289,Down Jacket,outerwear,10,223.66,retail
+ORD-52556,2025-03-26,C1348,Expedition Pack 65L,packs,3,334.95,WEB 
+ORD-52659,2025-03-26,C1359,Rain Shell,outerwear,4,152.17,Retail
+ORD-52693,2025-03-26,C1366,Rain Shell,outerwear,2,155.06,web
+ORD-52879,2025-03-26,C1393,Trekking Poles,hardware,3,96.99,web
+ORD-50011,2025-03-27,C1005,Trail Runner,footwear,6,126.66,web
+ORD-50395,2025-03-27,C1060,Base Layer,apparel,2,50.39,Retail
+ORD-50636,2025-03-27,C1089,Headlamp,hardware,4,42.5,retail
+ORD-51036,2025-03-27,C1137,Daypack 22L,packs,8,114.53,partner
+ORD-51261,2025-03-27,C1167,Approach Shoe,footwear,9,149.78,Web
+ORD-51541,2025-03-27,C1211,Trail Runner,footwear,2,123.88,web
+ORD-51590,2025-03-27,C1221,Base Layer,apparel,10,50.56,Web
+ORD-51804,2025-03-27,C1252,Trekking Poles,hardware,3,99.55,Retail
+ORD-51836,2025-03-27,C1254,Expedition Pack 65L,packs,11,330.63,web
+ORD-51966,2025-03-27,C1269,Hiking Sock,apparel,1,18.09,web
+ORD-52180,2025-03-27,C1296,Trekking Poles,hardware,14,93.57,web
+ORD-52188,2025-03-27,C1296,Rain Shell,outerwear,6,150.72,partner
+ORD-52667,2025-03-27,C1361,Rain Shell,outerwear,7,150.18,retail
+ORD-50176,2025-03-28,C1033,Down Jacket,outerwear,3,230.49,retail
+ORD-50667,2025-03-28,C1093,Trekking Poles,hardware,5,99.38,retail
+ORD-50854,2025-03-28,C1117,Rain Shell,outerwear,5,150.15,web
+ORD-50883,2025-03-28,C1119,Trekking Poles,hardware,5,96.73,web
+ORD-51109,2025-03-28,C1148,Base Layer,apparel,2,48.18,Web
+ORD-51312,2025-03-28,C1175,Headlamp,hardware,5,41.36,web
+ORD-51407,2025-03-28,C1192,Rain Shell,outerwear,3,160.21,web
+ORD-51823,2025-03-28,C1254,Trail Runner,footwear,18,131.25,web
+ORD-51891,2025-03-28,C1260,Down Jacket,outerwear,11,219.7,retail
+ORD-52418,2025-03-28,C1326,Trekking Poles,hardware,5,93.7,partner
+ORD-52469,2025-03-28,C1334,Rain Shell,outerwear,1,157.71,web
+ORD-52474,2025-03-28,C1336,Approach Shoe,footwear,2,155.91,web
+ORD-52523,2025-03-28,C1343,Daypack 22L,packs,10,114.46,web
+ORD-52638,2025-03-28,C1357,Expedition Pack 65L,packs,3,335.92,web
+ORD-50153,2025-03-29,C1026,Approach Shoe,footwear,1,148.05,partner
+ORD-50396,2025-03-29,C1060,Down Jacket,outerwear,1,218.35,Web
+ORD-50429,2025-03-29,C1064,Trekking Poles,hardware,9,98.46,web
+ORD-50586,2025-03-29,C1084,Base Layer,apparel,11,51.8,Partner
+ORD-50642,2025-03-29,C1090,Daypack 22L,packs,5,109.33,Retail
+ORD-50680,2025-03-29,C1095,Trekking Poles,hardware,1,93.35,WEB 
+ORD-50686,2025-03-29,C1097,Rain Shell,outerwear,12,150.16,retail
+ORD-50707,2025-03-29,C1097,Headlamp,hardware,8,42.49,Retail
+ORD-50850,2025-03-29,C1117,Trekking Poles,hardware,7,95.17,retail
+ORD-51116,2025-03-29,C1151,Hiking Sock,apparel,14,18.8,partner
+ORD-51150,2025-03-29,C1154,Down Jacket,outerwear,4,230.65,Web
+ORD-51352,2025-03-29,C1183,Approach Shoe,footwear,3,160.08,web
+ORD-52141,2025-03-29,C1290,Daypack 22L,packs,1,112.9,retail
+ORD-52419,2025-03-29,C1326,Approach Shoe,footwear,2,148.05,Retail
+ORD-52640,2025-03-29,C1357,Trail Runner,footwear,1,133.05,web
+ORD-50701,2025-03-30,C1097,Trekking Poles,hardware,7,95.13,partner
+ORD-51177,2025-03-30,C1156,Daypack 22L,packs,9,109.57,retail
+ORD-51306,2025-03-30,C1175,Expedition Pack 65L,packs,12,331.53,retail
+ORD-51316,2025-03-30,C1176,Base Layer,apparel,2,50.8,web
+ORD-51373,2025-03-30,C1187,Approach Shoe,footwear,7,155.67,retail
+ORD-51495,2025-03-30,C1202,Daypack 22L,packs,6,113.55,web
+ORD-51807,2025-03-30,C1252,Daypack 22L,packs,5,113.15,Partner
+ORD-52135,2025-03-30,C1289,Approach Shoe,footwear,11,152.42,Partner
+ORD-52278,2025-03-30,C1305,Hiking Sock,apparel,3,18.22,web
+ORD-52635,2025-03-30,C1357,Trekking Poles,hardware,5,94.99, retail
+ORD-52747,2025-03-30,C1376,Daypack 22L,packs,11,114.26,retail
+ORD-52831,2025-03-30,C1388,Daypack 22L,packs,1,111.76,Web
+ORD-50041,2025-03-31,C1009,Base Layer,apparel,1,50.13,Partner
+ORD-50275,2025-03-31,C1043,Base Layer,apparel,1,49.44,Partner
+ORD-50333,2025-03-31,C1053,Headlamp,hardware,2,41.0,web
+ORD-50526,2025-03-31,C1076,Rain Shell,outerwear,17,159.71,Partner
+ORD-50528,2025-03-31,C1076,Daypack 22L,packs,11,108.0,web
+ORD-50668,2025-03-31,C1093,Trail Runner,footwear,1,132.28,Retail
+ORD-50908,2025-03-31,C1123,Trekking Poles,hardware,8,95.04,Retail
+ORD-51037,2025-03-31,C1137,Down Jacket,outerwear,6,218.98,Web
+ORD-51191,2025-03-31,C1157,Trekking Poles,hardware,3,94.72, retail
+ORD-51210,2025-03-31,C1161,Rain Shell,outerwear,2,152.1,retail
+ORD-51563,2025-03-31,C1216,Approach Shoe,footwear,3,151.4,retail
+ORD-51680,2025-03-31,C1231,Approach Shoe,footwear,6,153.95,retail
+ORD-52386,2025-03-31,C1322,Rain Shell,outerwear,2,157.68,partner
+ORD-52471,2025-03-31,C1335,Daypack 22L,packs,2,114.36,web
+ORD-52591,2025-03-31,C1353,Trekking Poles,hardware,5,96.5,web
+ORD-52886,2025-03-31,C1395,Trekking Poles,hardware,2,99.18,Retail
+ORD-50076,2025-04-01,C1015,Trekking Poles,hardware,3,93.1,retail
+ORD-50126,2025-04-01,C1021,Down Jacket,outerwear,1,223.25,retail
+ORD-50146,2025-04-01,C1025,Rain Shell,outerwear,6,156.06,partner
+ORD-50685,2025-04-01,C1096,Daypack 22L,packs,3,115.08,web
+ORD-50893,2025-04-01,C1120,Trekking Poles,hardware,1,97.55,web
+ORD-51057,2025-04-01,C1138,Headlamp,hardware,12,40.35,Retail
+ORD-51108,2025-04-01,C1148,Daypack 22L,packs,3,111.07,retail
+ORD-51382,2025-04-01,C1187,Trekking Poles,hardware,10,99.38,Retail
+ORD-51903,2025-04-01,C1262,Down Jacket,outerwear,6,221.11,web
+ORD-52372,2025-04-01,C1318,Hiking Sock,apparel,4,17.78,Partner
+ORD-50267,2025-04-02,C1042,Trail Runner,footwear,6,131.92,web
+ORD-50714,2025-04-02,C1098,Base Layer,apparel,2,49.17,web
+ORD-50734,2025-04-02,C1101,Down Jacket,outerwear,11,226.68,Web
+ORD-51142,2025-04-02,C1151,Base Layer,apparel,8,50.25,Retail
+ORD-51168,2025-04-02,C1156,Trekking Poles,hardware,6,95.47, retail
+ORD-51427,2025-04-02,C1196,Daypack 22L,packs,4,114.77,web
+ORD-51478,2025-04-02,C1202,Trail Runner,footwear,11,130.18,Retail
+ORD-51593,2025-04-02,C1221,Expedition Pack 65L,packs,10,346.28,Web
+ORD-51809,2025-04-02,C1252,Hiking Sock,apparel,2,18.79,partner
+ORD-51934,2025-04-02,C1265,Expedition Pack 65L,packs,12,346.83,partner
+ORD-52172,2025-04-02,C1296,Headlamp,hardware,13,42.23, retail
+ORD-52443,2025-04-02,C1327,Down Jacket,outerwear,11,217.0,retail
+ORD-52618,2025-04-02,C1354,Headlamp,hardware,2,43.36,Retail
+ORD-50128,2025-04-03,C1021,Trail Runner,footwear,2,128.52,web
+ORD-50527,2025-04-03,C1076,Down Jacket,outerwear,7,223.84,retail
+ORD-50551,2025-04-03,C1080,Base Layer,apparel,2,50.93,WEB 
+ORD-50555,2025-04-03,C1080,Trail Runner,footwear,1,127.84,Partner
+ORD-51162,2025-04-03,C1156,Approach Shoe,footwear,9,152.57,Retail
+ORD-51187,2025-04-03,C1157,Approach Shoe,footwear,3,155.66,Retail
+ORD-51425,2025-04-03,C1196,Down Jacket,outerwear,4,223.75,web
+ORD-51484,2025-04-03,C1202,Hiking Sock,apparel,12,18.96,Web
+ORD-51620,2025-04-03,C1222,Headlamp,hardware,1,41.1,retail
+ORD-51967,2025-04-03,C1269,Trail Runner,footwear,1,123.86,retail
+ORD-52115,2025-04-03,C1287,Approach Shoe,footwear,11,154.47,WEB 
+ORD-52525,2025-04-03,C1343,Trekking Poles,hardware,6,96.22,web
+ORD-52557,2025-04-03,C1348,Hiking Sock,apparel,8,17.91,Web
+ORD-52653,2025-04-03,C1359,Headlamp,hardware,5,43.6,partner
+ORD-50098,2025-04-04,C1019,Hiking Sock,apparel,14,17.98,web
+ORD-50514,2025-04-04,C1075,Expedition Pack 65L,packs,4,345.74,Retail
+ORD-50646,2025-04-04,C1091,Down Jacket,outerwear,3,230.69,web
+ORD-52059,2025-04-04,C1282,Base Layer,apparel,1,48.2,retail
+ORD-52157,2025-04-04,C1294,Expedition Pack 65L,packs,2,351.95,web
+ORD-50117,2025-04-05,C1021,Base Layer,apparel,3,51.42,Partner
+ORD-50316,2025-04-05,C1051,Trekking Poles,hardware,1,95.54, retail
+ORD-50326,2025-04-05,C1053,Approach Shoe,footwear,3,156.96,WEB 
+ORD-50463,2025-04-05,C1065,Headlamp,hardware,5,41.59,web
+ORD-50545,2025-04-05,C1078,Down Jacket,outerwear,2,222.41,web
+ORD-50595,2025-04-05,C1084,Expedition Pack 65L,packs,14,332.49,Retail
+ORD-50639,2025-04-05,C1090,Rain Shell,outerwear,7,152.3,web
+ORD-50687,2025-04-05,C1097,Rain Shell,outerwear,3,154.97,partner
+ORD-50801,2025-04-05,C1110,Base Layer,apparel,5,50.69,partner
+ORD-51101,2025-04-05,C1147,Approach Shoe,footwear,1,159.69,retail
+ORD-51149,2025-04-05,C1153,Trekking Poles,hardware,3,93.74,Retail
+ORD-51564,2025-04-05,C1217,Trekking Poles,hardware,1,99.82,retail
+ORD-51885,2025-04-05,C1260,Down Jacket,outerwear,6,234.22,retail
+ORD-52690,2025-04-05,C1366,Daypack 22L,packs,2,113.51,Web
+ORD-50276,2025-04-06,C1044,Trail Runner,footwear,5,131.47,WEB 
+ORD-50337,2025-04-06,C1054,Down Jacket,outerwear,4,216.77,Retail
+ORD-50640,2025-04-06,C1090,Headlamp,hardware,3,40.75,partner
+ORD-51211,2025-04-06,C1161,Down Jacket,outerwear,1,233.7,partner
+ORD-51319,2025-04-06,C1176,Base Layer,apparel,7,48.68,retail
+ORD-51850,2025-04-06,C1255,Hiking Sock,apparel,4,18.91,WEB 
+ORD-51962,2025-04-06,C1268,Base Layer,apparel,1,51.62,web
+ORD-52233,2025-04-06,C1301,Headlamp,hardware,4,42.49,partner
+ORD-52699,2025-04-06,C1366,Rain Shell,outerwear,4,157.52,partner
+ORD-52909,2025-04-06,C1397,Base Layer,apparel,6,50.11,retail
+ORD-50671,2025-04-07,C1093,Trail Runner,footwear,1,125.81,web
+ORD-50782,2025-04-07,C1107,Rain Shell,outerwear,1,152.18,Retail
+ORD-51126,2025-04-07,C1151,Expedition Pack 65L,packs,4,342.0,retail
+ORD-51223,2025-04-07,C1162,Rain Shell,outerwear,1,156.35,partner
+ORD-51623,2025-04-07,C1223,Hiking Sock,apparel,4,18.38,Web
+ORD-51643,2025-04-07,C1226,Trekking Poles,hardware,3,98.9,web
+ORD-51793,2025-04-07,C1250,Hiking Sock,apparel,5,18.17,retail
+ORD-51801,2025-04-07,C1251,Expedition Pack 65L,packs,3,333.15,Web
+ORD-52082,2025-04-07,C1284,Headlamp,hardware,5,40.34,web
+ORD-52177,2025-04-07,C1296,Trail Runner,footwear,17,130.87,Web
+ORD-50552,2025-04-08,C1080,Daypack 22L,packs,6,114.8,retail
+ORD-50950,2025-04-08,C1128,Down Jacket,outerwear,11,229.32,web
+ORD-51078,2025-04-08,C1141,Expedition Pack 65L,packs,2,339.57,retail
+ORD-51583,2025-04-08,C1221,Daypack 22L,packs,13,112.76,retail
+ORD-51700,2025-04-08,C1235,Expedition Pack 65L,packs,,345.04,web
+ORD-51775,2025-04-08,C1249,Daypack 22L,packs,1,110.31,retail
+ORD-52787,2025-04-08,C1379,Base Layer,apparel,7,49.33,partner
+ORD-52810,2025-04-08,C1384,Headlamp,hardware,2,40.57,web
+ORD-52827,2025-04-08,C1387,Headlamp,hardware,3,40.5,Retail
+ORD-50022,2025-04-09,C1005,Rain Shell,outerwear,7,159.63,retail
+ORD-50057,2025-04-09,C1012,Daypack 22L,packs,8,108.9,retail
+ORD-50141,2025-04-09,C1024,Approach Shoe,footwear,3,151.6,partner
+ORD-50427,2025-04-09,C1064,Approach Shoe,footwear,6,151.97,retail
+ORD-50857,2025-04-09,C1117,Daypack 22L,packs,12,110.25, retail
+ORD-51025,2025-04-09,C1137,Daypack 22L,packs,11,110.89,partner
+ORD-51026,2025-04-09,C1137,Down Jacket,outerwear,4,218.29,web
+ORD-51489,2025-04-09,C1202,Rain Shell,outerwear,5,153.62,web
+ORD-51531,2025-04-09,C1209,Down Jacket,outerwear,1,234.0,web
+ORD-51821,2025-04-09,C1254,Daypack 22L,packs,10,109.18,retail
+ORD-52142,2025-04-09,C1290,Hiking Sock,apparel,1,18.3,Web
+ORD-52193,2025-04-09,C1296,Daypack 22L,packs,12,113.8,web
+ORD-52340,2025-04-09,C1313,Approach Shoe,footwear,3,150.35,retail
+ORD-52567,2025-04-09,C1348,Expedition Pack 65L,packs,6,333.65,web
+ORD-52717,2025-04-09,C1370,Trail Runner,footwear,1,131.81,Web
+ORD-52783,2025-04-09,C1379,Base Layer,apparel,11,51.84,web
+ORD-50226,2025-04-10,C1039,Expedition Pack 65L,packs,4,333.9,retail
+ORD-50693,2025-04-10,C1097,Down Jacket,outerwear,13,229.89,Web
+ORD-51169,2025-04-10,C1156,Down Jacket,outerwear,7,218.92,web
+ORD-51340,2025-04-10,C1181,Daypack 22L,packs,1,116.45,Retail
+ORD-51481,2025-04-10,C1202,Trekking Poles,hardware,11,93.44,web
+ORD-51486,2025-04-10,C1202,Trail Runner,footwear,5,132.98,Web
+ORD-51682,2025-04-10,C1232,Expedition Pack 65L,packs,3,336.97,retail
+ORD-52038,2025-04-10,C1276,Approach Shoe,footwear,3,159.0,partner
+ORD-52215,2025-04-10,C1299,Base Layer,apparel,1,48.75,retail
+ORD-52232,2025-04-10,C1301,Daypack 22L,packs,6,115.77,partner
+ORD-52328,2025-04-10,C1312,Expedition Pack 65L,packs,4,344.03,WEB 
+ORD-52538,2025-04-10,C1345,Headlamp,hardware,4,42.87,Web
+ORD-52684,2025-04-10,C1365,Daypack 22L,packs,3,110.47,web
+ORD-52684,2025-04-10,C1365,Daypack 22L,packs,3,110.47,web
+ORD-52700,2025-04-10,C1366,Headlamp,hardware,3,40.8,WEB 
+ORD-52818,2025-04-10,C1385,Trekking Poles,hardware,2,97.36,retail
+ORD-50246,2025-04-11,C1040,Headlamp,hardware,5,41.99,retail
+ORD-50433,2025-04-11,C1064,Trekking Poles,hardware,3,94.85,web
+ORD-50576,2025-04-11,C1083,Base Layer,apparel,1,50.79,Retail
+ORD-50968,2025-04-11,C1128,Base Layer,apparel,6,51.8,web
+ORD-51180,2025-04-11,C1156,Down Jacket,outerwear,9,226.76,partner
+ORD-51566,2025-04-11,C1218,Expedition Pack 65L,packs,1,336.59,Retail
+ORD-52144,2025-04-11,C1290,Rain Shell,outerwear,2,160.02,web
+ORD-52357,2025-04-11,C1317,Headlamp,hardware,5,42.65,web
+ORD-52465,2025-04-11,C1333,Expedition Pack 65L,packs,1,348.04,retail
+ORD-50416,2025-04-12,C1064,Expedition Pack 65L,packs,7,337.99,Retail
+ORD-50702,2025-04-12,C1097,Approach Shoe,footwear,10,151.08,Retail
+ORD-51634,2025-04-12,C1225,Trekking Poles,hardware,3,97.11,partner
+ORD-51702,2025-04-12,C1235,Down Jacket,outerwear,1,228.24,Web
+ORD-52086,2025-04-12,C1284,Trail Runner,footwear,9,124.59,retail
+ORD-52230,2025-04-12,C1301,Approach Shoe,footwear,7,153.65,web
+ORD-52263,2025-04-12,C1303,Down Jacket,outerwear,6,229.72,retail
+ORD-52332,2025-04-12,C1312,Trekking Poles,hardware,3,96.15,partner
+ORD-52510,2025-04-12,C1343,Approach Shoe,footwear,9,155.73,web
+ORD-50271,2025-04-13,C1042,Expedition Pack 65L,packs,4,340.65, retail
+ORD-50282,2025-04-13,C1044,Daypack 22L,packs,5,112.44,partner
+ORD-50430,2025-04-13,C1064,Rain Shell,outerwear,5,155.8,web
+ORD-50865,2025-04-13,C1117,Rain Shell,outerwear,9,151.27,Web
+ORD-50936,2025-04-13,C1125,Trail Runner,footwear,10,128.51,Web
+ORD-52122,2025-04-13,C1289,Rain Shell,outerwear,10,152.53,partner
+ORD-52334,2025-04-13,C1312,Rain Shell,outerwear,2,156.58,partner
+ORD-52339,2025-04-13,C1312,Approach Shoe,footwear,1,153.45,Web
+ORD-52547,2025-04-13,C1346,Hiking Sock,apparel,2,18.47,Retail
+ORD-52607,2025-04-13,C1353,Hiking Sock,apparel,5,17.92,web
+ORD-52669,2025-04-13,C1361,Headlamp,hardware,3,41.18,retail
+ORD-52695,2025-04-13,C1366,Daypack 22L,packs,6,113.15,web
+ORD-52912,2025-04-13,C1398,Trail Runner,footwear,3,127.72,Web
+ORD-50115,2025-04-14,C1020,Hiking Sock,apparel,3,18.33,web
+ORD-50617,2025-04-14,C1087,Trekking Poles,hardware,1,95.6,web
+ORD-50739,2025-04-14,C1101,Base Layer,apparel,6,49.05,web
+ORD-50856,2025-04-14,C1117,Down Jacket,outerwear,9,228.14,partner
+ORD-51105,2025-04-14,C1148,Base Layer,apparel,6,49.92, retail
+ORD-51186,2025-04-14,C1157,Expedition Pack 65L,packs,2,338.99,retail
+ORD-51212,2025-04-14,C1161,Headlamp,hardware,1,41.0,partner
+ORD-51245,2025-04-14,C1167,Down Jacket,outerwear,10,227.72,web
+ORD-51301,2025-04-14,C1175,Down Jacket,outerwear,6,224.08,web
+ORD-51479,2025-04-14,C1202,Expedition Pack 65L,packs,10,337.43,retail
+ORD-51482,2025-04-14,C1202,Rain Shell,outerwear,12,149.34,Partner
+ORD-51683,2025-04-14,C1232,Rain Shell,outerwear,4,158.0,web
+ORD-51895,2025-04-14,C1261,Trail Runner,footwear,2,125.26,retail
+ORD-51941,2025-04-14,C1265,Trekking Poles,hardware,14,94.19,Partner
+ORD-52111,2025-04-14,C1287,Hiking Sock,apparel,12,19.08,partner
+ORD-52812,2025-04-14,C1384,Headlamp,hardware,1,42.6,web
+ORD-50295,2025-04-15,C1047,Hiking Sock,apparel,1,19.07,WEB 
+ORD-50314,2025-04-15,C1051,Down Jacket,outerwear,1,226.1,Retail
+ORD-51236,2025-04-15,C1165,Trekking Poles,hardware,3,95.38,Web
+ORD-51474,2025-04-15,C1202,Approach Shoe,footwear,13,158.85,Retail
+ORD-51955,2025-04-15,C1267,Rain Shell,outerwear,1,157.24,retail
+ORD-52540,2025-04-15,C1345,Approach Shoe,footwear,2,151.7,Web
+ORD-52725,2025-04-15,C1371,Trekking Poles,hardware,1,96.37,Partner
+ORD-52826,2025-04-15,C1387,Hiking Sock,apparel,2,18.72,retail
+ORD-50291,2025-04-16,C1046,Base Layer,apparel,2,48.41,partner
+ORD-50356,2025-04-16,C1056,Rain Shell,outerwear,1,159.96,partner
+ORD-50422,2025-04-16,C1064,Trail Runner,footwear,4,126.84,partner
+ORD-50559,2025-04-16,C1080,Hiking Sock,apparel,3,18.1,Retail
+ORD-50637,2025-04-16,C1089,Trekking Poles,hardware,5,92.43,Retail
+ORD-51725,2025-04-16,C1239,Trail Runner,footwear,1,130.46,web
+ORD-51795,2025-04-16,C1250,Trekking Poles,hardware,2,93.01,Partner
+ORD-52011,2025-04-16,C1273,Headlamp,hardware,3,42.38,partner
+ORD-52127,2025-04-16,C1289,Base Layer,apparel,9,51.41,web
+ORD-52526,2025-04-16,C1343,Down Jacket,outerwear,4,219.44,web
+ORD-52671,2025-04-16,C1362,Daypack 22L,packs,1,110.82,Retail
+ORD-52766,2025-04-16,C1378,Down Jacket,outerwear,2,230.46,Partner
+ORD-52854,2025-04-16,C1389,Trekking Poles,hardware,,96.51,Partner
+ORD-50003,2025-04-17,C1002,Trail Runner,footwear,4,132.0,Web
+ORD-50519,2025-04-17,C1076,Trekking Poles,hardware,9,93.06,partner
+ORD-50737,2025-04-17,C1101,Hiking Sock,apparel,5,18.16,partner
+ORD-51152,2025-04-17,C1154,Trail Runner,footwear,2,132.19,Web
+ORD-51324,2025-04-17,C1178,Headlamp,hardware,1,42.96,Web
+ORD-52105,2025-04-17,C1287,Rain Shell,outerwear,13,153.99,Web
+ORD-52318,2025-04-17,C1309,Trail Runner,footwear,4,127.39,web
+ORD-52501,2025-04-17,C1341,Base Layer,apparel,3,48.2,web
+ORD-50385,2025-04-18,C1058,Trekking Poles,hardware,1,97.57,Retail
+ORD-51260,2025-04-18,C1167,Headlamp,hardware,9,41.1,retail
+ORD-51349,2025-04-18,C1183,Headlamp,hardware,1,41.17,web
+ORD-51799,2025-04-18,C1251,Hiking Sock,apparel,2,18.52,partner
+ORD-52454,2025-04-18,C1330,Hiking Sock,apparel,1,18.43,web
+ORD-52552,2025-04-18,C1346,Down Jacket,outerwear,1,231.22,web
+ORD-52578,2025-04-18,C1351,Rain Shell,outerwear,3,157.84,Retail
+ORD-52599,2025-04-18,C1353,Daypack 22L,packs,8,113.26,retail
+ORD-52664,2025-04-18,C1361,Base Layer,apparel,3,49.17,partner
+ORD-50113,2025-04-19,C1020,Down Jacket,outerwear,3,227.96,Retail
+ORD-50204,2025-04-19,C1038,Expedition Pack 65L,packs,3,331.7,web
+ORD-50424,2025-04-19,C1064,Down Jacket,outerwear,3,224.01,Retail
+ORD-50614,2025-04-19,C1086,Rain Shell,outerwear,1,149.84,web
+ORD-51040,2025-04-19,C1137,Down Jacket,outerwear,6,220.82,web
+ORD-51307,2025-04-19,C1175,Approach Shoe,footwear,5,152.85,Web
+ORD-51445,2025-04-19,C1199,Daypack 22L,packs,7,115.49,Web
+ORD-51557,2025-04-19,C1215,Trekking Poles,hardware,1,96.49,Partner
+ORD-51603,2025-04-19,C1221,Hiking Sock,apparel,12,18.49,Partner
+ORD-52072,2025-04-19,C1284,Trekking Poles,hardware,9,93.2,retail
+ORD-52131,2025-04-19,C1289,Down Jacket,outerwear,10,228.78,retail
+ORD-52148,2025-04-19,C1292,Base Layer,apparel,,48.41,WEB 
+ORD-52565,2025-04-19,C1348,Expedition Pack 65L,packs,4,326.76,web
+ORD-50302,2025-04-20,C1049,Rain Shell,outerwear,5,149.5,WEB 
+ORD-50889,2025-04-20,C1119,Base Layer,apparel,5,49.82,web
+ORD-51395,2025-04-20,C1189,Expedition Pack 65L,packs,3,338.83,Retail
+ORD-51461,2025-04-20,C1199,Approach Shoe,footwear,4,153.92, retail
+ORD-52344,2025-04-20,C1314,Headlamp,hardware,2,42.22,Web
+ORD-52494,2025-04-20,C1341,Base Layer,apparel,3,48.95,Retail
+ORD-52622,2025-04-20,C1355,Base Layer,apparel,4,49.13,Partner
+ORD-52681,2025-04-20,C1365,Daypack 22L,packs,4,113.99,Retail
+ORD-50160,2025-04-21,C1027,Hiking Sock,apparel,2,18.83,Web
+ORD-50579,2025-04-21,C1084,Trail Runner,footwear,8,128.75,partner
+ORD-50632,2025-04-21,C1089,Hiking Sock,apparel,4,17.85,retail
+ORD-50983,2025-04-21,C1129,Daypack 22L,packs,2,109.3,web
+ORD-51283,2025-04-21,C1171,Down Jacket,outerwear,1,230.17,Web
+ORD-51787,2025-04-21,C1249,Approach Shoe,footwear,5,157.23,partner
+ORD-51819,2025-04-21,C1254,Down Jacket,outerwear,7,229.45,web
+ORD-51985,2025-04-21,C1270,Trekking Poles,hardware,10,92.68,retail
+ORD-52154,2025-04-21,C1293,Base Layer,apparel,1,49.6,Web
+ORD-52251,2025-04-21,C1303,Hiking Sock,apparel,8,19.03,web
+ORD-52326,2025-04-21,C1311,Trail Runner,footwear,1,126.08,web
+ORD-52335,2025-04-21,C1312,Trekking Poles,hardware,2,96.41,Web
+ORD-52594,2025-04-21,C1353,Trail Runner,footwear,9,123.19,web
+ORD-52688,2025-04-21,C1365,Down Jacket,outerwear,6,228.37,Web
+ORD-50273,2025-04-22,C1042,Trekking Poles,hardware,4,98.01,WEB 
+ORD-50597,2025-04-22,C1084,Headlamp,hardware,10,43.21,Retail
+ORD-50960,2025-04-22,C1128,Trekking Poles,hardware,7,97.8,web
+ORD-50965,2025-04-22,C1128,Hiking Sock,apparel,10,18.09,Web
+ORD-51264,2025-04-22,C1167,Daypack 22L,packs,10,111.94,retail
+ORD-51464,2025-04-22,C1200,Approach Shoe,footwear,1,158.54,web
+ORD-52032,2025-04-22,C1274,Trekking Poles,hardware,6,93.78,Web
+ORD-52341,2025-04-22,C1313,Hiking Sock,apparel,2,18.59,Retail
+ORD-52373,2025-04-22,C1319,Daypack 22L,packs,3,111.86,retail
+ORD-52440,2025-04-22,C1327,Rain Shell,outerwear,,151.94,web
+ORD-52625,2025-04-22,C1355,Trekking Poles,hardware,3,94.9,web
+ORD-52704,2025-04-22,C1367,Trail Runner,footwear,2,130.62,Retail
+ORD-50170,2025-04-23,C1030,Approach Shoe,footwear,1,158.45,partner
+ORD-50376,2025-04-23,C1057,Trekking Poles,hardware,4,95.44,Partner
+ORD-51032,2025-04-23,C1137,Daypack 22L,packs,9,112.43,web
+ORD-51908,2025-04-23,C1263,Hiking Sock,apparel,1,18.07,web
+ORD-51965,2025-04-23,C1268,Trekking Poles,hardware,1,94.99,partner
+ORD-52403,2025-04-23,C1324,Base Layer,apparel,3,51.6,web
+ORD-52730,2025-04-23,C1372,Hiking Sock,apparel,5,18.8,retail
+ORD-50050,2025-04-24,C1011,Trail Runner,footwear,1,122.93,retail
+ORD-51607,2025-04-24,C1221,Daypack 22L,packs,8,109.18,WEB 
+ORD-52069,2025-04-24,C1284,Trekking Poles,hardware,4,94.21,web
+ORD-52090,2025-04-24,C1284,Trekking Poles,hardware,7,96.64,Retail
+ORD-52125,2025-04-24,C1289,Down Jacket,outerwear,7,220.0,web
+ORD-52746,2025-04-24,C1376,Trekking Poles,hardware,6,99.48,Retail
+ORD-52760,2025-04-24,C1377,Down Jacket,outerwear,3,220.13,partner
+ORD-52785,2025-04-24,C1379,Base Layer,apparel,11,51.48,web
+ORD-50931,2025-04-25,C1125,Down Jacket,outerwear,6,224.7,retail
+ORD-51063,2025-04-25,C1139,Rain Shell,outerwear,2,156.99,retail
+ORD-51153,2025-04-25,C1155,Trail Runner,footwear,3,127.96,web
+ORD-51215,2025-04-25,C1162,Rain Shell,outerwear,5,157.03,web
+ORD-51227,2025-04-25,C1164,Down Jacket,outerwear,4,230.75,partner
+ORD-51304,2025-04-25,C1175,Down Jacket,outerwear,9,216.71,web
+ORD-51317,2025-04-25,C1176,Down Jacket,outerwear,3,221.6,retail
+ORD-51362,2025-04-25,C1185,Hiking Sock,apparel,2,18.51,retail
+ORD-51401,2025-04-25,C1190,Trail Runner,footwear,1,124.29,Partner
+ORD-51628,2025-04-25,C1223,Approach Shoe,footwear,5,152.28,web
+ORD-51767,2025-04-25,C1246,Hiking Sock,apparel,1,17.76,partner
+ORD-52391,2025-04-25,C1322,Base Layer,apparel,2,49.33,retail
+ORD-52453,2025-04-25,C1329,Rain Shell,outerwear,1,151.21,Web
+ORD-52520,2025-04-25,C1343,Daypack 22L,packs,7,107.84,Web
+ORD-52754,2025-04-25,C1376,Down Jacket,outerwear,,218.05,retail
+ORD-52808,2025-04-25,C1384,Down Jacket,outerwear,1,228.3,web
+ORD-52880,2025-04-25,C1393,Base Layer,apparel,2,49.7, retail
+ORD-52882,2025-04-25,C1394,Down Jacket,outerwear,1,218.98,Retail
+ORD-52885,2025-04-25,C1395,Base Layer,apparel,1,49.41,Partner
+ORD-50217,2025-04-26,C1039,Base Layer,apparel,4,50.92,web
+ORD-50325,2025-04-26,C1053,Headlamp,hardware,,41.42,retail
+ORD-50330,2025-04-26,C1053,Daypack 22L,packs,2,109.1,web
+ORD-50331,2025-04-26,C1053,Base Layer,apparel,5,51.63, retail
+ORD-50406,2025-04-26,C1062,Approach Shoe,footwear,4,150.33,Web
+ORD-50743,2025-04-26,C1101,Approach Shoe,footwear,11,158.01,web
+ORD-50994,2025-04-26,C1132,Trail Runner,footwear,1,124.62,retail
+ORD-51148,2025-04-26,C1153,Approach Shoe,footwear,2,158.39,Retail
+ORD-51171,2025-04-26,C1156,Trail Runner,footwear,2,125.76,Partner
+ORD-52425,2025-04-26,C1326,Headlamp,hardware,5,42.26,retail
+ORD-50044,2025-04-27,C1010,Trail Runner,footwear,2,124.71, retail
+ORD-50258,2025-04-27,C1040,Approach Shoe,footwear,9,151.24,Partner
+ORD-50604,2025-04-27,C1084,Down Jacket,outerwear,10,233.73,Web
+ORD-50922,2025-04-27,C1125,Base Layer,apparel,14,48.13,Web
+ORD-50935,2025-04-27,C1125,Rain Shell,outerwear,9,153.23,retail
+ORD-51010,2025-04-27,C1134,Trail Runner,footwear,2,132.95,retail
+ORD-51106,2025-04-27,C1148,Trail Runner,footwear,5,123.74,retail
+ORD-52378,2025-04-27,C1320,Hiking Sock,apparel,1,18.31,retail
+ORD-52606,2025-04-27,C1353,Rain Shell,outerwear,12,158.45,retail
+ORD-50445,2025-04-28,C1065,Approach Shoe,footwear,6,152.36,retail
+ORD-50503,2025-04-28,C1073,Down Jacket,outerwear,1,230.44,Retail
+ORD-50601,2025-04-28,C1084,Headlamp,hardware,7,42.62,partner
+ORD-50805,2025-04-28,C1110,Rain Shell,outerwear,4,150.69,web
+ORD-50900,2025-04-28,C1123,Trekking Poles,hardware,5,97.69, retail
+ORD-51113,2025-04-28,C1150,Trekking Poles,hardware,1,96.14,partner
+ORD-51630,2025-04-28,C1224,Approach Shoe,footwear,2,154.28,WEB 
+ORD-51742,2025-04-28,C1242,Base Layer,apparel,1,49.05,web
+ORD-52010,2025-04-28,C1273,Daypack 22L,packs,5,111.59,retail
+ORD-52481,2025-04-28,C1337,Headlamp,hardware,3,42.25,web
+ORD-52602,2025-04-28,C1353,Trekking Poles,hardware,3,95.57,retail
+ORD-50026,2025-04-29,C1005,Rain Shell,outerwear,10,150.67,partner
+ORD-50285,2025-04-29,C1044,Base Layer,apparel,,51.18,retail
+ORD-50599,2025-04-29,C1084,Down Jacket,outerwear,7,233.37,partner
+ORD-50783,2025-04-29,C1107,Expedition Pack 65L,packs,1,343.77,WEB 
+ORD-50844,2025-04-29,C1115,Trail Runner,footwear,2,130.79,web
+ORD-51286,2025-04-29,C1173,Hiking Sock,apparel,2,18.8,Retail
+ORD-51626,2025-04-29,C1223,Base Layer,apparel,5,48.65,retail
+ORD-51730,2025-04-29,C1239,Daypack 22L,packs,3,107.61,WEB 
+ORD-51974,2025-04-29,C1270,Base Layer,apparel,9,51.63,Retail
+ORD-52079,2025-04-29,C1284,Hiking Sock,apparel,6,18.18,Retail
+ORD-52825,2025-04-29,C1387,Trail Runner,footwear,3,127.8,partner
+ORD-52863,2025-04-29,C1390,Rain Shell,outerwear,5,152.88,web
+ORD-50183,2025-04-30,C1035,Trail Runner,footwear,1,128.26,retail
+ORD-50334,2025-04-30,C1054,Approach Shoe,footwear,3,148.81,web
+ORD-50522,2025-04-30,C1076,Expedition Pack 65L,packs,10,342.25,web
+ORD-50753,2025-04-30,C1102,Trail Runner,footwear,4,132.55,partner
+ORD-51360,2025-04-30,C1184,Headlamp,hardware,2,43.55,partner
+ORD-51625,2025-04-30,C1223,Base Layer,apparel,5,50.06,web
+ORD-51772,2025-04-30,C1248,Base Layer,apparel,1,48.64,partner
+ORD-52856,2025-04-30,C1389,Down Jacket,outerwear,6,230.52,web
+ORD-52876,2025-04-30,C1392,Headlamp,hardware,5,41.95,retail
+ORD-50695,2025-05-01,C1097,Daypack 22L,packs,9,110.19,Web
+ORD-50822,2025-05-01,C1113,Daypack 22L,packs,8,116.34,retail
+ORD-51107,2025-05-01,C1148,Headlamp,hardware,2,42.75,Web
+ORD-51139,2025-05-01,C1151,Rain Shell,outerwear,8,149.48,web
+ORD-51776,2025-05-01,C1249,Down Jacket,outerwear,3,220.34,Retail
+ORD-51945,2025-05-01,C1265,Trail Runner,footwear,9,131.85,web
+ORD-52342,2025-05-01,C1313,Base Layer,apparel,2,50.39,Web
+ORD-52756,2025-05-01,C1376,Daypack 22L,packs,14,109.4,web
+ORD-50512,2025-05-02,C1075,Down Jacket,outerwear,3,223.37, retail
+ORD-50800,2025-05-02,C1110,Hiking Sock,apparel,1,17.83,web
+ORD-50802,2025-05-02,C1110,Down Jacket,outerwear,3,230.23,web
+ORD-51336,2025-05-02,C1180,Base Layer,apparel,3,50.42,web
+ORD-51346,2025-05-02,C1182,Trail Runner,footwear,1,127.53,web
+ORD-51589,2025-05-02,C1221,Down Jacket,outerwear,8,232.06,web
+ORD-51755,2025-05-02,C1243,Hiking Sock,apparel,4,18.87,web
+ORD-51954,2025-05-02,C1266,Base Layer,apparel,2,51.84,Web
+ORD-52476,2025-05-02,C1337,Base Layer,apparel,4,49.92,partner
+ORD-52624,2025-05-02,C1355,Rain Shell,outerwear,2,149.58,retail
+ORD-52627,2025-05-02,C1356,Base Layer,apparel,2,51.8,retail
+ORD-50148,2025-05-03,C1025,Daypack 22L,packs,4,108.45,partner
+ORD-50288,2025-05-03,C1045,Hiking Sock,apparel,4,18.74,Partner
+ORD-51020,2025-05-03,C1137,Down Jacket,outerwear,7,225.6,Web
+ORD-51616,2025-05-03,C1222,Approach Shoe,footwear,3,148.49,Retail
+ORD-51816,2025-05-03,C1253,Rain Shell,outerwear,3,153.64,retail
+ORD-51951,2025-05-03,C1266,Hiking Sock,apparel,6,18.98,partner
+ORD-52205,2025-05-03,C1298,Hiking Sock,apparel,6,19.09,Partner
+ORD-52619,2025-05-03,C1354,Down Jacket,outerwear,1,223.98,Web
+ORD-52918,2025-05-03,C1399,Approach Shoe,footwear,3,149.36,Retail
+ORD-50065,2025-05-04,C1014,Trekking Poles,hardware,2,98.38,web
+ORD-50428,2025-05-04,C1064,Expedition Pack 65L,packs,17,352.87,web
+ORD-50491,2025-05-04,C1071,Rain Shell,outerwear,1,159.55,Web
+ORD-50580,2025-05-04,C1084,Headlamp,hardware,12,43.15,Retail
+ORD-50633,2025-05-04,C1089,Trail Runner,footwear,2,129.7,retail
+ORD-51950,2025-05-04,C1265,Approach Shoe,footwear,5,152.04,retail
+ORD-52411,2025-05-04,C1324,Hiking Sock,apparel,9,18.5,Web
+ORD-52743,2025-05-04,C1376,Hiking Sock,apparel,6,18.74,web
+ORD-50059,2025-05-05,C1013,Approach Shoe,footwear,1,149.57,Retail
+ORD-50709,2025-05-05,C1097,Approach Shoe,footwear,4,153.21,partner
+ORD-51069,2025-05-05,C1139,Expedition Pack 65L,packs,1,337.23,web
+ORD-51431,2025-05-05,C1197,Daypack 22L,packs,1,112.92,retail
+ORD-51553,2025-05-05,C1214,Approach Shoe,footwear,6,155.4,web
+ORD-51928,2025-05-05,C1265,Rain Shell,outerwear,16,159.53,retail
+ORD-52024,2025-05-05,C1274,Base Layer,apparel,4,48.26,web
+ORD-52068,2025-05-05,C1284,Rain Shell,outerwear,2,156.84,retail
+ORD-50127,2025-05-06,C1021,Hiking Sock,apparel,3,18.3,web
+ORD-50437,2025-05-06,C1064,Rain Shell,outerwear,6,155.32,partner
+ORD-50602,2025-05-06,C1084,Headlamp,hardware,3,41.15,retail
+ORD-50729,2025-05-06,C1101,Approach Shoe,footwear,13,150.85,partner
+ORD-50752,2025-05-06,C1102,Rain Shell,outerwear,7,160.65, retail
+ORD-50762,2025-05-06,C1103,Trekking Poles,hardware,4,92.34,web
+ORD-50984,2025-05-06,C1129,Headlamp,hardware,3,41.24,web
+ORD-52327,2025-05-06,C1312,Trekking Poles,hardware,2,92.31,Retail
+ORD-52781,2025-05-06,C1379,Trekking Poles,hardware,16,98.43,retail
+ORD-50351,2025-05-07,C1056,Trail Runner,footwear,3,124.77,Web
+ORD-50969,2025-05-07,C1128,Base Layer,apparel,10,51.6,partner
+ORD-51365,2025-05-07,C1186,Trekking Poles,hardware,3,93.67,partner
+ORD-51896,2025-05-07,C1261,Hiking Sock,apparel,2,17.8,web
+ORD-51042,2025-05-08,C1137,Rain Shell,outerwear,7,151.68, retail
+ORD-51672,2025-05-08,C1230,Base Layer,apparel,8,49.43, retail
+ORD-52025,2025-05-08,C1274,Approach Shoe,footwear,11,148.2,partner
+ORD-52394,2025-05-08,C1323,Daypack 22L,packs,4,110.89,Retail
+ORD-52874,2025-05-08,C1392,Headlamp,hardware,4,41.72,web
+ORD-50124,2025-05-09,C1021,Approach Shoe,footwear,1,151.51,retail
+ORD-50373,2025-05-09,C1057,Approach Shoe,footwear,8,156.28,Partner
+ORD-50804,2025-05-09,C1110,Expedition Pack 65L,packs,,351.84,web
+ORD-51028,2025-05-09,C1137,Trail Runner,footwear,8,128.52,retail
+ORD-51176,2025-05-09,C1156,Hiking Sock,apparel,5,18.34,WEB 
+ORD-51231,2025-05-09,C1164,Hiking Sock,apparel,6,18.17,Retail
+ORD-51330,2025-05-09,C1179,Hiking Sock,apparel,2,17.78,partner
+ORD-51503,2025-05-09,C1204,Trail Runner,footwear,5,132.04,partner
+ORD-51503,2025-05-09,C1204,Trail Runner,footwear,5,132.04,partner
+ORD-51914,2025-05-09,C1264,Trail Runner,footwear,6,123.96, retail
+ORD-52475,2025-05-09,C1337,Rain Shell,outerwear,5,156.17,web
+ORD-52497,2025-05-09,C1341,Trekking Poles,hardware,3,99.21,WEB 
+ORD-52562,2025-05-09,C1348,Trekking Poles,hardware,2,94.36,partner
+ORD-50177,2025-05-10,C1033,Base Layer,apparel,1,49.8,web
+ORD-50468,2025-05-10,C1066,Down Jacket,outerwear,2,224.04,partner
+ORD-50469,2025-05-10,C1066,Trekking Poles,hardware,1,95.71,Web
+ORD-50721,2025-05-10,C1099,Approach Shoe,footwear,1,148.92,web
+ORD-50945,2025-05-10,C1128,Trekking Poles,hardware,5,98.03,web
+ORD-51007,2025-05-10,C1134,Trail Runner,footwear,3,123.93,retail
+ORD-51200,2025-05-10,C1159,Trekking Poles,hardware,1,96.64,Retail
+ORD-51826,2025-05-10,C1254,Base Layer,apparel,12,51.59,web
+ORD-51881,2025-05-10,C1260,Trekking Poles,hardware,12,93.16,partner
+ORD-52075,2025-05-10,C1284,Hiking Sock,apparel,4,18.39,retail
+ORD-52297,2025-05-10,C1307,Daypack 22L,packs,2,108.83,retail
+ORD-52376,2025-05-10,C1319,Rain Shell,outerwear,1,149.96,WEB 
+ORD-52652,2025-05-10,C1359,Headlamp,hardware,1,40.62,web
+ORD-52710,2025-05-10,C1369,Rain Shell,outerwear,,161.36,retail
+ORD-50121,2025-05-11,C1021,Expedition Pack 65L,packs,2,336.6,retail
+ORD-50502,2025-05-11,C1073,Approach Shoe,footwear,2,158.82,partner
+ORD-50543,2025-05-11,C1077,Approach Shoe,footwear,1,153.76,web
+ORD-50547,2025-05-11,C1079,Expedition Pack 65L,packs,2,345.51,retail
+ORD-50600,2025-05-11,C1084,Base Layer,apparel,9,51.05,retail
+ORD-50806,2025-05-11,C1110,Hiking Sock,apparel,1,18.62,retail
+ORD-51167,2025-05-11,C1156,Approach Shoe,footwear,6,153.38,retail
+ORD-51244,2025-05-11,C1167,Base Layer,apparel,10,48.53,retail
+ORD-51366,2025-05-11,C1186,Daypack 22L,packs,1,109.02,Web
+ORD-51366,2025-05-11,C1186,Daypack 22L,packs,1,109.02,Web
+ORD-51428,2025-05-11,C1196,Down Jacket,outerwear,6,230.09,retail
+ORD-51577,2025-05-11,C1220,Rain Shell,outerwear,1,152.82,retail
+ORD-52245,2025-05-11,C1302,Down Jacket,outerwear,2,230.36,Retail
+ORD-52706,2025-05-11,C1367,Trekking Poles,hardware,2,92.28,WEB 
+ORD-52823,2025-05-11,C1386,Base Layer,apparel,2,48.21,Web
+ORD-50244,2025-05-12,C1040,Rain Shell,outerwear,8,152.84,web
+ORD-50488,2025-05-12,C1071,Hiking Sock,apparel,3,18.09,Partner
+ORD-50731,2025-05-12,C1101,Trail Runner,footwear,9,129.73,partner
+ORD-50866,2025-05-12,C1117,Headlamp,hardware,7,40.89,retail
+ORD-51030,2025-05-12,C1137,Expedition Pack 65L,packs,7,333.91, retail
+ORD-51065,2025-05-12,C1139,Down Jacket,outerwear,1,226.33,Web
+ORD-51454,2025-05-12,C1199,Daypack 22L,packs,6,114.06,partner
+ORD-51527,2025-05-12,C1208,Daypack 22L,packs,7,116.29,Partner
+ORD-51980,2025-05-12,C1270,Daypack 22L,packs,27,115.17,partner
+ORD-52315,2025-05-12,C1309,Expedition Pack 65L,packs,1,345.26,web
+ORD-50592,2025-05-13,C1084,Base Layer,apparel,12,50.45,retail
+ORD-50862,2025-05-13,C1117,Approach Shoe,footwear,8,149.13,web
+ORD-51035,2025-05-13,C1137,Base Layer,apparel,10,49.17,web
+ORD-51240,2025-05-13,C1166,Trail Runner,footwear,1,132.82,Retail
+ORD-51275,2025-05-13,C1170,Trekking Poles,hardware,2,93.31,Partner
+ORD-51285,2025-05-13,C1173,Trail Runner,footwear,3,129.37,partner
+ORD-51295,2025-05-13,C1175,Approach Shoe,footwear,10,150.78,retail
+ORD-51439,2025-05-13,C1199,Base Layer,apparel,3,49.68,WEB 
+ORD-52888,2025-05-13,C1396,Headlamp,hardware,3,42.58,WEB 
+ORD-50049,2025-05-14,C1011,Headlamp,hardware,2,41.45,Web
+ORD-50062,2025-05-14,C1014,Daypack 22L,packs,1,107.66,Retail
+ORD-50548,2025-05-14,C1079,Rain Shell,outerwear,2,160.42,WEB 
+ORD-51678,2025-05-14,C1230,Approach Shoe,footwear,16,152.28,web
+ORD-51721,2025-05-14,C1239,Daypack 22L,packs,4,109.58,retail
+ORD-51977,2025-05-14,C1270,Trail Runner,footwear,13,122.9,web
+ORD-52493,2025-05-14,C1341,Down Jacket,outerwear,2,227.07,web
+ORD-52600,2025-05-14,C1353,Down Jacket,outerwear,8,233.38,Retail
+ORD-50248,2025-05-15,C1040,Approach Shoe,footwear,2,157.05,retail
+ORD-51673,2025-05-15,C1230,Hiking Sock,apparel,11,18.65,web
+ORD-51741,2025-05-15,C1242,Headlamp,hardware,2,43.16,web
+ORD-51800,2025-05-15,C1251,Rain Shell,outerwear,1,154.07,Partner
+ORD-52864,2025-05-15,C1390,Base Layer,apparel,1,51.17,retail
+ORD-52884,2025-05-15,C1395,Down Jacket,outerwear,1,233.74,retail
+ORD-50388,2025-05-16,C1059,Headlamp,hardware,2,42.53,Web
+ORD-50466,2025-05-16,C1065,Headlamp,hardware,12,40.81,web
+ORD-50511,2025-05-16,C1075,Rain Shell,outerwear,4,149.86,partner
+ORD-50765,2025-05-16,C1103,Headlamp,hardware,1,43.08,retail
+ORD-50948,2025-05-16,C1128,Trail Runner,footwear,9,126.77,partner
+ORD-51121,2025-05-16,C1151,Trekking Poles,hardware,8,95.18,partner
+ORD-51238,2025-05-16,C1165,Rain Shell,outerwear,3,149.04,Retail
+ORD-51410,2025-05-16,C1193,Base Layer,apparel,1,49.77, retail
+ORD-51605,2025-05-16,C1221,Approach Shoe,footwear,10,158.42,Partner
+ORD-51624,2025-05-16,C1223,Down Jacket,outerwear,5,228.79,partner
+ORD-51664,2025-05-16,C1230,Headlamp,hardware,8,42.73,Web
+ORD-52242,2025-05-16,C1302,Trail Runner,footwear,1,129.97,retail
+ORD-52317,2025-05-16,C1309,Headlamp,hardware,4,43.49,partner
+ORD-52448,2025-05-16,C1327,Hiking Sock,apparel,8,19.13,web
+ORD-52480,2025-05-16,C1337,Approach Shoe,footwear,3,152.98,web
+ORD-52558,2025-05-16,C1348,Trekking Poles,hardware,4,95.3,partner
+ORD-52873,2025-05-16,C1392,Trail Runner,footwear,5,123.88,retail
+ORD-50324,2025-05-17,C1052,Down Jacket,outerwear,1,228.82,Retail
+ORD-50775,2025-05-17,C1106,Approach Shoe,footwear,4,152.94,web
+ORD-51243,2025-05-17,C1167,Down Jacket,outerwear,8,231.92,retail
+ORD-51292,2025-05-17,C1175,Approach Shoe,footwear,6,158.75,Partner
+ORD-51681,2025-05-17,C1232,Headlamp,hardware,2,41.68,retail
+ORD-51796,2025-05-17,C1250,Daypack 22L,packs,2,113.4,partner
+ORD-51875,2025-05-17,C1260,Trekking Poles,hardware,13,95.37,Web
+ORD-51986,2025-05-17,C1270,Headlamp,hardware,7,41.99,Retail
+ORD-52080,2025-05-17,C1284,Daypack 22L,packs,1,115.26,Web
+ORD-52346,2025-05-17,C1315,Headlamp,hardware,1,43.67,retail
+ORD-52442,2025-05-17,C1327,Daypack 22L,packs,6,108.83,Partner
+ORD-52794,2025-05-17,C1379,Hiking Sock,apparel,14,19.23,Web
+ORD-50212,2025-05-18,C1038,Rain Shell,outerwear,3,149.41,Retail
+ORD-50256,2025-05-18,C1040,Base Layer,apparel,12,51.62,web
+ORD-50382,2025-05-18,C1057,Headlamp,hardware,7,43.13,web
+ORD-50505,2025-05-18,C1074,Rain Shell,outerwear,3,158.95,Retail
+ORD-50535,2025-05-18,C1076,Trail Runner,footwear,10,123.67,Web
+ORD-51266,2025-05-18,C1167,Headlamp,hardware,6,42.79,web
+ORD-51596,2025-05-18,C1221,Trail Runner,footwear,7,123.72,retail
+ORD-51717,2025-05-18,C1238,Trail Runner,footwear,1,131.8,retail
+ORD-51973,2025-05-18,C1270,Trail Runner,footwear,15,126.06,Web
+ORD-52140,2025-05-18,C1290,Expedition Pack 65L,packs,1,336.44,web
+ORD-52422,2025-05-18,C1326,Rain Shell,outerwear,4,151.49,Retail
+ORD-52490,2025-05-18,C1340,Daypack 22L,packs,1,110.5,retail
+ORD-50319,2025-05-19,C1052,Trekking Poles,hardware,1,95.69,web
+ORD-50442,2025-05-19,C1064,Rain Shell,outerwear,6,157.42,partner
+ORD-50520,2025-05-19,C1076,Rain Shell,outerwear,9,149.62,Retail
+ORD-50664,2025-05-19,C1093,Hiking Sock,apparel,6,19.13,web
+ORD-50768,2025-05-19,C1103,Rain Shell,outerwear,2,157.05,WEB 
+ORD-51237,2025-05-19,C1165,Trekking Poles,hardware,1,93.41,retail
+ORD-51518,2025-05-19,C1207,Trekking Poles,hardware,2,96.43,retail
+ORD-51586,2025-05-19,C1221,Trekking Poles,hardware,6,99.8,web
+ORD-51845,2025-05-19,C1255,Hiking Sock,apparel,1,18.94,web
+ORD-52045,2025-05-19,C1279,Trail Runner,footwear,3,132.34,partner
+ORD-50224,2025-05-20,C1039,Base Layer,apparel,9,48.33,retail
+ORD-50436,2025-05-20,C1064,Approach Shoe,footwear,12,159.67,retail
+ORD-50628,2025-05-20,C1089,Approach Shoe,footwear,1,149.64,web
+ORD-50835,2025-05-20,C1114,Expedition Pack 65L,packs,3,347.46,web
+ORD-50887,2025-05-20,C1119,Trail Runner,footwear,3,130.15,web
+ORD-51403,2025-05-20,C1191,Trail Runner,footwear,1,123.63,Retail
+ORD-51414,2025-05-20,C1194,Rain Shell,outerwear,1,158.01,WEB 
+ORD-51594,2025-05-20,C1221,Rain Shell,outerwear,9,156.82,Retail
+ORD-52067,2025-05-20,C1283,Hiking Sock,apparel,1,18.79,Web
+ORD-52507,2025-05-20,C1342,Hiking Sock,apparel,1,17.82,Web
+ORD-52608,2025-05-20,C1353,Approach Shoe,footwear,3,148.5,retail
+ORD-51279,2025-05-21,C1171,Trekking Poles,hardware,3,92.44,retail
+ORD-51550,2025-05-21,C1214,Rain Shell,outerwear,4,150.94,web
+ORD-51764,2025-05-21,C1246,Base Layer,apparel,3,47.99,retail
+ORD-51927,2025-05-21,C1265,Approach Shoe,footwear,15,148.58,Retail
+ORD-51971,2025-05-21,C1270,Base Layer,apparel,7,49.97,retail
+ORD-52512,2025-05-21,C1343,Approach Shoe,footwear,4,153.13,WEB 
+ORD-50099,2025-05-22,C1019,Hiking Sock,apparel,17,17.82,web
+ORD-50794,2025-05-22,C1108,Approach Shoe,footwear,1,151.62,retail
+ORD-50929,2025-05-22,C1125,Headlamp,hardware,9,41.17, retail
+ORD-50954,2025-05-22,C1128,Rain Shell,outerwear,7,149.59,retail
+ORD-51602,2025-05-22,C1221,Approach Shoe,footwear,13,159.1,retail
+ORD-52124,2025-05-22,C1289,Rain Shell,outerwear,12,155.75,partner
+ORD-50439,2025-05-23,C1064,Trekking Poles,hardware,6,96.94,web
+ORD-50492,2025-05-23,C1071,Base Layer,apparel,3,50.34,Partner
+ORD-52070,2025-05-23,C1284,Expedition Pack 65L,packs,3,349.13,WEB 
+ORD-52213,2025-05-23,C1298,Daypack 22L,packs,5,116.11,retail
+ORD-52685,2025-05-23,C1365,Base Layer,apparel,4,51.68,retail
+ORD-52709,2025-05-23,C1369,Expedition Pack 65L,packs,1,331.09,Web
+ORD-52836,2025-05-23,C1389,Trekking Poles,hardware,8,96.71,retail
+ORD-50029,2025-05-24,C1006,Rain Shell,outerwear,1,155.22,web
+ORD-50234,2025-05-24,C1039,Daypack 22L,packs,15,116.39,web
+ORD-50582,2025-05-24,C1084,Approach Shoe,footwear,,149.96,partner
+ORD-50943,2025-05-24,C1127,Headlamp,hardware,1,43.35,web
+ORD-51298,2025-05-24,C1175,Base Layer,apparel,7,49.94,partner
+ORD-51660,2025-05-24,C1230,Daypack 22L,packs,10,108.31, retail
+ORD-51815,2025-05-24,C1253,Trail Runner,footwear,1,128.86,web
+ORD-51960,2025-05-24,C1268,Approach Shoe,footwear,1,154.03,partner
+ORD-52120,2025-05-24,C1289,Trekking Poles,hardware,7,93.29,Web
+ORD-52374,2025-05-24,C1319,Trail Runner,footwear,1,127.51,partner
+ORD-52398,2025-05-24,C1324,Trekking Poles,hardware,5,99.68,WEB 
+ORD-50262,2025-05-25,C1040,Trail Runner,footwear,,124.64,web
+ORD-50308,2025-05-25,C1049,Trekking Poles,hardware,5,98.49,web
+ORD-50413,2025-05-25,C1064,Headlamp,hardware,7,43.34,Retail
+ORD-50508,2025-05-25,C1074,Expedition Pack 65L,packs,1,341.85,retail
+ORD-50572,2025-05-25,C1082,Approach Shoe,footwear,2,150.2,Partner
+ORD-50921,2025-05-25,C1124,Down Jacket,outerwear,1,220.91,web
+ORD-51342,2025-05-25,C1181,Expedition Pack 65L,packs,1,347.13,retail
+ORD-51854,2025-05-25,C1255,Down Jacket,outerwear,1,223.25,web
+ORD-52007,2025-05-25,C1273,Approach Shoe,footwear,1,151.42,retail
+ORD-52078,2025-05-25,C1284,Down Jacket,outerwear,5,224.35,web
+ORD-52089,2025-05-25,C1284,Approach Shoe,footwear,13,159.35,web
+ORD-52305,2025-05-25,C1307,Hiking Sock,apparel,3,17.97,Retail
+ORD-52509,2025-05-25,C1343,Headlamp,hardware,9,42.81,Retail
+ORD-52589,2025-05-25,C1353,Trekking Poles,hardware,7,95.45,web
+ORD-52764,2025-05-25,C1377,Trail Runner,footwear,4,128.38,web
+ORD-52839,2025-05-25,C1389,Base Layer,apparel,7,48.14,Retail
+ORD-50116,2025-05-26,C1020,Hiking Sock,apparel,1,18.46,Partner
+ORD-50336,2025-05-26,C1054,Base Layer,apparel,2,48.93,retail
+ORD-50914,2025-05-26,C1123,Trekking Poles,hardware,7,95.25,Partner
+ORD-51368,2025-05-26,C1187,Down Jacket,outerwear,11,222.82,Retail
+ORD-51637,2025-05-26,C1225,Base Layer,apparel,5,51.46,Web
+ORD-51733,2025-05-26,C1239,Trail Runner,footwear,6,128.86,retail
+ORD-52285,2025-05-26,C1305,Hiking Sock,apparel,2,19.17,partner
+ORD-50031,2025-05-27,C1006,Daypack 22L,packs,2,113.86,web
+ORD-50286,2025-05-27,C1044,Base Layer,apparel,2,49.48,Retail
+ORD-50348,2025-05-27,C1056,Trekking Poles,hardware,3,94.69,Retail
+ORD-52447,2025-05-27,C1327,Trail Runner,footwear,4,127.17,web
+ORD-52759,2025-05-27,C1377,Trekking Poles,hardware,2,97.82,web
+ORD-52809,2025-05-27,C1384,Expedition Pack 65L,packs,3,333.16,web
+ORD-50293,2025-05-28,C1047,Trail Runner,footwear,1,131.07,retail
+ORD-50613,2025-05-28,C1086,Base Layer,apparel,5,51.5,web
+ORD-50809,2025-05-28,C1110,Base Layer,apparel,3,50.54,web
+ORD-51367,2025-05-28,C1186,Trail Runner,footwear,4,129.17,Retail
+ORD-51374,2025-05-28,C1187,Base Layer,apparel,10,49.2,Retail
+ORD-51636,2025-05-28,C1225,Down Jacket,outerwear,,231.54,partner
+ORD-52701,2025-05-28,C1367,Rain Shell,outerwear,3,159.63,Retail
+ORD-52711,2025-05-28,C1369,Down Jacket,outerwear,3,218.73,web
+ORD-50114,2025-05-29,C1020,Hiking Sock,apparel,1,17.82,web
+ORD-50147,2025-05-29,C1025,Hiking Sock,apparel,6,18.93,web
+ORD-50588,2025-05-29,C1084,Down Jacket,outerwear,11,222.68,web
+ORD-50720,2025-05-29,C1099,Daypack 22L,packs,1,115.34,partner
+ORD-52134,2025-05-29,C1289,Rain Shell,outerwear,12,155.71,web
+ORD-52354,2025-05-29,C1317,Trekking Poles,hardware,4,93.88,web
+ORD-52674,2025-05-29,C1363,Headlamp,hardware,3,43.42, retail
+ORD-52852,2025-05-29,C1389,Base Layer,apparel,7,51.53,web
+ORD-50571,2025-05-30,C1082,Down Jacket,outerwear,1,231.19,Partner
+ORD-50890,2025-05-30,C1119,Down Jacket,outerwear,6,218.94,partner
+ORD-52066,2025-05-30,C1283,Trail Runner,footwear,2,124.39,Retail
+ORD-52126,2025-05-30,C1289,Base Layer,apparel,8,48.64,retail
+ORD-52414,2025-05-30,C1324,Trail Runner,footwear,6,130.89, retail
+ORD-52502,2025-05-30,C1341,Trail Runner,footwear,2,130.34,retail
+ORD-52563,2025-05-30,C1348,Hiking Sock,apparel,3,19.07,Retail
+ORD-52617,2025-05-30,C1354,Expedition Pack 65L,packs,2,338.02,web
+ORD-52838,2025-05-30,C1389,Base Layer,apparel,6,48.9,partner
+ORD-50066,2025-05-31,C1014,Approach Shoe,footwear,4,148.58,web
+ORD-50178,2025-05-31,C1033,Trail Runner,footwear,1,124.3,WEB 
+ORD-50443,2025-05-31,C1064,Daypack 22L,packs,9,113.48,Retail
+ORD-50485,2025-05-31,C1071,Trekking Poles,hardware,3,94.91,retail
+ORD-50549,2025-05-31,C1079,Daypack 22L,packs,1,108.84,Web
+ORD-50585,2025-05-31,C1084,Trail Runner,footwear,11,124.95,retail
+ORD-50748,2025-05-31,C1102,Expedition Pack 65L,packs,4,342.95,Partner
+ORD-50985,2025-05-31,C1129,Approach Shoe,footwear,2,160.02,WEB 
+ORD-51758,2025-05-31,C1244,Daypack 22L,packs,1,111.78,WEB 
+ORD-51911,2025-05-31,C1264,Approach Shoe,footwear,1,150.78,web
+ORD-52350,2025-05-31,C1316,Approach Shoe,footwear,2,159.24,partner
+ORD-50616,2025-06-01,C1087,Trail Runner,footwear,4,127.07,partner
+ORD-50653,2025-06-01,C1091,Headlamp,hardware,4,41.87,Retail
+ORD-50899,2025-06-01,C1123,Trekking Poles,hardware,6,98.04,partner
+ORD-51597,2025-06-01,C1221,Base Layer,apparel,8,51.36,web
+ORD-52846,2025-06-01,C1389,Approach Shoe,footwear,7,158.37,retail
+ORD-50227,2025-06-02,C1039,Trekking Poles,hardware,,94.94,WEB 
+ORD-50626,2025-06-02,C1089,Hiking Sock,apparel,4,17.85,Retail
+ORD-50718,2025-06-02,C1099,Hiking Sock,apparel,2,18.41, retail
+ORD-50989,2025-06-02,C1130,Headlamp,hardware,1,43.55,Web
+ORD-51831,2025-06-02,C1254,Trekking Poles,hardware,15,95.63,Web
+ORD-51910,2025-06-02,C1263,Base Layer,apparel,,51.78,WEB 
+ORD-52004,2025-06-02,C1273,Trekking Poles,hardware,7,99.15,Web
+ORD-50622,2025-06-03,C1088,Base Layer,apparel,2,51.36,web
+ORD-51159,2025-06-03,C1156,Headlamp,hardware,4,40.85,web
+ORD-51446,2025-06-03,C1199,Rain Shell,outerwear,10,157.08,partner
+ORD-51904,2025-06-03,C1262,Hiking Sock,apparel,,18.17,partner
+ORD-52133,2025-06-03,C1289,Expedition Pack 65L,packs,9,346.84,web
+ORD-52202,2025-06-03,C1297,Down Jacket,outerwear,1,233.08,WEB 
+ORD-52847,2025-06-03,C1389,Headlamp,hardware,6,40.78,web
+ORD-50247,2025-06-04,C1040,Expedition Pack 65L,packs,10,345.2,retail
+ORD-50301,2025-06-04,C1049,Hiking Sock,apparel,1,17.88,web
+ORD-50303,2025-06-04,C1049,Expedition Pack 65L,packs,5,341.01,web
+ORD-50412,2025-06-04,C1064,Down Jacket,outerwear,6,227.59, retail
+ORD-50454,2025-06-04,C1065,Trail Runner,footwear,8,131.74,Web
+ORD-51411,2025-06-04,C1193,Expedition Pack 65L,packs,1,333.56,web
+ORD-51837,2025-06-04,C1254,Daypack 22L,packs,8,107.95,retail
+ORD-52445,2025-06-04,C1327,Expedition Pack 65L,packs,5,346.17,web
+ORD-52762,2025-06-04,C1377,Rain Shell,outerwear,1,153.92,web
+ORD-50603,2025-06-05,C1084,Hiking Sock,apparel,7,19.05,web
+ORD-51155,2025-06-05,C1156,Trekking Poles,hardware,6,95.14,partner
+ORD-51265,2025-06-05,C1167,Trail Runner,footwear,7,125.41,partner
+ORD-51449,2025-06-05,C1199,Hiking Sock,apparel,11,18.87,web
+ORD-51649,2025-06-05,C1228,Headlamp,hardware,1,41.01,web
+ORD-51650,2025-06-05,C1228,Hiking Sock,apparel,1,18.18,web
+ORD-51665,2025-06-05,C1230,Approach Shoe,footwear,9,153.64,web
+ORD-51968,2025-06-05,C1270,Down Jacket,outerwear,,232.9,retail
+ORD-52091,2025-06-05,C1284,Headlamp,hardware,6,43.23,web
+ORD-52100,2025-06-05,C1287,Approach Shoe,footwear,7,150.13,Retail
+ORD-52219,2025-06-05,C1300,Base Layer,apparel,,49.14,Web
+ORD-52621,2025-06-05,C1354,Trekking Poles,hardware,1,96.65,retail
+ORD-52724,2025-06-05,C1371,Hiking Sock,apparel,3,18.37,retail
+ORD-50220,2025-06-06,C1039,Headlamp,hardware,9,42.36,retail
+ORD-50239,2025-06-06,C1040,Base Layer,apparel,7,49.57,Retail
+ORD-50279,2025-06-06,C1044,Approach Shoe,footwear,3,153.59,retail
+ORD-50444,2025-06-06,C1064,Base Layer,apparel,5,51.1,partner
+ORD-51086,2025-06-06,C1144,Rain Shell,outerwear,1,159.13,retail
+ORD-51459,2025-06-06,C1199,Down Jacket,outerwear,8,219.46,web
+ORD-51729,2025-06-06,C1239,Trekking Poles,hardware,1,98.0,partner
+ORD-52047,2025-06-06,C1279,Base Layer,apparel,5,50.1,retail
+ORD-52216,2025-06-06,C1300,Approach Shoe,footwear,4,155.53,web
+ORD-52862,2025-06-06,C1390,Headlamp,hardware,1,43.02,WEB 
+ORD-50014,2025-06-07,C1005,Down Jacket,outerwear,10,233.27,web
+ORD-50230,2025-06-07,C1039,Approach Shoe,footwear,10,151.31,Web
+ORD-51029,2025-06-07,C1137,Hiking Sock,apparel,11,18.04,WEB 
+ORD-51196,2025-06-07,C1158,Hiking Sock,apparel,4,19.13,Retail
+ORD-51771,2025-06-07,C1248,Trekking Poles,hardware,1,95.41,web
+ORD-51806,2025-06-07,C1252,Trail Runner,footwear,5,123.18,web
+ORD-52166,2025-06-07,C1295,Rain Shell,outerwear,2,156.86,WEB 
+ORD-52421,2025-06-07,C1326,Headlamp,hardware,1,42.7,Partner
+ORD-52522,2025-06-07,C1343,Down Jacket,outerwear,5,231.45,Retail
+ORD-52802,2025-06-07,C1382,Down Jacket,outerwear,2,226.95,Partner
+ORD-50562,2025-06-08,C1081,Base Layer,apparel,3,50.21,Web
+ORD-50583,2025-06-08,C1084,Expedition Pack 65L,packs,15,332.96,web
+ORD-51613,2025-06-08,C1222,Trail Runner,footwear,4,129.41,retail
+ORD-51622,2025-06-08,C1223,Down Jacket,outerwear,7,233.6,web
+ORD-52107,2025-06-08,C1287,Trail Runner,footwear,9,130.29,web
+ORD-52535,2025-06-08,C1345,Rain Shell,outerwear,2,157.03,retail
+ORD-52828,2025-06-08,C1388,Headlamp,hardware,10,41.66,web
+ORD-50342,2025-06-09,C1054,Daypack 22L,packs,3,110.08,Web
+ORD-50483,2025-06-09,C1070,Base Layer,apparel,1,51.33,web
+ORD-50539,2025-06-09,C1076,Headlamp,hardware,15,43.54,Web
+ORD-50631,2025-06-09,C1089,Hiking Sock,apparel,5,18.97,retail
+ORD-51466,2025-06-09,C1200,Hiking Sock,apparel,1,17.93,Web
+ORD-51931,2025-06-09,C1265,Rain Shell,outerwear,12,149.25,Retail
+ORD-52871,2025-06-09,C1392,Daypack 22L,packs,3,113.81,web
+ORD-50321,2025-06-10,C1052,Headlamp,hardware,1,42.04,retail
+ORD-50910,2025-06-10,C1123,Daypack 22L,packs,5,115.43,Web
+ORD-50958,2025-06-10,C1128,Rain Shell,outerwear,3,156.38, retail
+ORD-50971,2025-06-10,C1128,Trail Runner,footwear,4,132.22,web
+ORD-51219,2025-06-10,C1162,Trekking Poles,hardware,4,99.15,partner
+ORD-51933,2025-06-10,C1265,Base Layer,apparel,11,49.65,Web
+ORD-51992,2025-06-10,C1272,Rain Shell,outerwear,3,153.91,web
+ORD-52158,2025-06-10,C1294,Hiking Sock,apparel,4,18.77,partner
+ORD-52254,2025-06-10,C1303,Expedition Pack 65L,packs,11,333.47,retail
+ORD-52267,2025-06-10,C1303,Trekking Poles,hardware,6,93.38,web
+ORD-50081,2025-06-11,C1017,Base Layer,apparel,3,48.51,Retail
+ORD-50495,2025-06-11,C1072,Down Jacket,outerwear,1,230.01,web
+ORD-50789,2025-06-11,C1108,Rain Shell,outerwear,3,150.06,web
+ORD-51027,2025-06-11,C1137,Expedition Pack 65L,packs,5,347.95, retail
+ORD-51248,2025-06-11,C1167,Headlamp,hardware,14,43.67,web
+ORD-51311,2025-06-11,C1175,Down Jacket,outerwear,6,225.68,web
+ORD-51500,2025-06-11,C1203,Rain Shell,outerwear,1,158.14,web
+ORD-52319,2025-06-11,C1309,Rain Shell,outerwear,2,159.26,Partner
+ORD-52371,2025-06-11,C1318,Expedition Pack 65L,packs,6,332.07,web
+ORD-52528,2025-06-11,C1343,Daypack 22L,packs,7,112.95,retail
+ORD-50251,2025-06-12,C1040,Trekking Poles,hardware,8,92.46,partner
+ORD-50364,2025-06-12,C1057,Daypack 22L,packs,6,107.68,WEB 
+ORD-50853,2025-06-12,C1117,Headlamp,hardware,11,41.37,Web
+ORD-51600,2025-06-12,C1221,Base Layer,apparel,5,49.52,web
+ORD-52077,2025-06-12,C1284,Headlamp,hardware,9,42.09,partner
+ORD-52153,2025-06-12,C1293,Trail Runner,footwear,1,130.12,retail
+ORD-50123,2025-06-13,C1021,Down Jacket,outerwear,7,229.92,Retail
+ORD-50593,2025-06-13,C1084,Daypack 22L,packs,7,114.44,retail
+ORD-50625,2025-06-13,C1089,Rain Shell,outerwear,5,150.75,retail
+ORD-50841,2025-06-13,C1114,Trail Runner,footwear,1,125.09,web
+ORD-51743,2025-06-13,C1242,Approach Shoe,footwear,3,154.57,retail
+ORD-51877,2025-06-13,C1260,Rain Shell,outerwear,13,156.37,retail
+ORD-51963,2025-06-13,C1268,Hiking Sock,apparel,1,19.15,Retail
+ORD-52255,2025-06-13,C1303,Down Jacket,outerwear,7,230.67,web
+ORD-52911,2025-06-13,C1398,Approach Shoe,footwear,2,148.47, retail
+ORD-50093,2025-06-14,C1019,Rain Shell,outerwear,6,161.41,web
+ORD-50372,2025-06-14,C1057,Headlamp,hardware,8,41.9,web
+ORD-50489,2025-06-14,C1071,Hiking Sock,apparel,3,18.26,Web
+ORD-51145,2025-06-14,C1153,Trail Runner,footwear,2,127.42,retail
+ORD-51769,2025-06-14,C1247,Headlamp,hardware,2,40.93,Partner
+ORD-51907,2025-06-14,C1262,Approach Shoe,footwear,3,157.92, retail
+ORD-52744,2025-06-14,C1376,Daypack 22L,packs,10,111.65,retail
+ORD-50060,2025-06-15,C1013,Down Jacket,outerwear,1,223.28,web
+ORD-50092,2025-06-15,C1018,Rain Shell,outerwear,2,156.38,Retail
+ORD-50874,2025-06-15,C1118,Trekking Poles,hardware,1,93.44,Retail
+ORD-50951,2025-06-15,C1128,Expedition Pack 65L,packs,5,332.44,Web
+ORD-51076,2025-06-15,C1141,Down Jacket,outerwear,1,232.47,web
+ORD-52149,2025-06-15,C1292,Base Layer,apparel,4,49.95,Retail
+ORD-52208,2025-06-15,C1298,Approach Shoe,footwear,,150.43,web
+ORD-52597,2025-06-15,C1353,Down Jacket,outerwear,6,219.66,web
+ORD-50446,2025-06-16,C1065,Hiking Sock,apparel,7,18.89,web
+ORD-50754,2025-06-16,C1102,Down Jacket,outerwear,8,226.24,web
+ORD-51278,2025-06-16,C1170,Daypack 22L,packs,2,114.28,web
+ORD-51430,2025-06-16,C1197,Base Layer,apparel,1,50.08,web
+ORD-51658,2025-06-16,C1230,Hiking Sock,apparel,13,18.44,web
+ORD-51855,2025-06-16,C1256,Daypack 22L,packs,1,112.02,web
+ORD-52143,2025-06-16,C1290,Approach Shoe,footwear,2,156.0,retail
+ORD-50241,2025-06-17,C1040,Expedition Pack 65L,packs,4,351.87,web
+ORD-50399,2025-06-17,C1061,Hiking Sock,apparel,1,18.22,Retail
+ORD-50786,2025-06-17,C1107,Approach Shoe,footwear,2,153.09,partner
+ORD-50832,2025-06-17,C1113,Hiking Sock,apparel,,18.69,web
+ORD-50861,2025-06-17,C1117,Expedition Pack 65L,packs,11,328.52,partner
+ORD-50918,2025-06-17,C1124,Trail Runner,footwear,3,127.51,retail
+ORD-50955,2025-06-17,C1128,Expedition Pack 65L,packs,,340.24,Retail
+ORD-51919,2025-06-17,C1264,Trail Runner,footwear,2,125.16,WEB 
+ORD-51921,2025-06-17,C1265,Daypack 22L,packs,6,108.97,web
+ORD-51978,2025-06-17,C1270,Approach Shoe,footwear,16,151.83,retail
+ORD-52209,2025-06-17,C1298,Daypack 22L,packs,4,115.55,partner
+ORD-52264,2025-06-17,C1303,Approach Shoe,footwear,11,158.9,Partner
+ORD-52353,2025-06-17,C1317,Approach Shoe,footwear,2,159.15,web
+ORD-50343,2025-06-18,C1055,Approach Shoe,footwear,2,151.47, retail
+ORD-50675,2025-06-18,C1094,Headlamp,hardware,1,43.62,web
+ORD-50818,2025-06-18,C1112,Daypack 22L,packs,3,112.71,web
+ORD-50967,2025-06-18,C1128,Daypack 22L,packs,3,110.76,retail
+ORD-51267,2025-06-18,C1167,Base Layer,apparel,5,50.87,web
+ORD-51818,2025-06-18,C1254,Base Layer,apparel,10,49.1, retail
+ORD-51842,2025-06-18,C1254,Rain Shell,outerwear,7,155.35,retail
+ORD-51940,2025-06-18,C1265,Trail Runner,footwear,4,127.08,web
+ORD-52409,2025-06-18,C1324,Rain Shell,outerwear,9,155.68,web
+ORD-52431,2025-06-18,C1327,Base Layer,apparel,9,47.98,WEB 
+ORD-52560,2025-06-18,C1348,Headlamp,hardware,4,40.83,web
+ORD-52573,2025-06-18,C1350,Down Jacket,outerwear,1,226.61,retail
+ORD-50917,2025-06-19,C1124,Daypack 22L,packs,7,114.96,Retail
+ORD-51001,2025-06-19,C1134,Daypack 22L,packs,1,113.43, retail
+ORD-51117,2025-06-19,C1151,Base Layer,apparel,6,49.79, retail
+ORD-51220,2025-06-19,C1162,Daypack 22L,packs,1,115.57, retail
+ORD-51404,2025-06-19,C1191,Base Layer,apparel,1,51.19,retail
+ORD-51614,2025-06-19,C1222,Daypack 22L,packs,8,111.51,Retail
+ORD-51748,2025-06-19,C1242,Expedition Pack 65L,packs,2,347.75,retail
+ORD-52628,2025-06-19,C1356,Rain Shell,outerwear,1,153.82,retail
+ORD-52687,2025-06-19,C1365,Trekking Poles,hardware,4,94.0,partner
+ORD-50243,2025-06-20,C1040,Expedition Pack 65L,packs,7,338.09,retail
+ORD-50403,2025-06-20,C1062,Expedition Pack 65L,packs,3,351.42,web
+ORD-50986,2025-06-20,C1129,Trail Runner,footwear,5,123.01,web
+ORD-51331,2025-06-20,C1179,Expedition Pack 65L,packs,4,352.11,web
+ORD-52036,2025-06-20,C1275,Rain Shell,outerwear,2,154.01,partner
+ORD-52050,2025-06-20,C1279,Daypack 22L,packs,1,109.31,retail
+ORD-52087,2025-06-20,C1284,Headlamp,hardware,10,42.0,retail
+ORD-50063,2025-06-21,C1014,Expedition Pack 65L,packs,6,337.05,web
+ORD-50310,2025-06-21,C1050,Trekking Poles,hardware,1,92.92,web
+ORD-50384,2025-06-21,C1057,Approach Shoe,footwear,7,150.19,Partner
+ORD-51140,2025-06-21,C1151,Headlamp,hardware,11,42.77,Web
+ORD-52012,2025-06-21,C1274,Rain Shell,outerwear,9,151.94,web
+ORD-52013,2025-06-21,C1274,Down Jacket,outerwear,8,233.82,Web
+ORD-52829,2025-06-21,C1388,Hiking Sock,apparel,1,18.88,web
+ORD-50149,2025-06-22,C1025,Trekking Poles,hardware,1,93.25,web
+ORD-51045,2025-06-22,C1137,Hiking Sock,apparel,11,18.88,retail
+ORD-51147,2025-06-22,C1153,Daypack 22L,packs,4,110.23,Web
+ORD-51246,2025-06-22,C1167,Trail Runner,footwear,9,129.34,web
+ORD-51880,2025-06-22,C1260,Base Layer,apparel,16,50.57,WEB 
+ORD-50111,2025-06-23,C1020,Base Layer,apparel,2,50.95,partner
+ORD-50607,2025-06-23,C1085,Rain Shell,outerwear,1,153.32,partner
+ORD-51501,2025-06-23,C1203,Down Jacket,outerwear,1,223.98,retail
+ORD-51829,2025-06-23,C1254,Trekking Poles,hardware,7,93.14,WEB 
+ORD-51947,2025-06-23,C1265,Down Jacket,outerwear,15,233.41,retail
+ORD-51964,2025-06-23,C1268,Trail Runner,footwear,1,124.2,web
+ORD-50647,2025-06-24,C1091,Headlamp,hardware,4,42.11,web
+ORD-50956,2025-06-24,C1128,Rain Shell,outerwear,6,158.96,Web
+ORD-51024,2025-06-24,C1137,Rain Shell,outerwear,,156.65,retail
+ORD-51629,2025-06-24,C1223,Base Layer,apparel,1,49.17,web
+ORD-51685,2025-06-24,C1232,Daypack 22L,packs,1,113.39,web
+ORD-52071,2025-06-24,C1284,Hiking Sock,apparel,7,18.2,web
+ORD-52368,2025-06-24,C1318,Expedition Pack 65L,packs,4,351.92,web
+ORD-52835,2025-06-24,C1389,Base Layer,apparel,5,51.71,retail
+ORD-50024,2025-06-25,C1005,Base Layer,apparel,7,51.21, retail
+ORD-50684,2025-06-25,C1096,Base Layer,apparel,1,51.55,retail
+ORD-51321,2025-06-25,C1176,Expedition Pack 65L,packs,3,344.57,partner
+ORD-51383,2025-06-25,C1187,Expedition Pack 65L,packs,6,351.22,retail
+ORD-52603,2025-06-25,C1353,Hiking Sock,apparel,9,18.13,Retail
+ORD-52668,2025-06-25,C1361,Headlamp,hardware,4,42.14,retail
+ORD-50122,2025-06-26,C1021,Base Layer,apparel,5,50.0,Web
+ORD-50715,2025-06-26,C1098,Down Jacket,outerwear,1,217.28,web
+ORD-51017,2025-06-26,C1136,Headlamp,hardware,2,43.08,retail
+ORD-51838,2025-06-26,C1254,Expedition Pack 65L,packs,7,350.43,Retail
+ORD-52155,2025-06-26,C1293,Headlamp,hardware,2,43.6,retail
+ORD-52316,2025-06-26,C1309,Down Jacket,outerwear,1,221.48,web
+ORD-52324,2025-06-26,C1311,Approach Shoe,footwear,2,152.16,retail
+ORD-50517,2025-06-27,C1075,Base Layer,apparel,1,51.36,WEB 
+ORD-50838,2025-06-27,C1114,Trail Runner,footwear,2,128.48,partner
+ORD-51811,2025-06-27,C1252,Trail Runner,footwear,2,125.57,Retail
+ORD-52151,2025-06-27,C1292,Daypack 22L,packs,,109.33,WEB 
+ORD-52292,2025-06-27,C1306,Hiking Sock,apparel,1,18.87,web
+ORD-52390,2025-06-27,C1322,Headlamp,hardware,3,42.94,web
+ORD-50252,2025-06-28,C1040,Trekking Poles,hardware,8,94.81, retail
+ORD-51299,2025-06-28,C1175,Down Jacket,outerwear,8,223.88,retail
+ORD-51441,2025-06-28,C1199,Down Jacket,outerwear,10,221.46,Partner
+ORD-52524,2025-06-28,C1343,Base Layer,apparel,9,51.84,Web
+ORD-50036,2025-06-29,C1008,Down Jacket,outerwear,1,231.7,retail
+ORD-50104,2025-06-29,C1019,Down Jacket,outerwear,7,222.84,web
+ORD-51043,2025-06-29,C1137,Headlamp,hardware,12,41.09,Partner
+ORD-51197,2025-06-29,C1158,Approach Shoe,footwear,2,149.99,web
+ORD-51239,2025-06-29,C1165,Rain Shell,outerwear,3,153.49,web
+ORD-51296,2025-06-29,C1175,Down Jacket,outerwear,5,223.62,retail
+ORD-52146,2025-06-29,C1291,Daypack 22L,packs,1,114.36,Retail
+ORD-52161,2025-06-29,C1295,Trekking Poles,hardware,7,95.61,retail
+ORD-52248,2025-06-29,C1303,Hiking Sock,apparel,6,18.3,Web
+ORD-50023,2025-06-30,C1005,Headlamp,hardware,9,43.22,web
+ORD-50259,2025-06-30,C1040,Headlamp,hardware,11,42.27,Web
+ORD-50569,2025-06-30,C1081,Trail Runner,footwear,5,132.53,Retail
+ORD-50880,2025-06-30,C1119,Trail Runner,footwear,6,123.96, retail
+ORD-50973,2025-06-30,C1128,Trekking Poles,hardware,10,95.58,Retail
+ORD-51302,2025-06-30,C1175,Daypack 22L,packs,10,110.79,Partner
+ORD-51676,2025-06-30,C1230,Headlamp,hardware,10,41.92,Retail
+ORD-52438,2025-06-30,C1327,Expedition Pack 65L,packs,4,332.79,Retail
+ORD-50250,2025-07-01,C1040,Trekking Poles,hardware,9,92.23,web
+ORD-50402,2025-07-01,C1061,Headlamp,hardware,1,43.52,partner
+ORD-50817,2025-07-01,C1112,Rain Shell,outerwear,2,149.82,retail
+ORD-51092,2025-07-01,C1145,Down Jacket,outerwear,1,227.78,Retail
+ORD-51744,2025-07-01,C1242,Down Jacket,outerwear,4,217.45,Retail
+ORD-51886,2025-07-01,C1260,Trekking Poles,hardware,7,94.52,retail
+ORD-52108,2025-07-01,C1287,Down Jacket,outerwear,13,227.94,retail
+ORD-52257,2025-07-01,C1303,Down Jacket,outerwear,6,234.04,web
+ORD-52500,2025-07-01,C1341,Approach Shoe,footwear,1,158.44,web
+ORD-52733,2025-07-01,C1372,Approach Shoe,footwear,1,159.08,partner
+ORD-50542,2025-07-02,C1077,Approach Shoe,footwear,1,148.32,Retail
+ORD-51208,2025-07-02,C1160,Approach Shoe,footwear,4,148.99,Retail
+ORD-51235,2025-07-02,C1165,Headlamp,hardware,1,42.24,WEB 
+ORD-51442,2025-07-02,C1199,Approach Shoe,footwear,5,153.07,Retail
+ORD-51888,2025-07-02,C1260,Rain Shell,outerwear,17,158.54,partner
+ORD-52200,2025-07-02,C1297,Down Jacket,outerwear,1,225.07,web
+ORD-52200,2025-07-02,C1297,Down Jacket,outerwear,1,225.07,web
+ORD-52201,2025-07-02,C1297,Trail Runner,footwear,2,130.14,partner
+ORD-52266,2025-07-02,C1303,Trekking Poles,hardware,8,95.21,Web
+ORD-52515,2025-07-02,C1343,Daypack 22L,packs,11,112.67,Retail
+ORD-52531,2025-07-02,C1343,Trekking Poles,hardware,6,92.54,Retail
+ORD-50371,2025-07-03,C1057,Approach Shoe,footwear,5,151.07,Web
+ORD-51005,2025-07-03,C1134,Daypack 22L,packs,3,115.98,partner
+ORD-51536,2025-07-03,C1210,Headlamp,hardware,1,41.89,partner
+ORD-51686,2025-07-03,C1232,Hiking Sock,apparel,1,18.17,retail
+ORD-52726,2025-07-03,C1371,Expedition Pack 65L,packs,2,343.18,retail
+ORD-50042,2025-07-04,C1010,Daypack 22L,packs,1,107.68,web
+ORD-50311,2025-07-04,C1050,Base Layer,apparel,2,48.59,retail
+ORD-50335,2025-07-04,C1054,Trekking Poles,hardware,3,96.26,partner
+ORD-50913,2025-07-04,C1123,Expedition Pack 65L,packs,1,330.14,retail
+ORD-51161,2025-07-04,C1156,Trail Runner,footwear,7,126.38,Retail
+ORD-52017,2025-07-04,C1274,Trail Runner,footwear,14,129.31,retail
+ORD-52325,2025-07-04,C1311,Hiking Sock,apparel,1,19.08,partner
+ORD-52384,2025-07-04,C1321,Rain Shell,outerwear,1,154.53, retail
+ORD-52504,2025-07-04,C1341,Expedition Pack 65L,packs,5,329.02,web
+ORD-50096,2025-07-05,C1019,Expedition Pack 65L,packs,7,350.79,web
+ORD-50101,2025-07-05,C1019,Down Jacket,outerwear,9,225.98,Partner
+ORD-50654,2025-07-05,C1091,Down Jacket,outerwear,1,229.01,retail
+ORD-50888,2025-07-05,C1119,Trekking Poles,hardware,2,92.69,Web
+ORD-51735,2025-07-05,C1240,Expedition Pack 65L,packs,3,332.23,WEB 
+ORD-52462,2025-07-05,C1332,Approach Shoe,footwear,2,159.6,retail
+ORD-52539,2025-07-05,C1345,Headlamp,hardware,3,40.64,web
+ORD-50496,2025-07-06,C1072,Base Layer,apparel,1,50.75,retail
+ORD-50670,2025-07-06,C1093,Down Jacket,outerwear,3,225.37,partner
+ORD-51504,2025-07-06,C1204,Down Jacket,outerwear,4,220.6,Web
+ORD-51510,2025-07-06,C1206,Headlamp,hardware,,42.75,web
+ORD-51912,2025-07-06,C1264,Down Jacket,outerwear,2,223.28,partner
+ORD-52259,2025-07-06,C1303,Rain Shell,outerwear,4,155.74,Partner
+ORD-52306,2025-07-06,C1307,Daypack 22L,packs,2,111.9,Retail
+ORD-52532,2025-07-06,C1343,Daypack 22L,packs,4,107.58,Partner
+ORD-52585,2025-07-06,C1351,Base Layer,apparel,3,48.83,web
+ORD-52647,2025-07-06,C1359,Down Jacket,outerwear,3,233.08,partner
+ORD-50005,2025-07-07,C1003,Down Jacket,outerwear,1,231.84,Partner
+ORD-50338,2025-07-07,C1054,Trekking Poles,hardware,1,96.04,web
+ORD-51258,2025-07-07,C1167,Hiking Sock,apparel,11,18.71,web
+ORD-52451,2025-07-07,C1327,Down Jacket,outerwear,9,227.07,web
+ORD-52516,2025-07-07,C1343,Down Jacket,outerwear,6,221.47,Web
+ORD-52517,2025-07-07,C1343,Rain Shell,outerwear,6,153.74,web
+ORD-52751,2025-07-07,C1376,Rain Shell,outerwear,10,159.98,web
+ORD-50097,2025-07-08,C1019,Expedition Pack 65L,packs,17,337.73,retail
+ORD-50157,2025-07-08,C1027,Base Layer,apparel,2,50.26,Retail
+ORD-50456,2025-07-08,C1065,Approach Shoe,footwear,8,156.73,Partner
+ORD-50755,2025-07-08,C1102,Down Jacket,outerwear,1,230.62,web
+ORD-51097,2025-07-08,C1146,Rain Shell,outerwear,1,159.14,partner
+ORD-51546,2025-07-08,C1213,Base Layer,apparel,1,51.41,partner
+ORD-51565,2025-07-08,C1217,Daypack 22L,packs,1,109.51,retail
+ORD-51598,2025-07-08,C1221,Base Layer,apparel,9,48.35,web
+ORD-52145,2025-07-08,C1291,Expedition Pack 65L,packs,1,343.54,partner
+ORD-52269,2025-07-08,C1303,Expedition Pack 65L,packs,9,339.71,web
+ORD-52673,2025-07-08,C1363,Down Jacket,outerwear,2,220.45,Partner
+ORD-50362,2025-07-09,C1057,Trekking Poles,hardware,12,95.55,retail
+ORD-52449,2025-07-09,C1327,Base Layer,apparel,8,49.59,Retail
+ORD-52590,2025-07-09,C1353,Approach Shoe,footwear,5,156.14, retail
+ORD-52807,2025-07-09,C1384,Headlamp,hardware,2,42.58,retail
+ORD-50991,2025-07-10,C1131,Trekking Poles,hardware,2,98.02,web
+ORD-51253,2025-07-10,C1167,Rain Shell,outerwear,9,160.96,partner
+ORD-51604,2025-07-10,C1221,Rain Shell,outerwear,10,152.81,web
+ORD-51820,2025-07-10,C1254,Daypack 22L,packs,10,108.62,retail
+ORD-52605,2025-07-10,C1353,Trekking Poles,hardware,8,92.73,Web
+ORD-50018,2025-07-11,C1005,Approach Shoe,footwear,5,154.77, retail
+ORD-50323,2025-07-11,C1052,Daypack 22L,packs,1,109.95,retail
+ORD-50363,2025-07-11,C1057,Approach Shoe,footwear,9,156.84,web
+ORD-50723,2025-07-11,C1099,Expedition Pack 65L,packs,,335.01,retail
+ORD-51646,2025-07-11,C1227,Daypack 22L,packs,3,112.03,partner
+ORD-51750,2025-07-11,C1242,Trail Runner,footwear,2,126.32,Retail
+ORD-52444,2025-07-11,C1327,Rain Shell,outerwear,9,149.54,Web
+ORD-52483,2025-07-11,C1338,Expedition Pack 65L,packs,1,336.37,web
+ORD-50109,2025-07-12,C1019,Headlamp,hardware,9,40.69,web
+ORD-50347,2025-07-12,C1056,Rain Shell,outerwear,5,154.5,partner
+ORD-50486,2025-07-12,C1071,Down Jacket,outerwear,4,218.85,web
+ORD-50711,2025-07-12,C1098,Headlamp,hardware,3,40.78, retail
+ORD-50886,2025-07-12,C1119,Base Layer,apparel,5,51.53,web
+ORD-51096,2025-07-12,C1146,Daypack 22L,packs,1,109.0,retail
+ORD-51262,2025-07-12,C1167,Base Layer,apparel,5,48.89,Partner
+ORD-51357,2025-07-12,C1184,Rain Shell,outerwear,1,156.98,Web
+ORD-52217,2025-07-12,C1300,Headlamp,hardware,1,41.22,Partner
+ORD-52434,2025-07-12,C1327,Base Layer,apparel,4,49.02,partner
+ORD-52648,2025-07-12,C1359,Base Layer,apparel,3,50.18,retail
+ORD-52714,2025-07-12,C1370,Approach Shoe,footwear,4,154.71,web
+ORD-50355,2025-07-13,C1056,Trekking Poles,hardware,5,95.96,retail
+ORD-50778,2025-07-13,C1106,Rain Shell,outerwear,3,158.64,retail
+ORD-50798,2025-07-13,C1109,Approach Shoe,footwear,1,158.0,retail
+ORD-51297,2025-07-13,C1175,Base Layer,apparel,8,50.2,Retail
+ORD-51547,2025-07-13,C1214,Rain Shell,outerwear,2,150.99,retail
+ORD-52309,2025-07-13,C1308,Rain Shell,outerwear,1,157.26,retail
+ORD-52477,2025-07-13,C1337,Approach Shoe,footwear,1,153.12,partner
+ORD-52571,2025-07-13,C1349,Headlamp,hardware,1,40.53,Web
+ORD-50455,2025-07-14,C1065,Approach Shoe,footwear,8,159.65,web
+ORD-50546,2025-07-14,C1079,Trekking Poles,hardware,3,95.52,web
+ORD-51252,2025-07-14,C1167,Down Jacket,outerwear,9,231.98,WEB 
+ORD-51376,2025-07-14,C1187,Down Jacket,outerwear,9,224.38,partner
+ORD-51687,2025-07-14,C1232,Down Jacket,outerwear,2,231.18,retail
+ORD-52359,2025-07-14,C1317,Trekking Poles,hardware,3,93.39,WEB 
+ORD-52364,2025-07-14,C1318,Rain Shell,outerwear,5,150.42,Retail
+ORD-52397,2025-07-14,C1323,Approach Shoe,footwear,2,154.84,partner
+ORD-52412,2025-07-14,C1324,Daypack 22L,packs,10,107.73,web
+ORD-52650,2025-07-14,C1359,Rain Shell,outerwear,3,160.61,retail
+ORD-52720,2025-07-14,C1370,Rain Shell,outerwear,6,160.88,web
+ORD-50154,2025-07-15,C1027,Rain Shell,outerwear,3,160.42,Web
+ORD-50164,2025-07-15,C1029,Daypack 22L,packs,2,116.4,web
+ORD-50322,2025-07-15,C1052,Trail Runner,footwear,1,129.38,partner
+ORD-50811,2025-07-15,C1111,Expedition Pack 65L,packs,1,348.88,web
+ORD-51016,2025-07-15,C1136,Trail Runner,footwear,1,130.44,Web
+ORD-51234,2025-07-15,C1164,Rain Shell,outerwear,6,156.37,partner
+ORD-51271,2025-07-15,C1169,Headlamp,hardware,1,42.6,Retail
+ORD-51961,2025-07-15,C1268,Hiking Sock,apparel,1,18.71,Partner
+ORD-50086,2025-07-16,C1017,Rain Shell,outerwear,3,153.23,web
+ORD-50757,2025-07-16,C1102,Trail Runner,footwear,5,131.9,partner
+ORD-51198,2025-07-16,C1158,Daypack 22L,packs,1,108.59,web
+ORD-51230,2025-07-16,C1164,Base Layer,apparel,4,51.88,partner
+ORD-51273,2025-07-16,C1169,Hiking Sock,apparel,1,18.55,Web
+ORD-51556,2025-07-16,C1215,Approach Shoe,footwear,3,151.69,retail
+ORD-52655,2025-07-16,C1359,Trail Runner,footwear,4,128.14,Retail
+ORD-52742,2025-07-16,C1376,Hiking Sock,apparel,11,18.43,partner
+ORD-50161,2025-07-17,C1028,Daypack 22L,packs,1,112.42,web
+ORD-51022,2025-07-17,C1137,Trail Runner,footwear,8,126.65,retail
+ORD-51434,2025-07-17,C1198,Trekking Poles,hardware,1,96.63,partner
+ORD-51827,2025-07-17,C1254,Approach Shoe,footwear,10,149.56,web
+ORD-52735,2025-07-17,C1373,Trekking Poles,hardware,1,97.45,web
+ORD-50358,2025-07-18,C1057,Trail Runner,footwear,9,130.93,Partner
+ORD-51617,2025-07-18,C1222,Rain Shell,outerwear,4,149.55,retail
+ORD-51853,2025-07-18,C1255,Rain Shell,outerwear,1,152.79,Retail
+ORD-52279,2025-07-18,C1305,Trail Runner,footwear,2,126.44,Retail
+ORD-52542,2025-07-18,C1345,Trekking Poles,hardware,3,94.64,retail
+ORD-52745,2025-07-18,C1376,Trekking Poles,hardware,6,97.75,web
+ORD-50136,2025-07-19,C1024,Hiking Sock,apparel,4,19.06,partner
+ORD-50182,2025-07-19,C1035,Expedition Pack 65L,packs,1,352.25,retail
+ORD-50894,2025-07-19,C1120,Base Layer,apparel,1,51.56,retail
+ORD-52583,2025-07-19,C1351,Headlamp,hardware,,40.4,retail
+ORD-51175,2025-07-20,C1156,Hiking Sock,apparel,6,18.27,partner
+ORD-51390,2025-07-20,C1187,Trail Runner,footwear,,132.19,Web
+ORD-52461,2025-07-20,C1332,Trekking Poles,hardware,1,97.07,retail
+ORD-52529,2025-07-20,C1343,Rain Shell,outerwear,12,159.8,partner
+ORD-52533,2025-07-20,C1343,Daypack 22L,packs,8,112.08,WEB 
+ORD-51591,2025-07-21,C1221,Trail Runner,footwear,7,130.8,web
+ORD-51745,2025-07-21,C1242,Expedition Pack 65L,packs,3,344.65,partner
+ORD-52299,2025-07-21,C1307,Headlamp,hardware,3,42.67,Partner
+ORD-50211,2025-07-22,C1038,Expedition Pack 65L,packs,1,345.53,retail
+ORD-50214,2025-07-22,C1039,Approach Shoe,footwear,11,153.44,partner
+ORD-50651,2025-07-22,C1091,Hiking Sock,apparel,1,18.94,partner
+ORD-50845,2025-07-22,C1115,Rain Shell,outerwear,2,152.29,web
+ORD-50925,2025-07-22,C1125,Approach Shoe,footwear,9,151.52,retail
+ORD-51203,2025-07-22,C1160,Base Layer,apparel,4,48.67,Retail
+ORD-51458,2025-07-22,C1199,Approach Shoe,footwear,7,159.13,Retail
+ORD-51663,2025-07-22,C1230,Trekking Poles,hardware,10,92.68,Web
+ORD-52841,2025-07-22,C1389,Base Layer,apparel,4,48.86, retail
+ORD-50460,2025-07-23,C1065,Hiking Sock,apparel,17,18.64,retail
+ORD-51156,2025-07-23,C1156,Headlamp,hardware,8,41.47,Retail
+ORD-51397,2025-07-23,C1189,Headlamp,hardware,3,42.42,web
+ORD-51852,2025-07-23,C1255,Trekking Poles,hardware,2,92.41,Retail
+ORD-50007,2025-07-24,C1004,Trekking Poles,hardware,1,93.9,partner
+ORD-50404,2025-07-24,C1062,Approach Shoe,footwear,2,154.9,partner
+ORD-50404,2025-07-24,C1062,Approach Shoe,footwear,2,154.9,partner
+ORD-50538,2025-07-24,C1076,Hiking Sock,apparel,13,18.43,retail
+ORD-52308,2025-07-24,C1308,Hiking Sock,apparel,1,19.09, retail
+ORD-50016,2025-07-25,C1005,Down Jacket,outerwear,14,220.93, retail
+ORD-50215,2025-07-25,C1039,Approach Shoe,footwear,11,156.29,web
+ORD-50298,2025-07-25,C1048,Rain Shell,outerwear,1,161.01,web
+ORD-50648,2025-07-25,C1091,Trail Runner,footwear,1,128.89,retail
+ORD-51221,2025-07-25,C1162,Headlamp,hardware,5,42.21,retail
+ORD-51551,2025-07-25,C1214,Rain Shell,outerwear,3,153.5, retail
+ORD-52322,2025-07-25,C1310,Rain Shell,outerwear,2,152.2,Partner
+ORD-52429,2025-07-25,C1326,Trail Runner,footwear,2,124.11,web
+ORD-52574,2025-07-25,C1350,Headlamp,hardware,1,42.53,retail
+ORD-50232,2025-07-26,C1039,Base Layer,apparel,7,48.02,retail
+ORD-50672,2025-07-26,C1094,Approach Shoe,footwear,1,155.06,Retail
+ORD-50930,2025-07-26,C1125,Daypack 22L,packs,4,115.55,retail
+ORD-51079,2025-07-26,C1143,Hiking Sock,apparel,2,18.52,retail
+ORD-51343,2025-07-26,C1181,Approach Shoe,footwear,2,158.54,Retail
+ORD-51412,2025-07-26,C1194,Headlamp,hardware,1,42.17,web
+ORD-51467,2025-07-26,C1201,Expedition Pack 65L,packs,2,342.23,web
+ORD-51498,2025-07-26,C1203,Trekking Poles,hardware,4,95.54, retail
+ORD-51576,2025-07-26,C1220,Trail Runner,footwear,2,127.99,web
+ORD-51712,2025-07-26,C1238,Down Jacket,outerwear,3,226.99,web
+ORD-52312,2025-07-26,C1309,Expedition Pack 65L,packs,4,329.25,Web
+ORD-52849,2025-07-26,C1389,Headlamp,hardware,3,41.49,web
+ORD-51072,2025-07-27,C1141,Base Layer,apparel,7,48.95,Web
+ORD-51522,2025-07-27,C1208,Base Layer,apparel,1,49.04,Retail
+ORD-51574,2025-07-27,C1219,Hiking Sock,apparel,2,18.53,retail
+ORD-51926,2025-07-27,C1265,Expedition Pack 65L,packs,7,329.45,web
+ORD-52779,2025-07-27,C1379,Trekking Poles,hardware,10,93.41,web
+ORD-51089,2025-07-28,C1144,Rain Shell,outerwear,1,149.6,web
+ORD-51453,2025-07-28,C1199,Rain Shell,outerwear,6,156.89,web
+ORD-50659,2025-07-29,C1092,Expedition Pack 65L,packs,2,332.14,web
+ORD-51259,2025-07-29,C1167,Expedition Pack 65L,packs,4,340.26,web
+ORD-51351,2025-07-29,C1183,Expedition Pack 65L,packs,2,345.8,Web
+ORD-51716,2025-07-29,C1238,Down Jacket,outerwear,,231.99,web
+ORD-52026,2025-07-29,C1274,Approach Shoe,footwear,8,148.71,retail
+ORD-52204,2025-07-29,C1298,Expedition Pack 65L,packs,3,334.29,partner
+ORD-51123,2025-07-30,C1151,Headlamp,hardware,5,41.93,Partner
+ORD-51657,2025-07-30,C1230,Hiking Sock,apparel,11,18.11,retail
+ORD-50139,2025-07-31,C1024,Down Jacket,outerwear,3,228.43,web
+ORD-50525,2025-07-31,C1076,Expedition Pack 65L,packs,10,333.96,web
+ORD-51435,2025-07-31,C1198,Expedition Pack 65L,packs,3,345.61,web
+ORD-51582,2025-07-31,C1220,Expedition Pack 65L,packs,3,339.36,Retail
+ORD-50058,2025-08-01,C1013,Trekking Poles,hardware,1,96.81,retail
+ORD-51130,2025-08-01,C1151,Trekking Poles,hardware,6,93.66,Retail
+ORD-51389,2025-08-01,C1187,Headlamp,hardware,9,42.96,partner
+ORD-51585,2025-08-01,C1221,Trail Runner,footwear,8,129.96,Partner
+ORD-51714,2025-08-01,C1238,Trail Runner,footwear,3,130.19,retail
+ORD-51995,2025-08-01,C1272,Hiking Sock,apparel,1,17.82,partner
+ORD-52793,2025-08-01,C1379,Headlamp,hardware,13,40.74,retail
+ORD-50021,2025-08-02,C1005,Base Layer,apparel,11,49.45, retail
+ORD-50150,2025-08-02,C1026,Expedition Pack 65L,packs,1,339.63,retail
+ORD-52572,2025-08-02,C1350,Rain Shell,outerwear,2,155.55,web
+ORD-50410,2025-08-03,C1063,Headlamp,hardware,1,42.42,Retail
+ORD-51462,2025-08-03,C1200,Daypack 22L,packs,1,114.27,Web
+ORD-51833,2025-08-03,C1254,Down Jacket,outerwear,16,219.86,partner
+ORD-52016,2025-08-03,C1274,Headlamp,hardware,11,40.86,Retail
+ORD-52771,2025-08-03,C1379,Trail Runner,footwear,11,131.83,web
+ORD-50390,2025-08-04,C1059,Rain Shell,outerwear,1,159.17,web
+ORD-51901,2025-08-04,C1262,Headlamp,hardware,2,40.6,web
+ORD-51957,2025-08-04,C1267,Rain Shell,outerwear,1,156.73,web
+ORD-52296,2025-08-04,C1307,Daypack 22L,packs,2,116.19,web
+ORD-50134,2025-08-05,C1023,Daypack 22L,packs,1,112.33,partner
+ORD-50409,2025-08-05,C1063,Hiking Sock,apparel,2,18.39,retail
+ORD-51249,2025-08-05,C1167,Headlamp,hardware,7,40.93,retail
+ORD-51291,2025-08-05,C1174,Base Layer,apparel,2,48.69,Retail
+ORD-51610,2025-08-05,C1221,Down Jacket,outerwear,7,227.41, retail
+ORD-52272,2025-08-06,C1303,Daypack 22L,packs,,110.54,partner
+ORD-52273,2025-08-06,C1303,Daypack 22L,packs,4,110.1,Partner
+ORD-50071,2025-08-07,C1015,Headlamp,hardware,2,43.04,retail
+ORD-50716,2025-08-07,C1098,Rain Shell,outerwear,1,158.68, retail
+ORD-50979,2025-08-07,C1129,Base Layer,apparel,3,49.15,web
+ORD-51871,2025-08-07,C1260,Rain Shell,outerwear,13,160.99,Partner
+ORD-52672,2025-08-07,C1362,Expedition Pack 65L,packs,1,330.22,retail
+ORD-50103,2025-08-08,C1019,Approach Shoe,footwear,10,156.75,WEB 
+ORD-50875,2025-08-08,C1118,Hiking Sock,apparel,1,19.11,retail
+ORD-52767,2025-08-08,C1378,Down Jacket,outerwear,1,219.32,retail
+ORD-50761,2025-08-09,C1103,Trail Runner,footwear,1,132.12,retail
+ORD-52358,2025-08-09,C1317,Approach Shoe,footwear,2,150.31,web
+ORD-52389,2025-08-09,C1322,Rain Shell,outerwear,1,156.54,Retail
+ORD-50088,2025-08-10,C1017,Trekking Poles,hardware,3,97.08,retail
+ORD-50487,2025-08-10,C1071,Rain Shell,outerwear,5,155.8,WEB 
+ORD-50498,2025-08-10,C1072,Trail Runner,footwear,1,129.09,retail
+ORD-51172,2025-08-10,C1156,Expedition Pack 65L,packs,6,330.12,Retail
+ORD-51988,2025-08-10,C1270,Approach Shoe,footwear,11,148.9,retail
+ORD-50458,2025-08-11,C1065,Headlamp,hardware,5,41.21,Web
+ORD-50781,2025-08-11,C1106,Trekking Poles,hardware,3,96.34,Retail
+ORD-50934,2025-08-11,C1125,Trail Runner,footwear,12,131.91,partner
+ORD-52544,2025-08-11,C1345,Expedition Pack 65L,packs,3,351.59,web
+ORD-52707,2025-08-11,C1367,Trekking Poles,hardware,1,98.21,Retail
+ORD-50019,2025-08-12,C1005,Daypack 22L,packs,4,110.65,Retail
+ORD-50047,2025-08-12,C1010,Trail Runner,footwear,1,123.41,Retail
+ORD-51164,2025-08-12,C1156,Trail Runner,footwear,6,124.07,retail
+ORD-52247,2025-08-12,C1303,Trekking Poles,hardware,5,97.35,partner
+ORD-51409,2025-08-13,C1193,Trail Runner,footwear,1,132.7,web
+ORD-52478,2025-08-13,C1337,Daypack 22L,packs,4,110.72,web
+ORD-50037,2025-08-14,C1008,Expedition Pack 65L,packs,1,340.33,web
+ORD-50767,2025-08-14,C1103,Headlamp,hardware,,41.32,web
+ORD-51128,2025-08-14,C1151,Expedition Pack 65L,packs,8,348.95,Retail
+ORD-51711,2025-08-14,C1238,Headlamp,hardware,1,42.92,retail
+ORD-51991,2025-08-14,C1271,Trail Runner,footwear,1,130.03,web
+ORD-50760,2025-08-15,C1103,Daypack 22L,packs,3,113.8,Web
+ORD-51006,2025-08-15,C1134,Daypack 22L,packs,5,112.91,web
+ORD-50357,2025-08-16,C1056,Expedition Pack 65L,packs,3,329.52,retail
+ORD-50453,2025-08-16,C1065,Expedition Pack 65L,packs,6,328.61,WEB 
+ORD-50499,2025-08-16,C1072,Daypack 22L,packs,3,109.11,Web
+ORD-50650,2025-08-16,C1091,Base Layer,apparel,1,48.57,Web
+ORD-51233,2025-08-16,C1164,Expedition Pack 65L,packs,7,342.1,Web
+ORD-51272,2025-08-16,C1169,Trekking Poles,hardware,1,92.21,web
+ORD-51468,2025-08-16,C1201,Approach Shoe,footwear,2,153.17,Web
+ORD-51929,2025-08-16,C1265,Down Jacket,outerwear,10,230.65,web
+ORD-52106,2025-08-16,C1287,Approach Shoe,footwear,8,152.83,web
+ORD-50087,2025-08-17,C1017,Base Layer,apparel,2,50.58,retail
+ORD-50831,2025-08-17,C1113,Daypack 22L,packs,4,113.88,Retail
+ORD-51378,2025-08-17,C1187,Expedition Pack 65L,packs,5,327.69,retail
+ORD-50188,2025-08-18,C1035,Expedition Pack 65L,packs,9,329.63,WEB 
+ORD-51983,2025-08-18,C1270,Trail Runner,footwear,11,127.5,web
+ORD-52051,2025-08-18,C1280,Base Layer,apparel,1,47.96,web
+ORD-50397,2025-08-19,C1061,Headlamp,hardware,1,43.58,Web
+ORD-51201,2025-08-19,C1159,Trekking Poles,hardware,3,99.42,retail
+ORD-50151,2025-08-20,C1026,Rain Shell,outerwear,2,149.59,Partner
+ORD-50368,2025-08-20,C1057,Trail Runner,footwear,15,132.24,web
+ORD-50449,2025-08-20,C1065,Rain Shell,outerwear,10,158.96,web
+ORD-50923,2025-08-20,C1125,Approach Shoe,footwear,14,153.65, retail
+ORD-50476,2025-08-21,C1068,Trekking Poles,hardware,1,94.27,Retail
+ORD-51136,2025-08-21,C1151,Base Layer,apparel,6,50.89,web
+ORD-51843,2025-08-21,C1254,Rain Shell,outerwear,8,149.21,web
+ORD-51859,2025-08-21,C1257,Trekking Poles,hardware,2,99.43,partner
+ORD-52282,2025-08-21,C1305,Rain Shell,outerwear,4,157.0,Retail
+ORD-52663,2025-08-21,C1360,Base Layer,apparel,4,48.49,partner
+ORD-51388,2025-08-22,C1187,Daypack 22L,packs,12,110.51,retail
+ORD-51452,2025-08-22,C1199,Hiking Sock,apparel,7,18.15,retail
+ORD-51675,2025-08-22,C1230,Expedition Pack 65L,packs,12,337.7,Retail
+ORD-51857,2025-08-22,C1256,Trail Runner,footwear,1,124.98,retail
+ORD-52643,2025-08-22,C1358,Hiking Sock,apparel,4,18.68,web
+ORD-50391,2025-08-23,C1059,Daypack 22L,packs,1,112.39,Retail
+ORD-50840,2025-08-23,C1114,Trail Runner,footwear,,126.79,Web
+ORD-51213,2025-08-23,C1162,Trekking Poles,hardware,1,94.29,retail
+ORD-50017,2025-08-24,C1005,Hiking Sock,apparel,8,18.83,web
+ORD-50208,2025-08-24,C1038,Expedition Pack 65L,packs,2,343.13,web
+ORD-50307,2025-08-24,C1049,Headlamp,hardware,2,41.81,web
+ORD-50609,2025-08-24,C1086,Daypack 22L,packs,2,113.95,retail
+ORD-51218,2025-08-24,C1162,Expedition Pack 65L,packs,3,353.22,web
+ORD-51990,2025-08-24,C1270,Headlamp,hardware,14,43.66,partner
+ORD-52845,2025-08-24,C1389,Daypack 22L,packs,5,111.35,web
+ORD-50067,2025-08-25,C1014,Down Jacket,outerwear,4,228.49,web
+ORD-51110,2025-08-25,C1149,Trekking Poles,hardware,1,95.23,web
+ORD-51111,2025-08-25,C1149,Trail Runner,footwear,1,131.85,web
+ORD-51111,2025-08-25,C1149,Trail Runner,footwear,1,131.85,web
+ORD-51151,2025-08-25,C1154,Daypack 22L,packs,4,110.73,web
+ORD-51633,2025-08-25,C1225,Headlamp,hardware,4,42.58,WEB 
+ORD-50207,2025-08-26,C1038,Trail Runner,footwear,4,123.1,partner
+ORD-51178,2025-08-26,C1156,Down Jacket,outerwear,6,229.55,web
+ORD-51499,2025-08-26,C1203,Approach Shoe,footwear,2,153.99,WEB 
+ORD-51538,2025-08-26,C1211,Approach Shoe,footwear,3,149.37,Partner
+ORD-51876,2025-08-26,C1260,Expedition Pack 65L,packs,11,334.14,partner
+ORD-52014,2025-08-26,C1274,Rain Shell,outerwear,5,159.45,web
+ORD-52028,2025-08-26,C1274,Headlamp,hardware,8,40.79,web
+ORD-52109,2025-08-26,C1287,Approach Shoe,footwear,9,156.76,web
+ORD-52112,2025-08-26,C1287,Down Jacket,outerwear,6,221.03,partner
+ORD-50828,2025-08-27,C1113,Headlamp,hardware,3,42.9,Retail
+ORD-50033,2025-08-28,C1007,Trail Runner,footwear,2,131.59,web
+ORD-50210,2025-08-28,C1038,Approach Shoe,footwear,5,159.09,web
+ORD-51525,2025-08-28,C1208,Base Layer,apparel,2,49.12, retail
+ORD-51709,2025-08-28,C1237,Trail Runner,footwear,3,128.65,retail
+ORD-52211,2025-08-28,C1298,Rain Shell,outerwear,3,154.45,partner
+ORD-50283,2025-08-29,C1044,Trekking Poles,hardware,3,96.97,retail
+ORD-51516,2025-08-29,C1206,Down Jacket,outerwear,3,225.9,Partner
+ORD-51792,2025-08-29,C1250,Base Layer,apparel,4,51.68,Web
+ORD-52423,2025-08-29,C1326,Approach Shoe,footwear,5,158.05,retail
+ORD-52658,2025-08-29,C1359,Down Jacket,outerwear,3,218.49, retail
+ORD-52734,2025-08-29,C1373,Rain Shell,outerwear,1,158.63,retail
+ORD-50184,2025-08-30,C1035,Daypack 22L,packs,6,112.93,web
+ORD-51179,2025-08-30,C1156,Daypack 22L,packs,4,109.18,partner
+ORD-51339,2025-08-30,C1180,Hiking Sock,apparel,1,18.54,retail
+ORD-50094,2025-08-31,C1019,Expedition Pack 65L,packs,7,351.2,WEB 
+ORD-50370,2025-08-31,C1057,Rain Shell,outerwear,8,152.32,Partner
+ORD-51282,2025-08-31,C1171,Expedition Pack 65L,packs,1,330.53,web
+ORD-50186,2025-09-01,C1035,Approach Shoe,footwear,5,148.63,web
+ORD-51090,2025-09-01,C1144,Down Jacket,outerwear,2,225.89,retail
+ORD-51174,2025-09-01,C1156,Daypack 22L,packs,9,115.51,web
+ORD-51363,2025-09-01,C1185,Trekking Poles,hardware,2,98.02,retail
+ORD-51396,2025-09-01,C1189,Base Layer,apparel,2,48.08,retail
+ORD-51087,2025-09-02,C1144,Trekking Poles,hardware,2,96.78,partner
+ORD-52355,2025-09-02,C1317,Headlamp,hardware,3,42.98,web
+ORD-50159,2025-09-03,C1027,Daypack 22L,packs,5,111.75,web
+ORD-50619,2025-09-03,C1088,Approach Shoe,footwear,1,159.67,Retail
+ORD-50462,2025-09-04,C1065,Trekking Poles,hardware,15,94.58,partner
+ORD-50678,2025-09-04,C1095,Base Layer,apparel,5,50.78,Web
+ORD-51225,2025-09-04,C1163,Down Jacket,outerwear,1,221.52,Retail
+ORD-51572,2025-09-04,C1219,Expedition Pack 65L,packs,3,345.69,retail
+ORD-51958,2025-09-04,C1268,Rain Shell,outerwear,1,158.23,web
+ORD-52261,2025-09-04,C1303,Rain Shell,outerwear,11,149.14,Retail
+ORD-52356,2025-09-04,C1317,Trail Runner,footwear,2,129.87,Web
+ORD-50236,2025-09-05,C1039,Down Jacket,outerwear,11,224.0,WEB 
+ORD-50281,2025-09-05,C1044,Rain Shell,outerwear,3,151.49,web
+ORD-51134,2025-09-05,C1151,Rain Shell,outerwear,9,161.4,web
+ORD-51537,2025-09-05,C1210,Headlamp,hardware,2,43.2,partner
+ORD-51939,2025-09-05,C1265,Hiking Sock,apparel,6,19.03,partner
+ORD-52008,2025-09-05,C1273,Approach Shoe,footwear,5,155.59, retail
+ORD-52313,2025-09-05,C1309,Down Jacket,outerwear,5,224.56,web
+ORD-51874,2025-09-06,C1260,Base Layer,apparel,11,51.61,web
+ORD-51935,2025-09-06,C1265,Approach Shoe,footwear,11,151.32,retail
+ORD-51970,2025-09-06,C1270,Hiking Sock,apparel,7,19.09,retail
+ORD-52291,2025-09-06,C1305,Trekking Poles,hardware,1,96.21, retail
+ORD-52377,2025-09-06,C1320,Headlamp,hardware,1,42.27, retail
+ORD-52489,2025-09-06,C1339,Down Jacket,outerwear,4,222.83,partner
+ORD-52646,2025-09-06,C1359,Hiking Sock,apparel,8,19.02,retail
+ORD-50083,2025-09-07,C1017,Expedition Pack 65L,packs,4,330.11,retail
+ORD-50369,2025-09-07,C1057,Headlamp,hardware,5,42.7,retail
+ORD-50374,2025-09-07,C1057,Expedition Pack 65L,packs,14,337.87,Retail
+ORD-50452,2025-09-07,C1065,Base Layer,apparel,12,49.14,Web
+ORD-50480,2025-09-07,C1069,Hiking Sock,apparel,1,19.13,web
+ORD-51611,2025-09-07,C1221,Down Jacket,outerwear,8,221.91,Retail
+ORD-52467,2025-09-07,C1334,Headlamp,hardware,1,43.31,web
+ORD-50649,2025-09-08,C1091,Hiking Sock,apparel,3,18.27,Retail
+ORD-50903,2025-09-08,C1123,Base Layer,apparel,7,51.22,retail
+ORD-51746,2025-09-08,C1242,Expedition Pack 65L,packs,9,348.41,retail
+ORD-52286,2025-09-08,C1305,Approach Shoe,footwear,4,152.94,web
+ORD-52629,2025-09-08,C1356,Approach Shoe,footwear,1,155.24,partner
+ORD-51393,2025-09-09,C1189,Trail Runner,footwear,1,127.1,retail
+ORD-51460,2025-09-09,C1199,Down Jacket,outerwear,12,226.82,retail
+ORD-51689,2025-09-09,C1232,Hiking Sock,apparel,3,19.01,Retail
+ORD-51797,2025-09-09,C1250,Trail Runner,footwear,3,130.86,web
+ORD-50565,2025-09-10,C1081,Hiking Sock,apparel,3,19.0,retail
+ORD-51083,2025-09-10,C1143,Base Layer,apparel,1,49.15,Web
+ORD-51091,2025-09-10,C1145,Approach Shoe,footwear,5,150.66,retail
+ORD-51575,2025-09-10,C1220,Trail Runner,footwear,2,133.04,retail
+ORD-51707,2025-09-10,C1237,Rain Shell,outerwear,2,155.76,retail
+ORD-52300,2025-09-10,C1307,Daypack 22L,packs,3,112.95,web
+ORD-52867,2025-09-10,C1392,Expedition Pack 65L,packs,6,326.62,partner
+ORD-50317,2025-09-11,C1051,Rain Shell,outerwear,3,155.97,Retail
+ORD-50999,2025-09-11,C1133,Base Layer,apparel,2,49.19,retail
+ORD-51674,2025-09-11,C1230,Down Jacket,outerwear,12,227.18,Partner
+ORD-52210,2025-09-11,C1298,Base Layer,apparel,1,50.43,retail
+ORD-50490,2025-09-12,C1071,Approach Shoe,footwear,4,151.42,Web
+ORD-52415,2025-09-12,C1324,Base Layer,apparel,11,49.98,Retail
+ORD-50713,2025-09-13,C1098,Headlamp,hardware,1,43.36,retail
+ORD-50830,2025-09-13,C1113,Hiking Sock,apparel,2,18.95,Retail
+ORD-51952,2025-09-13,C1266,Trekking Poles,hardware,1,99.43,retail
+ORD-52385,2025-09-13,C1321,Trail Runner,footwear,1,124.16,web
+ORD-52479,2025-09-13,C1337,Headlamp,hardware,2,41.47,retail
+ORD-50179,2025-09-14,C1034,Rain Shell,outerwear,2,159.47,retail
+ORD-50839,2025-09-14,C1114,Down Jacket,outerwear,5,225.28,Retail
+ORD-51205,2025-09-14,C1160,Headlamp,hardware,1,42.59,retail
+ORD-52041,2025-09-14,C1278,Headlamp,hardware,1,42.36,retail
+ORD-52265,2025-09-14,C1303,Trail Runner,footwear,4,131.6,Retail
+ORD-52545,2025-09-14,C1345,Expedition Pack 65L,packs,5,348.34,partner
+ORD-52790,2025-09-14,C1379,Headlamp,hardware,9,43.04,retail
+ORD-50344,2025-09-15,C1055,Rain Shell,outerwear,1,154.22,WEB 
+ORD-51003,2025-09-15,C1134,Trail Runner,footwear,3,130.32,web
+ORD-52858,2025-09-15,C1389,Rain Shell,outerwear,9,159.02,Web
+ORD-50920,2025-09-16,C1124,Down Jacket,outerwear,3,231.41,web
+ORD-51595,2025-09-16,C1221,Trekking Poles,hardware,5,97.44,web
+ORD-51638,2025-09-16,C1225,Rain Shell,outerwear,4,158.31,retail
+ORD-50162,2025-09-17,C1028,Down Jacket,outerwear,,233.9,partner
+ORD-51984,2025-09-17,C1270,Hiking Sock,apparel,11,19.14,partner
+ORD-52284,2025-09-17,C1305,Trekking Poles,hardware,5,93.63,retail
+ORD-52534,2025-09-17,C1345,Down Jacket,outerwear,3,233.93,WEB 
+ORD-52651,2025-09-17,C1359,Down Jacket,outerwear,4,221.5,Partner
+ORD-50457,2025-09-18,C1065,Down Jacket,outerwear,7,227.59,partner
+ORD-51242,2025-09-18,C1166,Trekking Poles,hardware,,92.27,Web
+ORD-51942,2025-09-18,C1265,Trekking Poles,hardware,11,96.98,retail
+ORD-52049,2025-09-18,C1279,Expedition Pack 65L,packs,,342.1,web
+ORD-52721,2025-09-18,C1370,Expedition Pack 65L,packs,2,347.24,retail
+ORD-52732,2025-09-18,C1372,Headlamp,hardware,2,41.26,Retail
+ORD-52915,2025-09-18,C1399,Approach Shoe,footwear,5,150.98,WEB 
+ORD-51002,2025-09-19,C1134,Base Layer,apparel,3,49.87,Retail
+ORD-51834,2025-09-19,C1254,Rain Shell,outerwear,11,156.26,retail
+ORD-51946,2025-09-19,C1265,Hiking Sock,apparel,9,18.5,retail
+ORD-52399,2025-09-19,C1324,Approach Shoe,footwear,10,155.73,web
+ORD-52670,2025-09-19,C1362,Down Jacket,outerwear,1,228.31,WEB 
+ORD-50513,2025-09-20,C1075,Approach Shoe,footwear,1,153.11,Partner
+ORD-50657,2025-09-20,C1092,Expedition Pack 65L,packs,,342.61,Retail
+ORD-51394,2025-09-20,C1189,Trekking Poles,hardware,2,97.13,retail
+ORD-51948,2025-09-20,C1265,Trekking Poles,hardware,8,97.1,Retail
+ORD-51996,2025-09-20,C1273,Down Jacket,outerwear,4,222.52,partner
+ORD-52630,2025-09-20,C1356,Hiking Sock,apparel,1,19.24,partner
+ORD-50138,2025-09-21,C1024,Headlamp,hardware,,43.28,web
+ORD-50377,2025-09-21,C1057,Expedition Pack 65L,packs,14,349.53,web
+ORD-50790,2025-09-21,C1108,Headlamp,hardware,3,43.46,retail
+ORD-51224,2025-09-21,C1163,Base Layer,apparel,2,48.25,retail
+ORD-52470,2025-09-21,C1335,Trekking Poles,hardware,3,92.82,partner
+ORD-50882,2025-09-22,C1119,Expedition Pack 65L,packs,1,335.84,Web
+ORD-51728,2025-09-22,C1239,Daypack 22L,packs,2,110.58,partner
+ORD-51757,2025-09-22,C1243,Headlamp,hardware,3,40.53,Retail
+ORD-51883,2025-09-22,C1260,Daypack 22L,packs,9,109.52,partner
+ORD-52801,2025-09-22,C1381,Headlamp,hardware,1,41.98,Web
+ORD-50235,2025-09-23,C1039,Expedition Pack 65L,packs,11,350.01,retail
+ORD-50315,2025-09-23,C1051,Down Jacket,outerwear,1,222.12,Partner
+ORD-50346,2025-09-23,C1055,Daypack 22L,packs,3,111.84, retail
+ORD-50836,2025-09-23,C1114,Daypack 22L,packs,2,107.8,Web
+ORD-51093,2025-09-23,C1145,Base Layer,apparel,1,51.67,web
+ORD-51270,2025-09-23,C1168,Base Layer,apparel,1,51.74,partner
+ORD-52719,2025-09-23,C1370,Daypack 22L,packs,5,107.64,Retail
+ORD-50287,2025-09-24,C1045,Expedition Pack 65L,packs,1,346.02,retail
+ORD-51370,2025-09-24,C1187,Approach Shoe,footwear,13,150.37,retail
+ORD-51662,2025-09-24,C1230,Daypack 22L,packs,11,109.71,retail
+ORD-52351,2025-09-24,C1316,Trekking Poles,hardware,1,98.63,retail
+ORD-52712,2025-09-24,C1370,Expedition Pack 65L,packs,1,331.2,web
+ORD-50074,2025-09-25,C1015,Expedition Pack 65L,packs,2,333.65,Retail
+ORD-50223,2025-09-25,C1039,Rain Shell,outerwear,,160.88,retail
+ORD-50405,2025-09-25,C1062,Headlamp,hardware,3,43.04,Retail
+ORD-50915,2025-09-25,C1124,Headlamp,hardware,5,40.33,web
+ORD-51115,2025-09-25,C1151,Headlamp,hardware,4,43.19,Partner
+ORD-51893,2025-09-25,C1260,Rain Shell,outerwear,10,156.25,Web
+ORD-50833,2025-09-26,C1113,Daypack 22L,packs,2,114.97,web
+ORD-51580,2025-09-26,C1220,Approach Shoe,footwear,,154.94,Retail
+ORD-51580,2025-09-26,C1220,Approach Shoe,footwear,,154.94,Retail
+ORD-51718,2025-09-26,C1238,Headlamp,hardware,3,42.33,web
+ORD-52260,2025-09-26,C1303,Approach Shoe,footwear,12,148.9,Retail
+ORD-52579,2025-09-26,C1351,Daypack 22L,packs,5,115.21,Partner
+ORD-50620,2025-09-27,C1088,Approach Shoe,footwear,2,153.94,web
+ORD-51132,2025-09-27,C1151,Expedition Pack 65L,packs,9,351.82,Retail
+ORD-51413,2025-09-27,C1194,Down Jacket,outerwear,3,230.33,web
+ORD-51615,2025-09-27,C1222,Base Layer,apparel,8,49.26,web
+ORD-52256,2025-09-27,C1303,Trail Runner,footwear,10,132.86,web
+ORD-52392,2025-09-27,C1322,Headlamp,hardware,1,40.59,partner
+ORD-52580,2025-09-27,C1351,Daypack 22L,packs,4,115.88,Web
+ORD-50152,2025-09-28,C1026,Headlamp,hardware,1,43.4,WEB 
+ORD-51695,2025-09-28,C1233,Hiking Sock,apparel,1,18.77,partner
+ORD-52868,2025-09-28,C1392,Expedition Pack 65L,packs,5,336.24,partner
+ORD-50769,2025-09-29,C1103,Trekking Poles,hardware,3,99.56,retail
+ORD-51608,2025-09-29,C1221,Approach Shoe,footwear,9,148.02,Retail
+ORD-52703,2025-09-29,C1367,Trail Runner,footwear,1,124.05,web
+ORD-50020,2025-09-30,C1005,Headlamp,hardware,6,43.41,Web
+ORD-50163,2025-09-30,C1028,Trail Runner,footwear,1,128.1,partner
+ORD-50758,2025-09-30,C1103,Rain Shell,outerwear,2,158.78,Retail
+ORD-50814,2025-09-30,C1112,Hiking Sock,apparel,2,17.87,partner
+ORD-51114,2025-09-30,C1151,Trail Runner,footwear,12,130.4,retail
+ORD-51690,2025-09-30,C1232,Trail Runner,footwear,1,122.97, retail
+ORD-51858,2025-09-30,C1257,Expedition Pack 65L,packs,1,352.88,retail
+ORD-52718,2025-09-30,C1370,Expedition Pack 65L,packs,2,352.12,retail
+ORD-50181,2025-10-01,C1035,Headlamp,hardware,5,42.08,web
+ORD-51163,2025-10-01,C1156,Daypack 22L,packs,6,112.09,retail
+ORD-51544,2025-10-01,C1212,Rain Shell,outerwear,2,225.43,Retail
+ORD-51969,2025-10-01,C1270,Approach Shoe,footwear,18,153.48,web
+ORD-52163,2025-10-01,C1295,Expedition Pack 65L,packs,5,348.92,Retail
+ORD-52406,2025-10-01,C1324,Approach Shoe,footwear,6,154.0,WEB 
+ORD-50560,2025-10-02,C1081,Approach Shoe,footwear,1,156.51,Retail
+ORD-50681,2025-10-02,C1095,Expedition Pack 65L,packs,3,346.52,web
+ORD-52055,2025-10-02,C1280,Approach Shoe,footwear,2,150.9,partner
+ORD-52314,2025-10-02,C1309,Expedition Pack 65L,packs,4,338.03,web
+ORD-50027,2025-10-03,C1005,Trail Runner,footwear,12,123.93, retail
+ORD-50534,2025-10-03,C1076,Expedition Pack 65L,packs,14,341.49,web
+ORD-50610,2025-10-03,C1086,Base Layer,apparel,1,68.11,web
+ORD-51734,2025-10-03,C1240,Trekking Poles,hardware,1,94.66,partner
+ORD-51866,2025-10-03,C1259,Expedition Pack 65L,packs,1,331.41,Retail
+ORD-51878,2025-10-03,C1260,Trekking Poles,hardware,11,92.48,partner
+ORD-52320,2025-10-03,C1309,Base Layer,apparel,3,72.86,retail
+ORD-50238,2025-10-04,C1039,Base Layer,apparel,9,72.86,retail
+ORD-52855,2025-10-04,C1389,Rain Shell,outerwear,5,218.11,Web
+ORD-50400,2025-10-05,C1061,Daypack 22L,packs,2,116.01,partner
+ORD-50834,2025-10-05,C1113,Hiking Sock,apparel,4,18.82,Retail
+ORD-51009,2025-10-05,C1134,Expedition Pack 65L,packs,3,350.32,Retail
+ORD-51144,2025-10-05,C1153,Headlamp,hardware,1,43.57, retail
+ORD-51457,2025-10-05,C1199,Trail Runner,footwear,10,132.01,web
+ORD-52506,2025-10-05,C1342,Approach Shoe,footwear,2,159.73,Web
+ORD-52586,2025-10-05,C1351,Trekking Poles,hardware,6,95.41,web
+ORD-52727,2025-10-05,C1372,Daypack 22L,packs,2,108.2,web
+ORD-52768,2025-10-05,C1379,Rain Shell,outerwear,10,220.65,Retail
+ORD-50825,2025-10-06,C1113,Approach Shoe,footwear,5,154.8,Retail
+ORD-50980,2025-10-06,C1129,Headlamp,hardware,3,41.17,web
+ORD-51524,2025-10-07,C1208,Expedition Pack 65L,packs,3,345.61,retail
+ORD-51555,2025-10-07,C1214,Daypack 22L,packs,3,108.37,WEB 
+ORD-51773,2025-10-07,C1248,Expedition Pack 65L,packs,4,350.13,Web
+ORD-52304,2025-10-07,C1307,Approach Shoe,footwear,2,153.95,web
+ORD-52584,2025-10-07,C1351,Daypack 22L,packs,1,116.17,web
+ORD-50105,2025-10-08,C1019,Hiking Sock,apparel,14,18.62,retail
+ORD-50229,2025-10-08,C1039,Down Jacket,outerwear,7,312.09,web
+ORD-50497,2025-10-08,C1072,Trekking Poles,hardware,4,99.28,partner
+ORD-50531,2025-10-08,C1076,Down Jacket,outerwear,,309.54,web
+ORD-51361,2025-10-08,C1185,Daypack 22L,packs,1,109.0,web
+ORD-51548,2025-10-08,C1214,Approach Shoe,footwear,2,157.96,retail
+ORD-51756,2025-10-08,C1243,Base Layer,apparel,6,69.29,Web
+ORD-50669,2025-10-09,C1093,Trail Runner,footwear,3,124.79,Retail
+ORD-50924,2025-10-09,C1125,Base Layer,apparel,6,70.17,retail
+ORD-51722,2025-10-09,C1239,Hiking Sock,apparel,2,18.83,web
+ORD-51956,2025-10-09,C1267,Daypack 22L,packs,2,111.58,retail
+ORD-51982,2025-10-09,C1270,Base Layer,apparel,11,71.06,web
+ORD-52003,2025-10-09,C1273,Hiking Sock,apparel,4,18.5,retail
+ORD-52119,2025-10-09,C1288,Rain Shell,outerwear,3,210.93,Web
+ORD-52375,2025-10-09,C1319,Daypack 22L,packs,1,114.65,retail
+ORD-50411,2025-10-10,C1063,Hiking Sock,apparel,1,18.16,web
+ORD-50541,2025-10-11,C1076,Trail Runner,footwear,5,133.05,web
+ORD-52104,2025-10-11,C1287,Trail Runner,footwear,7,123.05,web
+ORD-52541,2025-10-11,C1345,Base Layer,apparel,2,72.69,retail
+ORD-50795,2025-10-12,C1108,Daypack 22L,packs,3,109.44,Web
+ORD-51077,2025-10-12,C1141,Rain Shell,outerwear,8,218.39,retail
+ORD-51862,2025-10-12,C1258,Daypack 22L,packs,2,113.68,Web
+ORD-52249,2025-10-12,C1303,Trail Runner,footwear,12,130.96,web
+ORD-52424,2025-10-12,C1326,Trekking Poles,hardware,5,98.34,web
+ORD-50379,2025-10-13,C1057,Trail Runner,footwear,10,130.26,partner
+ORD-50819,2025-10-13,C1112,Base Layer,apparel,2,68.16,Web
+ORD-51539,2025-10-13,C1211,Headlamp,hardware,1,40.4,web
+ORD-51642,2025-10-13,C1226,Trekking Poles,hardware,1,99.25,retail
+ORD-52152,2025-10-13,C1292,Base Layer,apparel,1,72.39,retail
+ORD-52665,2025-10-13,C1361,Approach Shoe,footwear,,150.62,retail
+ORD-52853,2025-10-13,C1389,Headlamp,hardware,16,43.25, retail
+ORD-50012,2025-10-14,C1005,Base Layer,apparel,18,71.44,Retail
+ORD-51354,2025-10-14,C1183,Trail Runner,footwear,1,130.91,partner
+ORD-52488,2025-10-14,C1339,Trekking Poles,hardware,2,98.64,partner
+ORD-51654,2025-10-15,C1230,Base Layer,apparel,16,71.84,Partner
+ORD-52159,2025-10-15,C1295,Approach Shoe,footwear,2,151.03,Partner
+ORD-52349,2025-10-15,C1316,Expedition Pack 65L,packs,2,349.3,Partner
+ORD-52772,2025-10-15,C1379,Expedition Pack 65L,packs,10,332.84,Retail
+ORD-50350,2025-10-16,C1056,Base Layer,apparel,2,69.15,retail
+ORD-51088,2025-10-16,C1144,Rain Shell,outerwear,4,224.52,web
+ORD-52388,2025-10-16,C1322,Approach Shoe,footwear,1,150.15,Web
+ORD-52458,2025-10-16,C1331,Headlamp,hardware,3,41.85,web
+ORD-50222,2025-10-17,C1039,Approach Shoe,footwear,11,156.18,Web
+ORD-50479,2025-10-17,C1069,Rain Shell,outerwear,3,213.31,retail
+ORD-50813,2025-10-17,C1111,Hiking Sock,apparel,1,18.91,partner
+ORD-51280,2025-10-17,C1171,Hiking Sock,apparel,2,19.06,web
+ORD-51731,2025-10-17,C1239,Daypack 22L,packs,3,112.01,Retail
+ORD-51803,2025-10-17,C1252,Approach Shoe,footwear,7,148.46,partner
+ORD-51987,2025-10-17,C1270,Down Jacket,outerwear,14,313.52,web
+ORD-50004,2025-10-18,C1002,Headlamp,hardware,5,41.55,web
+ORD-52203,2025-10-18,C1297,Trekking Poles,hardware,1,97.68,Web
+ORD-50106,2025-10-19,C1019,Trail Runner,footwear,11,129.76,web
+ORD-50533,2025-10-19,C1076,Daypack 22L,packs,12,110.84,web
+ORD-50847,2025-10-19,C1116,Trekking Poles,hardware,3,97.24,retail
+ORD-50992,2025-10-19,C1131,Approach Shoe,footwear,1,158.56,web
+ORD-51371,2025-10-19,C1187,Headlamp,hardware,6,43.36, retail
+ORD-51578,2025-10-19,C1220,Trekking Poles,hardware,3,95.21,Retail
+ORD-51747,2025-10-19,C1242,Down Jacket,outerwear,4,324.2,retail
+ORD-52575,2025-10-19,C1350,Daypack 22L,packs,3,115.33,web
+ORD-50990,2025-10-20,C1130,Trekking Poles,hardware,2,94.03,retail
+ORD-52723,2025-10-20,C1371,Base Layer,apparel,7,69.79,retail
+ORD-50039,2025-10-21,C1008,Hiking Sock,apparel,1,18.79,web
+ORD-50401,2025-10-21,C1061,Rain Shell,outerwear,3,215.94,web
+ORD-51508,2025-10-21,C1205,Approach Shoe,footwear,1,153.89,web
+ORD-51513,2025-10-21,C1206,Trekking Poles,hardware,3,96.99, retail
+ORD-51549,2025-10-21,C1214,Trekking Poles,hardware,6,96.69,retail
+ORD-51890,2025-10-21,C1260,Trekking Poles,hardware,6,98.68,web
+ORD-52649,2025-10-21,C1359,Approach Shoe,footwear,5,156.19,retail
+ORD-52799,2025-10-21,C1381,Trekking Poles,hardware,1,94.5,web
+ORD-50079,2025-10-22,C1016,Daypack 22L,packs,1,108.9, retail
+ORD-50907,2025-10-22,C1123,Headlamp,hardware,6,43.2,WEB 
+ORD-50932,2025-10-22,C1125,Daypack 22L,packs,7,109.22,Partner
+ORD-51443,2025-10-22,C1199,Base Layer,apparel,11,68.24,web
+ORD-51514,2025-10-22,C1206,Expedition Pack 65L,packs,8,342.49,retail
+ORD-51719,2025-10-22,C1239,Down Jacket,outerwear,4,328.37,web
+ORD-51752,2025-10-22,C1243,Daypack 22L,packs,1,111.16,Partner
+ORD-52662,2025-10-22,C1360,Daypack 22L,packs,4,112.7,WEB 
+ORD-52859,2025-10-22,C1389,Expedition Pack 65L,packs,6,331.42,retail
+ORD-50360,2025-10-23,C1057,Down Jacket,outerwear,4,314.4,partner
+ORD-51141,2025-10-23,C1151,Headlamp,hardware,8,40.91,web
+ORD-51143,2025-10-23,C1152,Hiking Sock,apparel,4,17.8,WEB 
+ORD-50213,2025-10-24,C1038,Hiking Sock,apparel,1,18.75, retail
+ORD-51081,2025-10-24,C1143,Expedition Pack 65L,packs,1,350.11,retail
+ORD-51288,2025-10-24,C1173,Base Layer,apparel,1,72.64,web
+ORD-51677,2025-10-24,C1230,Headlamp,hardware,17,40.63,partner
+ORD-51906,2025-10-24,C1262,Expedition Pack 65L,packs,12,343.93,Web
+ORD-52505,2025-10-24,C1342,Trekking Poles,hardware,3,96.2, retail
+ORD-50294,2025-10-25,C1047,Rain Shell,outerwear,2,216.41,retail
+ORD-51619,2025-10-25,C1222,Trail Runner,footwear,2,127.51,retail
+ORD-51667,2025-10-25,C1230,Rain Shell,outerwear,11,216.71,WEB 
+ORD-51824,2025-10-25,C1254,Trail Runner,footwear,9,125.91,WEB 
+ORD-52281,2025-10-25,C1305,Base Layer,apparel,5,68.11,partner
+ORD-50827,2025-10-26,C1113,Hiking Sock,apparel,4,18.72,web
+ORD-51183,2025-10-26,C1156,Down Jacket,outerwear,7,322.27,partner
+ORD-52459,2025-10-26,C1332,Base Layer,apparel,4,71.57,partner
+ORD-50662,2025-10-27,C1092,Trail Runner,footwear,3,125.75,web
+ORD-51241,2025-10-27,C1166,Expedition Pack 65L,packs,2,328.31,Web
+ORD-51290,2025-10-27,C1174,Approach Shoe,footwear,1,154.74,retail
+ORD-51844,2025-10-27,C1254,Base Layer,apparel,14,72.62,Partner
+ORD-52000,2025-10-27,C1273,Trekking Poles,hardware,3,99.71,WEB 
+ORD-50131,2025-10-28,C1022,Daypack 22L,packs,1,110.86,retail
+ORD-50345,2025-10-28,C1055,Trekking Poles,hardware,4,96.92,retail
+ORD-50677,2025-10-28,C1095,Base Layer,apparel,4,72.48,partner
+ORD-50878,2025-10-28,C1118,Hiking Sock,apparel,1,18.73,Partner
+ORD-51181,2025-10-28,C1156,Expedition Pack 65L,packs,11,349.54,web
+ORD-50763,2025-10-29,C1103,Daypack 22L,packs,4,115.31,Web
+ORD-51863,2025-10-29,C1258,Down Jacket,outerwear,3,323.68,web
+ORD-52018,2025-10-29,C1274,Down Jacket,outerwear,11,320.85,Web
+ORD-52019,2025-10-29,C1274,Approach Shoe,footwear,10,155.36,partner
+ORD-52042,2025-10-29,C1279,Expedition Pack 65L,packs,1,332.2,retail
+ORD-52848,2025-10-29,C1389,Hiking Sock,apparel,6,18.41,Retail
+ORD-50158,2025-10-30,C1027,Headlamp,hardware,3,42.71,web
+ORD-50386,2025-10-30,C1058,Trekking Poles,hardware,2,97.32,Web
+ORD-50724,2025-10-30,C1100,Daypack 22L,packs,2,112.76,Retail
+ORD-51542,2025-10-30,C1212,Trekking Poles,hardware,2,93.89,Web
+ORD-52311,2025-10-30,C1309,Down Jacket,outerwear,3,315.53,WEB 
+ORD-52569,2025-10-30,C1349,Approach Shoe,footwear,2,149.01,Partner
+ORD-52791,2025-10-30,C1379,Approach Shoe,footwear,17,153.25,Retail
+ORD-52881,2025-10-30,C1394,Base Layer,apparel,1,68.4,Partner
+ORD-51830,2025-10-31,C1254,Trekking Poles,hardware,12,95.45,retail
+ORD-52002,2025-10-31,C1273,Rain Shell,outerwear,7,224.26,Retail
+ORD-52713,2025-10-31,C1370,Trail Runner,footwear,1,132.17,retail
+ORD-50237,2025-11-01,C1039,Expedition Pack 65L,packs,8,345.65,Web
+ORD-50679,2025-11-01,C1095,Rain Shell,outerwear,6,214.46,web
+ORD-50829,2025-11-01,C1113,Expedition Pack 65L,packs,3,353.29,retail
+ORD-50885,2025-11-01,C1119,Rain Shell,outerwear,11,211.34,Retail
+ORD-51344,2025-11-01,C1181,Headlamp,hardware,3,42.01,partner
+ORD-51358,2025-11-01,C1184,Rain Shell,outerwear,1,210.93,web
+ORD-52113,2025-11-01,C1287,Headlamp,hardware,11,43.11,retail
+ORD-50090,2025-11-02,C1018,Hiking Sock,apparel,1,18.07,partner
+ORD-50564,2025-11-02,C1081,Down Jacket,outerwear,5,314.61,Retail
+ORD-51684,2025-11-02,C1232,Down Jacket,outerwear,3,315.48,partner
+ORD-51691,2025-11-02,C1232,Hiking Sock,apparel,3,18.3,Partner
+ORD-50389,2025-11-03,C1059,Headlamp,hardware,1,42.28,retail
+ORD-51840,2025-11-03,C1254,Trekking Poles,hardware,5,92.25,retail
+ORD-52715,2025-11-03,C1370,Daypack 22L,packs,4,112.26,partner
+ORD-50061,2025-11-04,C1013,Trail Runner,footwear,3,125.53,web
+ORD-50216,2025-11-04,C1039,Down Jacket,outerwear,7,313.64,web
+ORD-51323,2025-11-04,C1177,Hiking Sock,apparel,1,18.86,web
+ORD-51552,2025-11-04,C1214,Approach Shoe,footwear,3,155.83,web
+ORD-51641,2025-11-04,C1225,Hiking Sock,apparel,2,18.22,Web
+ORD-51710,2025-11-04,C1237,Down Jacket,outerwear,2,313.75,Partner
+ORD-50209,2025-11-05,C1038,Trekking Poles,hardware,1,96.01,web
+ORD-50277,2025-11-05,C1044,Headlamp,hardware,7,41.13,Retail
+ORD-50292,2025-11-05,C1046,Trekking Poles,hardware,1,95.07,web
+ORD-50354,2025-11-05,C1056,Base Layer,apparel,2,70.41,web
+ORD-50494,2025-11-05,C1072,Trekking Poles,hardware,1,97.68,partner
+ORD-52460,2025-11-05,C1332,Daypack 22L,packs,1,108.46, retail
+ORD-52676,2025-11-05,C1364,Headlamp,hardware,1,41.67,partner
+ORD-50464,2025-11-06,C1065,Trekking Poles,hardware,5,93.29,web
+ORD-51979,2025-11-06,C1270,Trekking Poles,hardware,14,92.55, retail
+ORD-52654,2025-11-06,C1359,Daypack 22L,packs,3,110.43,WEB 
+ORD-52729,2025-11-06,C1372,Trail Runner,footwear,1,132.79,retail
+ORD-52821,2025-11-06,C1386,Hiking Sock,apparel,2,18.9, retail
+ORD-50110,2025-11-07,C1019,Headlamp,hardware,11,40.38,partner
+ORD-50842,2025-11-07,C1115,Daypack 22L,packs,3,112.36, retail
+ORD-52352,2025-11-07,C1317,Headlamp,hardware,3,42.22,retail
+ORD-50353,2025-11-08,C1056,Expedition Pack 65L,packs,5,329.96,retail
+ORD-52057,2025-11-08,C1281,Headlamp,hardware,1,42.26,web
+ORD-52456,2025-11-08,C1330,Trekking Poles,hardware,1,92.26,web
+ORD-52657,2025-11-08,C1359,Down Jacket,outerwear,5,323.67,Web
+ORD-50219,2025-11-09,C1039,Hiking Sock,apparel,9,18.91,Retail
+ORD-51322,2025-11-09,C1177,Expedition Pack 65L,packs,2,352.82,web
+ORD-52402,2025-11-09,C1324,Expedition Pack 65L,packs,6,346.79,web
+ORD-52661,2025-11-09,C1360,Expedition Pack 65L,packs,1,347.8,retail
+ORD-52883,2025-11-09,C1394,Daypack 22L,packs,1,112.07,retail
+ORD-51094,2025-11-10,C1146,Trekking Poles,hardware,2,96.61,partner
+ORD-51839,2025-11-10,C1254,Rain Shell,outerwear,12,213.35,web
+ORD-52168,2025-11-10,C1295,Approach Shoe,footwear,5,155.97,retail
+ORD-52262,2025-11-10,C1303,Rain Shell,outerwear,7,211.24,web
+ORD-51015,2025-11-11,C1135,Headlamp,hardware,1,41.44,Web
+ORD-51084,2025-11-11,C1144,Headlamp,hardware,5,43.52,Web
+ORD-50937,2025-11-12,C1125,Expedition Pack 65L,packs,9,340.79,retail
+ORD-51216,2025-11-12,C1162,Rain Shell,outerwear,3,226.84,Retail
+ORD-51364,2025-11-12,C1185,Expedition Pack 65L,packs,2,338.71,Retail
+ORD-51507,2025-11-12,C1205,Trekking Poles,hardware,3,99.1,retail
+ORD-52343,2025-11-12,C1313,Daypack 22L,packs,1,113.41,web
+ORD-52716,2025-11-12,C1370,Daypack 22L,packs,4,108.77,Retail
+ORD-52780,2025-11-12,C1379,Trekking Poles,hardware,9,95.46, retail
+ORD-50661,2025-11-13,C1092,Trekking Poles,hardware,2,97.5,partner
+ORD-50793,2025-11-13,C1108,Hiking Sock,apparel,1,18.81,web
+ORD-50916,2025-11-13,C1124,Approach Shoe,footwear,2,152.91,web
+ORD-52861,2025-11-13,C1389,Trail Runner,footwear,6,127.81,retail
+ORD-50299,2025-11-14,C1048,Approach Shoe,footwear,1,155.71,retail
+ORD-50567,2025-11-14,C1081,Expedition Pack 65L,packs,4,330.55,partner
+ORD-50872,2025-11-14,C1118,Headlamp,hardware,2,43.16,web
+ORD-51125,2025-11-14,C1151,Approach Shoe,footwear,10,157.18,retail
+ORD-51436,2025-11-14,C1198,Down Jacket,outerwear,6,316.05,web
+ORD-51653,2025-11-14,C1230,Trekking Poles,hardware,,95.94,retail
+ORD-51653,2025-11-14,C1230,Trekking Poles,hardware,,95.94,retail
+ORD-51882,2025-11-14,C1260,Trail Runner,footwear,12,126.9,partner
+ORD-51930,2025-11-14,C1265,Down Jacket,outerwear,4,316.9,retail
+ORD-52030,2025-11-14,C1274,Headlamp,hardware,6,41.73,retail
+ORD-52054,2025-11-14,C1280,Rain Shell,outerwear,2,226.94,web
+ORD-52842,2025-11-14,C1389,Daypack 22L,packs,10,110.92,web
+ORD-50130,2025-11-15,C1022,Trail Runner,footwear,4,126.07,retail
+ORD-50225,2025-11-15,C1039,Trekking Poles,hardware,10,99.59,retail
+ORD-51229,2025-11-15,C1164,Base Layer,apparel,7,70.33,web
+ORD-51369,2025-11-15,C1187,Approach Shoe,footwear,6,153.75,Partner
+ORD-51732,2025-11-15,C1239,Trekking Poles,hardware,5,97.04,retail
+ORD-52287,2025-11-15,C1305,Daypack 22L,packs,4,115.67,Web
+ORD-52576,2025-11-15,C1351,Down Jacket,outerwear,5,324.4,Partner
+ORD-50660,2025-11-16,C1092,Down Jacket,outerwear,1,309.91,partner
+ORD-51011,2025-11-16,C1134,Trail Runner,footwear,4,122.99,retail
+ORD-51014,2025-11-16,C1135,Trail Runner,footwear,1,128.33,partner
+ORD-51158,2025-11-16,C1156,Daypack 22L,packs,10,109.05,web
+ORD-51708,2025-11-16,C1237,Expedition Pack 65L,packs,3,327.65,web
+ORD-52417,2025-11-16,C1326,Base Layer,apparel,3,68.23,partner
+ORD-52582,2025-11-16,C1351,Daypack 22L,packs,3,113.49,Partner
+ORD-52800,2025-11-16,C1381,Headlamp,hardware,1,41.96,Retail
+ORD-50038,2025-11-17,C1008,Daypack 22L,packs,2,113.35,Partner
+ORD-50876,2025-11-17,C1118,Trekking Poles,hardware,1,95.17,web
+ORD-50933,2025-11-17,C1125,Base Layer,apparel,18,69.23,Retail
+ORD-51644,2025-11-17,C1226,Base Layer,apparel,3,71.79,retail
+ORD-51706,2025-11-17,C1237,Trail Runner,footwear,4,132.72,web
+ORD-52056,2025-11-17,C1281,Hiking Sock,apparel,1,17.9,web
+ORD-52387,2025-11-17,C1322,Daypack 22L,packs,1,115.84,web
+ORD-51867,2025-11-18,C1259,Approach Shoe,footwear,1,151.26,web
+ORD-52164,2025-11-18,C1295,Approach Shoe,footwear,5,152.93,partner
+ORD-52380,2025-11-18,C1321,Daypack 22L,packs,2,115.35,Web
+ORD-50091,2025-11-19,C1018,Approach Shoe,footwear,1,152.64,Web
+ORD-50815,2025-11-19,C1112,Base Layer,apparel,4,72.12,retail
+ORD-51379,2025-11-19,C1187,Trail Runner,footwear,5,129.46,partner
+ORD-51727,2025-11-19,C1239,Trail Runner,footwear,3,132.46,partner
+ORD-52804,2025-11-19,C1383,Rain Shell,outerwear,4,226.12,web
+ORD-50135,2025-11-20,C1023,Base Layer,apparel,4,71.71,web
+ORD-50378,2025-11-20,C1057,Rain Shell,outerwear,6,217.71,Web
+ORD-50981,2025-11-20,C1129,Trail Runner,footwear,10,124.88,web
+ORD-51375,2025-11-20,C1187,Trekking Poles,hardware,11,99.35,Retail
+ORD-51534,2025-11-20,C1210,Daypack 22L,packs,5,108.51,retail
+ORD-51696,2025-11-20,C1233,Down Jacket,outerwear,5,325.53,partner
+ORD-52770,2025-11-20,C1379,Expedition Pack 65L,packs,15,335.94,Partner
+ORD-50518,2025-11-21,C1076,Daypack 22L,packs,11,109.93,Web
+ORD-51274,2025-11-21,C1169,Trail Runner,footwear,2,132.67,retail
+ORD-51599,2025-11-21,C1221,Headlamp,hardware,6,41.73,web
+ORD-51751,2025-11-21,C1242,Hiking Sock,apparel,3,18.59,Retail
+ORD-52786,2025-11-21,C1379,Rain Shell,outerwear,12,212.64,retail
+ORD-51314,2025-11-22,C1176,Down Jacket,outerwear,6,310.25,partner
+ORD-51570,2025-11-22,C1218,Rain Shell,outerwear,3,218.3,partner
+ORD-51588,2025-11-22,C1221,Base Layer,apparel,10,67.77,WEB 
+ORD-52485,2025-11-22,C1338,Base Layer,apparel,5,70.3,partner
+ORD-52875,2025-11-22,C1392,Daypack 22L,packs,2,116.38,Web
+ORD-50108,2025-11-23,C1019,Trekking Poles,hardware,9,97.89,web
+ORD-51832,2025-11-23,C1254,Trail Runner,footwear,5,128.62,web
+ORD-52258,2025-11-23,C1303,Rain Shell,outerwear,9,225.84,Partner
+ORD-52455,2025-11-23,C1330,Approach Shoe,footwear,1,156.15,WEB 
+ORD-52872,2025-11-23,C1392,Trail Runner,footwear,1,125.71,web
+ORD-50461,2025-11-24,C1065,Daypack 22L,packs,10,115.05,retail
+ORD-50823,2025-11-24,C1113,Headlamp,hardware,8,42.23,retail
+ORD-51075,2025-11-24,C1141,Hiking Sock,apparel,4,19.03,partner
+ORD-51269,2025-11-24,C1168,Trekking Poles,hardware,3,92.3,web
+ORD-52058,2025-11-24,C1281,Headlamp,hardware,1,43.56,partner
+ORD-52803,2025-11-24,C1383,Base Layer,apparel,2,73.14,retail
+ORD-50361,2025-11-25,C1057,Headlamp,hardware,7,41.44,WEB 
+ORD-50530,2025-11-25,C1076,Daypack 22L,packs,9,109.78,Partner
+ORD-50544,2025-11-25,C1077,Trekking Poles,hardware,1,93.28,retail
+ORD-50987,2025-11-25,C1130,Trekking Poles,hardware,1,94.79, retail
+ORD-51444,2025-11-25,C1199,Down Jacket,outerwear,10,324.83,Retail
+ORD-51655,2025-11-25,C1230,Trail Runner,footwear,12,125.55,Retail
+ORD-50902,2025-11-26,C1123,Rain Shell,outerwear,4,212.75,web
+ORD-51013,2025-11-26,C1135,Headlamp,hardware,2,42.92,Web
+ORD-51080,2025-11-26,C1143,Down Jacket,outerwear,1,323.97,Retail
+ORD-51869,2025-11-26,C1260,Daypack 22L,packs,7,110.13,retail
+ORD-52268,2025-11-26,C1303,Expedition Pack 65L,packs,11,343.27,retail
+ORD-52553,2025-11-26,C1347,Headlamp,hardware,1,40.57,web
+ORD-52554,2025-11-26,C1347,Trekking Poles,hardware,3,99.06,Retail
+ORD-52844,2025-11-26,C1389,Headlamp,hardware,7,43.25,partner
+ORD-50824,2025-11-27,C1113,Base Layer,apparel,5,71.07,web
+ORD-52147,2025-11-27,C1291,Base Layer,apparel,2,71.69,web
+ORD-52660,2025-11-27,C1360,Daypack 22L,packs,3,116.22,Retail
+ORD-52914,2025-11-27,C1399,Expedition Pack 65L,packs,4,339.0,partner
+ORD-50100,2025-11-28,C1019,Trekking Poles,hardware,13,99.08,WEB 
+ORD-52114,2025-11-28,C1287,Approach Shoe,footwear,11,159.65,retail
+ORD-52167,2025-11-28,C1295,Base Layer,apparel,5,72.78,web
+ORD-52383,2025-11-28,C1321,Rain Shell,outerwear,2,213.68,partner
+ORD-50926,2025-11-29,C1125,Headlamp,hardware,8,42.5,web
+ORD-51320,2025-11-29,C1176,Hiking Sock,apparel,9,18.39,Web
+ORD-51567,2025-11-29,C1218,Hiking Sock,apparel,1,18.16,Web
+ORD-52043,2025-11-29,C1279,Trekking Poles,hardware,2,95.3,Web
+ORD-52253,2025-11-29,C1303,Trekking Poles,hardware,3,95.75,web
+ORD-50676,2025-11-30,C1095,Expedition Pack 65L,packs,1,332.61,retail
+ORD-50656,2025-12-01,C1092,Headlamp,hardware,5,41.23,Web
+ORD-50975,2025-12-01,C1129,Base Layer,apparel,4,68.65, retail
+ORD-51976,2025-12-01,C1270,Headlamp,hardware,12,42.62,partner
+ORD-51994,2025-12-01,C1272,Base Layer,apparel,3,69.48,partner
+ORD-50231,2025-12-02,C1039,Daypack 22L,packs,9,109.89,Web
+ORD-51074,2025-12-02,C1141,Hiking Sock,apparel,4,19.2,web
+ORD-51509,2025-12-02,C1206,Headlamp,hardware,4,43.38,retail
+ORD-52021,2025-12-02,C1274,Headlamp,hardware,4,42.15,Web
+ORD-50884,2025-12-03,C1119,Trekking Poles,hardware,1,96.95,web
+ORD-51916,2025-12-03,C1264,Daypack 22L,packs,6,114.13,Retail
+ORD-52118,2025-12-03,C1288,Approach Shoe,footwear,1,160.16, retail
+ORD-52773,2025-12-03,C1379,Approach Shoe,footwear,6,159.45,Partner
+ORD-50156,2025-12-04,C1027,Base Layer,apparel,4,72.56,retail
+ORD-50180,2025-12-04,C1034,Hiking Sock,apparel,3,19.21,Retail
+ORD-50568,2025-12-04,C1081,Base Layer,apparel,6,68.55,retail
+ORD-50897,2025-12-04,C1122,Down Jacket,outerwear,2,306.94,partner
+ORD-51670,2025-12-04,C1230,Down Jacket,outerwear,18,324.26,web
+ORD-51868,2025-12-04,C1260,Headlamp,hardware,7,41.28, retail
+ORD-51975,2025-12-04,C1270,Headlamp,hardware,9,41.79,web
+ORD-52048,2025-12-04,C1279,Daypack 22L,packs,2,114.61,web
+ORD-50078,2025-12-05,C1016,Base Layer,apparel,3,67.6,Retail
+ORD-51701,2025-12-05,C1235,Down Jacket,outerwear,1,308.57,retail
+ORD-50077,2025-12-06,C1015,Headlamp,hardware,4,42.23,retail
+ORD-50187,2025-12-06,C1035,Headlamp,hardware,3,41.05,web
+ORD-50297,2025-12-06,C1047,Rain Shell,outerwear,1,226.17,WEB 
+ORD-50658,2025-12-06,C1092,Rain Shell,outerwear,6,225.64,web
+ORD-51217,2025-12-06,C1162,Daypack 22L,packs,1,110.7,web
+ORD-52006,2025-12-06,C1273,Base Layer,apparel,5,71.07,Web
+ORD-52463,2025-12-06,C1332,Daypack 22L,packs,1,114.14,web
+ORD-52913,2025-12-06,C1399,Headlamp,hardware,4,43.22,Retail
+ORD-50068,2025-12-07,C1014,Down Jacket,outerwear,7,320.59,retail
+ORD-50095,2025-12-07,C1019,Hiking Sock,apparel,11,19.21,web
+ORD-50300,2025-12-07,C1048,Down Jacket,outerwear,5,309.62,web
+ORD-50663,2025-12-07,C1093,Hiking Sock,apparel,3,18.98,web
+ORD-51377,2025-12-07,C1187,Approach Shoe,footwear,5,150.5,partner
+ORD-51440,2025-12-07,C1199,Approach Shoe,footwear,11,156.19,web
+ORD-51447,2025-12-07,C1199,Hiking Sock,apparel,9,19.06,WEB 
+ORD-52290,2025-12-07,C1305,Headlamp,hardware,2,41.57,web
+ORD-50144,2025-12-08,C1024,Approach Shoe,footwear,1,156.44,web
+ORD-50750,2025-12-08,C1102,Trail Runner,footwear,4,128.75,web
+ORD-50846,2025-12-08,C1116,Hiking Sock,apparel,1,18.72,web
+ORD-50996,2025-12-08,C1133,Headlamp,hardware,3,41.18,Partner
+ORD-51372,2025-12-08,C1187,Daypack 22L,packs,10,116.45,partner
+ORD-52099,2025-12-08,C1287,Trail Runner,footwear,8,129.27,retail
+ORD-52645,2025-12-08,C1359,Hiking Sock,apparel,7,18.4,Partner
+ORD-52870,2025-12-08,C1392,Trail Runner,footwear,4,127.95,retail
+ORD-50621,2025-12-09,C1088,Down Jacket,outerwear,3,328.14,web
+ORD-51228,2025-12-09,C1164,Rain Shell,outerwear,5,217.24,Retail
+ORD-51770,2025-12-09,C1247,Down Jacket,outerwear,3,311.25,retail
+ORD-52053,2025-12-09,C1280,Trekking Poles,hardware,2,94.45,WEB 
+ORD-50870,2025-12-10,C1118,Trekking Poles,hardware,4,99.34,web
+ORD-50997,2025-12-10,C1133,Hiking Sock,apparel,3,18.4,partner
+ORD-51533,2025-12-10,C1210,Hiking Sock,apparel,1,18.01,web
+ORD-51669,2025-12-10,C1230,Rain Shell,outerwear,14,217.99,retail
+ORD-50046,2025-12-11,C1010,Trekking Poles,hardware,4,93.41,web
+ORD-52427,2025-12-11,C1326,Headlamp,hardware,2,43.41,partner
+ORD-50905,2025-12-12,C1123,Approach Shoe,footwear,4,154.77,Retail
+ORD-51381,2025-12-12,C1187,Trail Runner,footwear,8,124.5,web
+ORD-50978,2025-12-13,C1129,Rain Shell,outerwear,6,211.73,web
+ORD-52302,2025-12-13,C1307,Expedition Pack 65L,packs,2,334.56,web
+ORD-50072,2025-12-14,C1015,Trail Runner,footwear,2,123.13,web
+ORD-51822,2025-12-14,C1254,Rain Shell,outerwear,,216.04,web
+ORD-51938,2025-12-14,C1265,Trekking Poles,hardware,5,94.4,retail
+ORD-51997,2025-12-14,C1273,Base Layer,apparel,2,68.05,web
+ORD-50608,2025-12-15,C1085,Down Jacket,outerwear,2,308.68,Retail
+ORD-51794,2025-12-15,C1250,Headlamp,hardware,3,41.86,Partner
+ORD-52370,2025-12-15,C1318,Rain Shell,outerwear,5,212.81,Partner
+ORD-52420,2025-12-15,C1326,Headlamp,hardware,3,42.13,Retail
+ORD-52850,2025-12-15,C1389,Trail Runner,footwear,2,128.79,Retail
+ORD-50070,2025-12-16,C1015,Base Layer,apparel,5,71.56,Web
+ORD-50451,2025-12-16,C1065,Daypack 22L,packs,12,111.04,retail
+ORD-50482,2025-12-16,C1070,Down Jacket,outerwear,2,328.38,web
+ORD-51355,2025-12-16,C1183,Approach Shoe,footwear,7,152.09, retail
+ORD-50140,2025-12-17,C1024,Down Jacket,outerwear,4,327.77,web
+ORD-50407,2025-12-17,C1062,Base Layer,apparel,1,68.52,Partner
+ORD-50448,2025-12-17,C1065,Trekking Poles,hardware,13,98.58,Retail
+ORD-50879,2025-12-17,C1118,Hiking Sock,apparel,6,18.37,partner
+ORD-50881,2025-12-17,C1119,Expedition Pack 65L,packs,2,341.53,web
+ORD-51736,2025-12-17,C1240,Base Layer,apparel,1,71.25,Web
+ORD-51841,2025-12-17,C1254,Expedition Pack 65L,packs,7,329.33,partner
+ORD-50040,2025-12-18,C1008,Hiking Sock,apparel,,17.81,Retail
+ORD-50143,2025-12-18,C1024,Trekking Poles,hardware,1,97.36,Web
+ORD-52117,2025-12-18,C1288,Trail Runner,footwear,1,129.7,web
+ORD-52212,2025-12-18,C1298,Trail Runner,footwear,,130.78,Retail
+ORD-52365,2025-12-18,C1318,Expedition Pack 65L,packs,5,341.47,web
+ORD-51202,2025-12-19,C1160,Base Layer,apparel,6,72.12,Retail
+ORD-51884,2025-12-19,C1260,Rain Shell,outerwear,12,219.6,retail
+ORD-51937,2025-12-19,C1265,Headlamp,hardware,6,41.59,partner
+ORD-50132,2025-12-20,C1023,Approach Shoe,footwear,,156.45,Web
+ORD-50312,2025-12-20,C1051,Down Jacket,outerwear,4,328.96,retail
+ORD-50747,2025-12-20,C1102,Down Jacket,outerwear,4,323.17,retail
+ORD-51456,2025-12-20,C1199,Approach Shoe,footwear,10,154.08,web
+ORD-51944,2025-12-20,C1265,Headlamp,hardware,11,41.4,web
+ORD-50365,2025-12-21,C1057,Approach Shoe,footwear,7,148.03,Web
+ORD-51012,2025-12-21,C1135,Trail Runner,footwear,5,126.48,web
+ORD-51287,2025-12-21,C1173,Down Jacket,outerwear,1,330.6, retail
+ORD-51318,2025-12-21,C1176,Headlamp,hardware,1,42.28,Partner
+ORD-52031,2025-12-21,C1274,Headlamp,hardware,11,43.41,retail
+ORD-52156,2025-12-21,C1294,Base Layer,apparel,2,68.76,Web
+ORD-50655,2025-12-22,C1092,Headlamp,hardware,1,42.23,retail
+ORD-50682,2025-12-22,C1095,Daypack 22L,packs,4,108.54,Retail
+ORD-51902,2025-12-22,C1262,Headlamp,hardware,7,41.99,web
+ORD-52052,2025-12-22,C1280,Trekking Poles,hardware,3,98.86,retail
+ORD-51723,2025-12-23,C1239,Daypack 22L,packs,4,111.34,retail
+ORD-51989,2025-12-23,C1270,Approach Shoe,footwear,18,149.96,Partner
+ORD-52401,2025-12-23,C1324,Trail Runner,footwear,7,131.56,Web
+ORD-52782,2025-12-23,C1379,Down Jacket,outerwear,19,322.23,retail
+ORD-52367,2025-12-24,C1318,Headlamp,hardware,3,42.05,web
+ORD-50203,2025-12-25,C1038,Trail Runner,footwear,2,128.3,retail
+ORD-50383,2025-12-25,C1057,Trail Runner,footwear,8,129.0,Web
+ORD-50906,2025-12-25,C1123,Hiking Sock,apparel,2,18.5,web
+ORD-51146,2025-12-25,C1153,Expedition Pack 65L,packs,1,345.41,retail
+ORD-50524,2025-12-26,C1076,Base Layer,apparel,12,68.27,WEB 
+ORD-50665,2025-12-26,C1093,Down Jacket,outerwear,2,306.59,retail
+ORD-51222,2025-12-26,C1162,Expedition Pack 65L,packs,4,352.06,web
+ORD-52103,2025-12-26,C1287,Hiking Sock,apparel,8,18.69,web
+ORD-52577,2025-12-26,C1351,Daypack 22L,packs,4,115.22,partner
+ORD-50779,2025-12-27,C1106,Base Layer,apparel,4,71.47,web
+ORD-51359,2025-12-27,C1184,Rain Shell,outerwear,2,212.66,web
+ORD-51715,2025-12-27,C1238,Down Jacket,outerwear,4,317.14,Retail
+ORD-52400,2025-12-27,C1324,Expedition Pack 65L,packs,11,346.3,web
+ORD-51226,2025-12-28,C1163,Headlamp,hardware,1,42.64,web
+ORD-51887,2025-12-28,C1260,Approach Shoe,footwear,12,149.88,retail
+ORD-51917,2025-12-28,C1264,Trail Runner,footwear,5,131.0,Web
+ORD-52728,2025-12-28,C1372,Headlamp,hardware,2,41.58,retail
+ORD-52731,2025-12-28,C1372,Headlamp,hardware,3,40.39,retail
+ORD-50618,2025-12-29,C1088,Trail Runner,footwear,2,123.66,web
+ORD-51526,2025-12-29,C1208,Expedition Pack 65L,packs,,337.01,web
+ORD-52005,2025-12-29,C1273,Daypack 22L,packs,5,112.31,Retail
+ORD-52288,2025-12-29,C1305,Daypack 22L,packs,6,108.04,web
+ORD-51523,2025-12-30,C1208,Expedition Pack 65L,packs,1,334.4,web
+ORD-51810,2025-12-30,C1252,Trail Runner,footwear,3,125.19,web
+ORD-51894,2025-12-30,C1260,Trekking Poles,hardware,7,95.28,web
+ORD-52487,2025-12-30,C1339,Down Jacket,outerwear,1,324.25,web
